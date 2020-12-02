@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 #### I'm a software engineer, tech enthusiast, blogger, and author who believes in helping others to make us happier and healthier.
 
