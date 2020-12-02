@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-#### I'm a software engineer, tech enthusiast, blogger, and author who believes in helping others to make us happier and healthier.
+#### I'm a software engineer, author, blogger, and tech enthusiast who believes in helping others to make us happier and healthier.
 
 - 🌱 My skills are C#, Javascript, Typescript, Angular, NgRx and RxJs
 - 💬 Ask me about **Software Engineering**, **Becoming an Author** and **Public Speaking**! 
