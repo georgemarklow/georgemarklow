@@ -1,5 +1,5 @@
 
-# Visual Studio Shortcuts
+# Visual Studio
 
 ## Summary
 
