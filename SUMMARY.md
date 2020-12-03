@@ -1,18 +1,18 @@
 # My Knowledge Base 🌿
 
-This is my personal wiki where I keep everything.
+This is my personal wiki that I'm growing.
 
 ## My values
 
 Things that are important to me:
 
-1. **Charity** 💸 Don't give money to charity now-and-then; pick a charity and make a commitment to give them a monthly donation. Take advantage of any charity matching scheme that your employer offers. Also take the time to deeply understand the issues that your charity addresses. Reach out to the charity and offer your time to write articles for their newsletter or do some fundraising.
+1. **Charity** 💸 Don't give money to charity now-and-then; pick a charity and make a commitment to give them a monthly donation. Take advantage of any donation-matching scheme that your employer offers to increase your contributions. Also, take the time to understand the issues that your charity addresses. These issues are often complex and it might help to do some background reading. Reach out to the charity and offer your time to write articles for their newsletter or do fundraising - nobody is a mindreader and you need to ask.
 
-2. **Volunteering** ✋ The number one reason to volunteer is that it makes you feel good about yourself. Sure, it also helps peoples lives and helps you to gain skills you might not use in your daily job - both also good reasons for volunteering. But the reason why making yourself feel good is the most important is because when that happens, you'll feel more confident and everybody around you will be able to see that. That attracts people. That also attracts career opportunities, as employers will want somebody like you around.
+2. **Volunteering** ✋ The number one reason to volunteer is that it makes you feel good about yourself. Sure, it improves peoples lives and helps you to gain skills that you might not use in your daily job - both also good reasons for volunteering. But making yourself feel good is the most important reason because when that happens, you'll feel more confident and everybody around you will be able to see that. That attracts people. That also attracts career opportunities, as employers will want somebody like you around.
 
-3. **Stopping Hate** ⛔️ Make a vow with yourself to report hate crime as soon as you see it, and don't just assume that somebody else will report it to be taken care. The first time I reported a hate crime was in summer 2020. It was a "cyclists dismount" sign that had hateful content spray painted on it. I was up for 2-3 months, right outside a local Tesco, where thousands of people passed by. It was very easy to report and the sign was cleaned up in two days. “The only thing necessary for the triumph of evil is for good men to do nothing.” ― Edmund Burke
+3. **Stopping Hate** ⛔️ Make a vow with yourself to report hate crime as soon as you see it, and don't just assume that somebody else will report it to be taken care. The first time I reported a hate crime was in summer 2020. It was a "cyclists dismount" sign that had hateful content spray-painted on it. I was up for 2-3 months, right outside a local Tesco, where thousands of people passed by. It took just a few minutes of my time and the sign was cleaned up two days later. “The only thing necessary for the triumph of evil is for good men to do nothing.” ― Edmund Burke
 
-4. **Financial Security** 📈 Writing a budget makes you feel more powerful, even if your finances are not great. Its important to know exactly how much is coming in and out and on what dates. If you have debt, know the balance of that debt by the end of each year and find out the month and year when the debt will be paid off. Have a 6-month emergency fund, which will reduce your anxiety going into work and in life in general. Make sure that you have the  protections in place so that if you suddendly become ill, you know things are going to be taken care of financially. Have insurance so that if you die, or your partner dies, that you and your children are going to be looked after. 
+4. **Financial Security** 📈 Writing a budget makes you feel more powerful, even if your finances are not great. Its important to know exactly how much is coming in and out and on what dates. If you have debt, know the balance of that debt by the end of each year and find out the month and year when the debt will be paid off. Have a 6-month emergency fund, which will reduce your anxiety going into work and in life in general. Make sure that you have the protections in place so that if you suddendly become ill, you know things are going to be taken care of financially. Have insurance so that if you die, or your partner dies, that you and your children are going to be looked after. 
 
 
 ## Summary
