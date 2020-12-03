@@ -5,6 +5,6 @@
 - ✋ My values are [here](https://github.com/georgemarklow/georgemarklow/blob/main/README.md)
 - 🌱 My skills are C#, Javascript, Typescript, Angular, NgRx and RxJs
 - 💬 Ask me about **Software Engineering**, **Becoming an Author** and **Public Speaking**! 
-- :memo: Digital Handbook: I maintain a [personal Handbook](https://github.com/georgemarklow/personal/) where I store important notes, links and other interesting stuff. 
+- :memo: Digital Handbook: I maintain a [personal Handbook](https://github.com/georgemarklow/georgemarklow/) where I store important notes, links and other interesting stuff. 
 
 More about me on [my medium site](https://marklowg.medium.com/)!
