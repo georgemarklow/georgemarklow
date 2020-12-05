@@ -18,6 +18,7 @@ Things that are important to me:
 ## Summary
 
 - [Notes](notes/index.md)
+  - [Angular](notes/angular/index.md)
   - [APIs](notes/api/index.md)
   - [C#](notes/c-sharp/index.md)
   - [CSS](notes/css/index.md)
