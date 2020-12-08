@@ -2,8 +2,18 @@
 # Javascript
 
 ## Summary
+- [Classes](https://javascript.info/classes)
+  - [Class basic syntax](https://javascript.info/class)
+  - [Class inheritance](https://javascript.info/class-inheritance)
+  - [Static properties and methods](https://javascript.info/static-properties-methods)
+  - [Private and protected properties and methods](https://javascript.info/private-protected-properties-methods)
+  - [Extending built-in classes](https://javascript.info/extend-natives)
+  - [Class checking: "instanceof"](https://javascript.info/instanceof)
+  - [Mixins](https://javascript.info/mixins)
 
 ## Best Practices
 
 ## Useful links
 - [Javascript Module Pattern](https://medium.com/technofunnel/data-hiding-with-javascript-module-pattern-62b71520bddd)
+- [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+- [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
