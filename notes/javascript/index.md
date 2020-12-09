@@ -21,3 +21,4 @@
 - [Waiting on Multiple Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
 - [A simple guide to help you understand closures in JavaScript](https://medium.com/@prashantramnyc/javascript-closures-simplified-d0d23fa06ba4)
 - [Understand Closure in Javascript](https://medium.com/tensult/understand-closure-in-javascript-ebba46385ecf)
+- [Learn JavaScript Closures with Code Examples](https://www.freecodecamp.org/news/lets-learn-javascript-closures-66feb44f6a44/)
