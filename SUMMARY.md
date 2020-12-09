@@ -21,7 +21,7 @@ Things that are important to me:
 
 ## Public Engagement
 
-- "Careers in Software Public Lecture": A webinar I'm doing to 
+- "Careers in Software Engineering": A webinar I'm doing to 
   - 17 Nov 2020: Department of Computing, **University of Oxford** 
   - 31 Nov 2020: Department of Mathematics, **University College London** 
 
