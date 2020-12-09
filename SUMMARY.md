@@ -14,6 +14,17 @@ Things that are important to me:
 
 4. **Financial Security** 📈 Writing a budget makes you feel more powerful, even if your finances are right now not in a great state. Its important to know exactly how much is coming in and out and on what dates. If you have debt, know the balance of that debt by the end of each year and find out the month and year when the debt will be paid off. Have a 6-month emergency fund, which will reduce your anxiety going into work and in life in general. Make sure that you have the protections in place so that if you suddendly become ill, you know things are going to be taken care of financially. Have insurance so that if you die, or your partner dies, that you and your children are going to be looked after. 
 
+## Publications
+
+
+## Articles
+- [Medium.com](https://marklowg.medium.com/)
+  - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
+  - [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
+  - [Creating a Personal Knowledge Base on Github](https://marklowg.medium.com/creating-a-personal-knowledgebase-on-github-d1d8bb9222a4)
+  - [Using Quizlet to Memorise Commands, IDE Shortcuts, and other things for Software Engineers](https://marklowg.medium.com/using-quizlet-to-memorise-commands-ide-shortcuts-and-other-things-for-software-engineers-cf110465d067)
+  - [Algorithms in Colour…Fun for the Whole Family!](https://marklowg.medium.com/algorithms-in-colour-fun-for-the-whole-family-eb18dbb8f55a)
+
 
 ## Summary
 
