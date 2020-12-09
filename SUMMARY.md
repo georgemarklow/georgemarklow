@@ -29,6 +29,7 @@ Things that are important to me:
   - [Moq](notes/moq/index.md)
   - [NUnit](notes/nunit/index.md)
   - [Postman](notes/postman/index.md)
+  - [Protractor](notes/protractor/index.md)
   - [RxJs](notes/rxjs/index.md)
   - [VS Code](notes/vs-code/index.md)
   - [Visual Studio Shortcuts](notes/visual-studio-shortcuts/index.md)
