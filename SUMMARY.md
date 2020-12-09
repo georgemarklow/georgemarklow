@@ -15,7 +15,15 @@ Things that are important to me:
 4. **Financial Security** 📈 Writing a budget makes you feel more powerful, even if your finances are right now not in a great state. Its important to know exactly how much is coming in and out and on what dates. If you have debt, know the balance of that debt by the end of each year and find out the month and year when the debt will be paid off. Have a 6-month emergency fund, which will reduce your anxiety going into work and in life in general. Make sure that you have the protections in place so that if you suddendly become ill, you know things are going to be taken care of financially. Have insurance so that if you die, or your partner dies, that you and your children are going to be looked after. 
 
 ## Books
-- [Best Practices for Software Engineers, A Soft-Skills Guide for Junior Developers, ISBN: 979-8698789635](https://www.amazon.co.uk/Best-Practices-Software-Engineers-Soft-Skills-ebook/dp/B08L17JZCH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1606414420&sr=1-1-69f2aa40-4718-4485-ba0d-6c4119696677)
+| Book      | |
+| ----------- | ----------- |
+| [Best Practices for Software Engineers, A Soft-Skills Guide for Junior Developers, ISBN: 979-8698789635](https://www.amazon.co.uk/Best-Practices-Software-Engineers-Soft-Skills-ebook/dp/B08L17JZCH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1606414420&sr=1-1-69f2aa40-4718-4485-ba0d-6c4119696677)  | <img src="https://m.media-amazon.com/images/I/31OLdbnU-uL.jpg" width="100">        |
+
+# Public Engagement
+
+- "Careers in Software Public Lecture": A webinar I'm doing to 
+  - 17 Nov 2020: Department of Computing, University of Oxford 
+  - 31 Nov 2020: Department of Mathematics, University College London 
 
 ## Articles
 - [Medium.com](https://marklowg.medium.com/)
