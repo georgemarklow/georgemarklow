@@ -20,3 +20,4 @@
 - [Async Arrow Functions](https://stackoverflow.com/questions/42964102/syntax-for-async-arrow-function)
 - [Waiting on Multiple Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
 - [A simple guide to help you understand closures in JavaScript](https://medium.com/@prashantramnyc/javascript-closures-simplified-d0d23fa06ba4)
+- [Understand Closure in Javascript](https://medium.com/tensult/understand-closure-in-javascript-ebba46385ecf)
