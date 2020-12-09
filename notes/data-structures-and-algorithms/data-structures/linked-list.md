@@ -2,6 +2,8 @@
 
 ## Questions
 
+(ask questions from reading book/blogs, provide answer below)
+
 ## Code
 
 ## Links
