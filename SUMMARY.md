@@ -26,7 +26,7 @@ Things that are important to me:
   - 31 Nov 2020: Department of Mathematics, **University College London** 
 
 ## Articles
-- [Medium.com](https://marklowg.medium.com/)
+- Medium.com
   - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
   - [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
   - [Creating a Personal Knowledge Base on Github](https://marklowg.medium.com/creating-a-personal-knowledgebase-on-github-d1d8bb9222a4)
