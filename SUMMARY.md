@@ -25,7 +25,7 @@ Things that are important to me:
   - 17 Nov 2020: **University of Oxford**, Department of Computing
   - 31 Nov 2020: **University College London**, Department of Mathematics
 
-## Articles I've Published
+## Articles Published
 
 - Medium.com
   - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
