@@ -25,7 +25,8 @@ Things that are important to me:
   - 17 Nov 2020: **University of Oxford**, Department of Computing
   - 31 Nov 2020: **University College London**, Department of Mathematics
 
-## Articles
+## Articles I've Published
+
 - Medium.com
   - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
   - [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
@@ -33,7 +34,7 @@ Things that are important to me:
   - [Using Quizlet to Memorise Commands, IDE Shortcuts, and other things for Software Engineers](https://marklowg.medium.com/using-quizlet-to-memorise-commands-ide-shortcuts-and-other-things-for-software-engineers-cf110465d067)
   - [Algorithms in Colour…Fun for the Whole Family!](https://marklowg.medium.com/algorithms-in-colour-fun-for-the-whole-family-eb18dbb8f55a)
 
-## Summary
+## Notes
 
 - [Notes](notes/index.md)
   - [Angular](notes/angular/index.md)
