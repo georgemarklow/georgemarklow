@@ -2,6 +2,8 @@
 
 This is my personal wiki that I'm growing.
 
+<br/>
+
 ## My values
 
 Things that are important to me:
@@ -14,16 +16,22 @@ Things that are important to me:
 
 4. **Financial Security** 📈 Writing a budget makes you feel more powerful, even if your finances are right now not in a great state. Its important to know exactly how much is coming in and out and on what dates. If you have debt, know the balance of that debt by the end of each year and find out the month and year when the debt will be paid off. Have a 6-month emergency fund, which will reduce your anxiety going into work and in life in general. Make sure that you have the protections in place so that if you suddendly become ill, you know things are going to be taken care of financially. 
 
+<br/>
+
 ## Books
 | Title      | |
 | ----------- | ----------- |
 | [Best Practices for Software Engineers, A Soft-Skills Guide for Junior Developers, ISBN: 979-8698789635](https://www.amazon.co.uk/Best-Practices-Software-Engineers-Soft-Skills-ebook/dp/B08L17JZCH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1606414420&sr=1-1-69f2aa40-4718-4485-ba0d-6c4119696677)  | <img src="https://m.media-amazon.com/images/I/31OLdbnU-uL.jpg" width="100">        |
+
+<br/>
 
 ## Public Engagement
 
 - "Careers in Software Engineering": A webinar I'm doing to advise students looking to become developers.
   - 17 Nov 2020: **University of Oxford**, Department of Computing
   - 31 Nov 2020: **University College London**, Department of Mathematics
+
+<br/>
 
 ## Articles Published
 
@@ -39,6 +47,8 @@ Things that are important to me:
 - [Creating a Personal Knowledge Base on Github](https://marklowg.medium.com/creating-a-personal-knowledgebase-on-github-d1d8bb9222a4)
 - [Using Quizlet to Memorise Commands, IDE Shortcuts, and other things for Software Engineers](https://marklowg.medium.com/using-quizlet-to-memorise-commands-ide-shortcuts-and-other-things-for-software-engineers-cf110465d067)
 - [Algorithms in Colour…Fun for the Whole Family!](https://marklowg.medium.com/algorithms-in-colour-fun-for-the-whole-family-eb18dbb8f55a)
+
+<br/>
 
 ## Notes
 
