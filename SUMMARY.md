@@ -27,8 +27,13 @@ Things that are important to me:
 
 ## Articles Published
 
-- Medium.com
+- Javascript
+  - [Part 1: Strings](https://marklowg.medium.com/javascript-drills-part-1-strings-2acdfe9727e0)
+  
+- ElasticStack
   - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
+  
+- Misc
   - [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
   - [Creating a Personal Knowledge Base on Github](https://marklowg.medium.com/creating-a-personal-knowledgebase-on-github-d1d8bb9222a4)
   - [Using Quizlet to Memorise Commands, IDE Shortcuts, and other things for Software Engineers](https://marklowg.medium.com/using-quizlet-to-memorise-commands-ide-shortcuts-and-other-things-for-software-engineers-cf110465d067)
