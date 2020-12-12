@@ -27,8 +27,9 @@ Things that are important to me:
 
 ## Articles Published
 
-- Javascript
-  - [Part 1: Strings](https://marklowg.medium.com/javascript-drills-part-1-strings-2acdfe9727e0)
+#### Javascript
+
+- [Part 1: Strings](https://marklowg.medium.com/javascript-drills-part-1-strings-2acdfe9727e0)
   
 - ElasticStack
   - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
