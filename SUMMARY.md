@@ -33,7 +33,7 @@ Things that are important to me:
 
 <br/>
 
-## Articles Published
+## Articles I've Published
 
 #### Javascript
 - [Part 1: Strings](https://marklowg.medium.com/javascript-drills-part-1-strings-2acdfe9727e0)
