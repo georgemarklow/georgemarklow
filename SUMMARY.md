@@ -29,6 +29,7 @@ Things that are important to me:
 
 #### Javascript
 - [Part 1: Strings](https://marklowg.medium.com/javascript-drills-part-1-strings-2acdfe9727e0)
+- [Part 2: Numbers](https://marklowg.medium.com/javascript-drills-part-2-numbers-c8de40744c3f)
   
 #### ElasticStack
 - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
