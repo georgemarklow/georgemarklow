@@ -60,6 +60,49 @@ GET /car
 /users/123/orders/0001 <- specific order of a specific user
 ```
 
+#### Filtering, sorting, paging, and field selection
+
+- Filtering - to narrow down the query results by specific parameters, eg. creation date, or country
+- Sorting - allows sorting the results ascending or descending by a chosen parameter or parameters, eg. by date
+- Paging - uses “limit” in order to narrow down the number of results shown to a specific number
+
+Filtering:
+```
+GET /users?country=USA
+GET /users?creation_date=2019-11-11
+GET /users?creation_date=2019-11-11
+```
+Sorting:
+```
+GET /users?sort=birthdate_date:asc
+GET /users?sort=birthdate_date:desc
+```
+Paging:
+```
+GET /users?limit=100
+GET /users?offset=2
+```
+All together:
+```
+GET /users?country=USA&creation_date=2019-11-11&sort=birthdate_date:desc&limit=100&offset=2
+```
+
+#### Versioning
+
+Examples of endpoint URI versioning:
+
+| Example      | Description                                                                         |
+| ----------- | -----------                                                                         |
+| https://us6.api.mailchimp.com/3.0/         | major + minor version indication               |
+| https://api.stripe.com/v1/         | major version indication only               |
+| https://developer.github.com/v3/         | major version indication only               |
+| https://us6.api.mailchimp.com/3.0/         | date based indication               |
+
+#### API Documentation
+
+#### Use SSL/TLS
+
+
 #### HTTP Codes
 
 | Code        | Name| Description |
