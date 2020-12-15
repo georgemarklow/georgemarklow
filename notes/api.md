@@ -100,6 +100,8 @@ Examples of endpoint URI versioning:
 
 #### API Documentation
 
+Example: https://docs.deribit.com/v1/
+
 #### Use SSL/TLS
 
 
