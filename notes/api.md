@@ -73,8 +73,7 @@ GET /car
 | 403 | Forbidden | The client does not have access rights to the content; that is, it is unauthorized, so the server is refusing to give the requested resource. Unlike 401, the client's identity is known to the server. |
 | 404 | Not Found | The server can not find the requested resource. |
 | 405 | Method Not Allowed | The request method is known by the server but has been disabled and cannot be used. For example, an API may forbid DELETE-ing a resource. The two mandatory methods, GET and HEAD, must never be disabled and should not return this error code. |
-
-| 500  | Internal Server Error |  |
+| 500  | Internal Server Error | The server has encountered a situation it doesn't know how to handle. |
 | 501 | Not Implemented | The request method is not supported by the server and cannot be handled. The only methods that servers are required to support (and therefore that must not return this code) are GET and HEAD. |
 | 504  | Gateway Timeout | This error response is given when the server is acting as a gateway and cannot get a response in time. |
 
