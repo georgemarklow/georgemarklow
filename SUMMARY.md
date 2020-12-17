@@ -53,6 +53,19 @@ Things that are important to me:
 
 <br/>
 
+## Certifications
+
+- IBM Blockchain Essentials
+- IBM Blockchain Foundation Developer
+- Oracle Certified Associate, Java SE 8 Programmer
+- Microsoft Exam 762: Developing SQL Databases
+- Microsoft Exam 70-761: Querying Data with Transact-SQL
+- Microsoft Exam 98-364 : Database Fundamentals
+- Microsoft Exam 70-483 : Programming in C#
+- Amazon Web Services Cloud Practitioner
+
+<br/>
+
 ## Notes
 
 - [Notes](notes/index.md)
