@@ -12,6 +12,7 @@
   - [Mixins](https://javascript.info/mixins)
 
 ## Best Practices
+- [JavaScript Tips, Tricks, and Best Practices](https://medium.com/javascript-in-plain-english/common-hacks-in-javascript-5d72a6fcdac)
 
 ## Useful links
 - [Javascript Module Pattern](https://medium.com/technofunnel/data-hiding-with-javascript-module-pattern-62b71520bddd)
