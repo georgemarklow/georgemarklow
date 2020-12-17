@@ -40,6 +40,7 @@ Things that are important to me:
 - [Part 2: Numbers](https://marklowg.medium.com/javascript-drills-part-2-numbers-c8de40744c3f)
 - [Part 3: Functions and Control Flow](https://marklowg.medium.com/javascript-drills-part-3-functions-and-control-flow-ec38e1eca8cd)
 - [Part 4: Arrays](https://marklowg.medium.com/javascript-drills-part-4-arrays-1f7ecd6de035)
+- [Part 5: Math Library](https://marklowg.medium.com/javascript-drills-part-5-math-library-b9077f1a1f70)
   
 #### ElasticStack
 - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
