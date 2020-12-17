@@ -23,3 +23,4 @@
 - [Understand Closure in Javascript](https://medium.com/tensult/understand-closure-in-javascript-ebba46385ecf)
 - [Learn JavaScript Closures with Code Examples](https://www.freecodecamp.org/news/lets-learn-javascript-closures-66feb44f6a44/)
 - [Understanding Null, Undefined and Nan](https://codeburst.io/understanding-null-undefined-and-nan-b603cb74b44c)
+- [5 JavaScript Projects You Should Build As a Front-End Developer](https://medium.com/javascript-in-plain-english/5-javascript-projects-you-should-build-as-a-front-end-developer-57318b710344)
