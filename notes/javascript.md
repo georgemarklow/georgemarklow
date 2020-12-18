@@ -29,3 +29,4 @@
 - [10 JavaScript One-liners You Have Got to Add Your Arsenal as a Developer](https://medium.com/dailyjs/10-javascript-oneliners-you-have-got-to-add-your-arsenal-as-a-developer-b733cbb973b2)
 - [20 JavaScript Shorthand Techniques that will save your time](https://medium.com/javascript-in-plain-english/20-javascript-shorthand-techniques-that-will-save-your-time-f1671aab405f)
 - [4 Practical Use Cases of Using filter() in JavaScript](https://medium.com/javascript-in-plain-english/4-practical-use-cases-of-using-filter-in-javascript-db46e2ec83b2)
+- [How To Add, Modify and Delete JavaScript Object Literal Properties](https://medium.com/javascript-in-plain-english/add-modify-and-delete-properties-from-javascript-object-7ad07e7be1bb)
