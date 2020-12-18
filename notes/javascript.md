@@ -27,3 +27,4 @@
 - [5 JavaScript Projects You Should Build As a Front-End Developer](https://medium.com/javascript-in-plain-english/5-javascript-projects-you-should-build-as-a-front-end-developer-57318b710344)
 - [9 Extremely Powerful JavaScript Hacks](https://medium.com/javascript-in-plain-english/9-extremely-powerful-javascript-hacks-eed8ed11af5)
 - [10 JavaScript One-liners You Have Got to Add Your Arsenal as a Developer](https://medium.com/dailyjs/10-javascript-oneliners-you-have-got-to-add-your-arsenal-as-a-developer-b733cbb973b2)
+- [20 JavaScript Shorthand Techniques that will save your time](https://medium.com/javascript-in-plain-english/20-javascript-shorthand-techniques-that-will-save-your-time-f1671aab405f)
