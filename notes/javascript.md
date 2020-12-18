@@ -30,3 +30,4 @@
 - [20 JavaScript Shorthand Techniques that will save your time](https://medium.com/javascript-in-plain-english/20-javascript-shorthand-techniques-that-will-save-your-time-f1671aab405f)
 - [4 Practical Use Cases of Using filter() in JavaScript](https://medium.com/javascript-in-plain-english/4-practical-use-cases-of-using-filter-in-javascript-db46e2ec83b2)
 - [How To Add, Modify and Delete JavaScript Object Literal Properties](https://medium.com/javascript-in-plain-english/add-modify-and-delete-properties-from-javascript-object-7ad07e7be1bb)
+- [5 Advanced JavaScript Techniques You Should Know](https://medium.com/javascript-in-plain-english/5-advanced-javascript-techniques-you-should-know-4362e26f2ca8)
