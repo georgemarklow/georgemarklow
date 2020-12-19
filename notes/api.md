@@ -124,3 +124,4 @@ Example: https://docs.deribit.com/v1/
 
 ## Useful links
 - [What Every Web Developer Should Know About HTTP](https://www.amazon.co.uk/Every-Developer-Should-OdeToCode-Programming-ebook/dp/B0076Z6VMI)
+- [What Every Developer Must Know About HTTPS](https://www.pluralsight.com/courses/https-every-developer-must-know)
