@@ -127,6 +127,7 @@ Source: [link](https://www.freecodecamp.org/news/10-important-git-commands-that-
 
 ## Useful links
 
+- [Getting Started with Git](https://app.pluralsight.com/library/courses/getting-started-git/table-of-contents)
 - [Reference](https://git-scm.com/docs)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [Git branching model](https://git-scm.com/about)
