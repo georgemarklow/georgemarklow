@@ -27,9 +27,16 @@ Things that are important to me:
 
 ## Public Engagement
 
-"Careers in Software Engineering": A webinar I'm doing to advise students looking to become developers.
+### Careers in Software Engineering
+A webinar I'm doing to advise students looking to become developers:
+
 - 17 Nov 2020: **University of Oxford**, Department of Computing
 - 31 Nov 2020: **University College London**, Department of Mathematics
+
+### Inspiring the Future
+https://www.inspiringthefuture.org/
+<br/>
+Volunteer speaker at schools and colleges regarding careers in software and answering questions from audiences.
 
 <br/>
 
