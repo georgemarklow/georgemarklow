@@ -84,6 +84,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 - [HTML](notes/html.md)
 - [Javascript](notes/javascript.md)
 - [Moq](notes/moq.md)
+- [NgRx](notes/ngrx.md)
 - [NUnit](notes/nunit.md)
 - [Postman](notes/postman.md)
 - [Protractor](notes/protractor.md)
