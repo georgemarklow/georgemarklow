@@ -21,6 +21,14 @@ Open the terminal:
 | clear   |         | Clears terminal out            | 
 | mkdir   | mkdir <folder name>        |  Make directory           | 
 | touch   | touch new-file.html        |     Create file inside folder        | 
+| nano    |         |  Edit file          |
+|     |  control + X       |  Exit editor          |
 | open    | open new-file.html       |   Open a file or folder          |
 | history    |         |  Show all commands that have been run in the current terminal session           |
 | cat    | cat /Desktop/new-folder/new-file        |  See contents of file          |
+| rm    |         |  Remove file          |
+| rmdir    |         |  Remove directory          |
+  
+
+## Drill
+
