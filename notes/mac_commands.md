@@ -12,8 +12,11 @@ Open the terminal:
 
 | Command     | Example     | Description |
 | ----------- | ----------- | ----------- |
-| pwd        | Title       |             | 
-| cd   | Text        |             | 
+| pwd        | /Users/georgemarklow             |  Print working directory           | 
+| cd   | cd or cd ~        | Takes us to the home directory            | 
+| | cd <folder name> | Takes us forward one step to the folder that is typed in. | 
+| | cd .. | Moves us back one level to the parent folder. |
+|  | cd ../.. | Moves us back two levels. Add more /.. for each level we want to navigate up. |
 | ls   | Text        |             | 
 | clear   | Text        |             | 
 | mkdir   | Text        |             | 
