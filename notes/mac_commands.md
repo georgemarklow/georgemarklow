@@ -2,11 +2,9 @@
 
 ## Summary
 
-[10 Need to Know Mac Terminal Commands](https://youtu.be/jpXX3W0Qfhs)
-
 Open the terminal:
-- Cmd + Space
-- Terminal
+1. Cmd + Space
+2. Terminal
 
 <br/>
 
