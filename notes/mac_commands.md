@@ -43,6 +43,9 @@ Open the terminal:
 ➜  new-folder2 nano new-file.html 
 'Hello World' + Control+X
 
+➜  new-folder2 cat new-file.html 
+Hello World!
+
 ➜  new-folder2 open new-file.html
 ➜  new-folder2 pwd
 /Users/georgemarklow/new-folder/new-folder2
