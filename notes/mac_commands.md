@@ -26,6 +26,7 @@ Open the terminal:
 | cat    | cat /Desktop/new-folder/new-file        |  See contents of file          |
 | rm    |         |  Remove file          |
 | rmdir    |         |  Remove directory          |
+|     |  rm -rf some_dir       |  Force remove directory          |
   
 <br/>
 
