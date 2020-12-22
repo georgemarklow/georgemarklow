@@ -2,6 +2,14 @@
 
 ## Summary
 
+[10 Need to Know Mac Terminal Commands](https://youtu.be/jpXX3W0Qfhs)
+
+Open the terminal:
+- Cmd + Space
+- Terminal
+
+<br/>
+
 | Command     | Example     | Description |
 | ----------- | ----------- | ----------- |
 | pwd        | Title       |             | 
