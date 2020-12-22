@@ -29,6 +29,49 @@ Open the terminal:
 | rm    |         |  Remove file          |
 | rmdir    |         |  Remove directory          |
   
+<br/>
 
 ## Drill
 
+```
+➜  ~ pwd
+/Users/georgemarklow
+
+➜  ~ mkdir new-folder
+➜  ~ cd new-folder
+➜  new-folder mkdir new-folder2
+➜  new-folder cd new-folder2 
+➜  new-folder2 touch new-file.html
+➜  new-folder2 nano new-file.html 
+'Hello World' + Control+X
+
+➜  new-folder2 open new-file.html
+➜  new-folder2 pwd
+/Users/georgemarklow/new-folder/new-folder2
+
+➜  new-folder2 cd ~
+➜  ~ pwd 
+/Users/georgemarklow
+
+➜  ~ cd new-folder/new-folder2
+➜  new-folder2 cd ../
+➜  new-folder pwd
+/Users/georgemarklow/new-folder
+
+➜  new-folder cd new-folder2
+➜  new-folder2 cd ../..
+➜  ~ pwd
+/Users/georgemarklow
+
+➜  ~ cd new-folder/new-folder2
+➜  new-folder2 rm new-file.html
+➜  new-folder2 rmdir new-folder2
+rmdir: new-folder2: No such file or directory
+
+➜  new-folder2 cd ../
+➜  new-folder rmdir new-folder2
+➜  new-folder cd ~  
+➜  ~ rmdir new-folder
+➜  ~ cd new-folder
+cd: no such file or directory: new-folder
+```
