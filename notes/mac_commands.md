@@ -17,11 +17,10 @@ Open the terminal:
 | | cd <folder name> | Takes us forward one step to the folder that is typed in. | 
 | | cd .. | Moves us back one level to the parent folder. |
 |  | cd ../.. | Moves us back two levels. Add more /.. for each level we want to navigate up. |
-| ls   | Text        |             | 
-| clear   | Text        |             | 
-| mkdir   | Text        |             | 
-| touch   | Text        |             | 
-| open    | Text        |             |
-| history    | Text        |             |
-| cat    | Text        |             |
-| cat    | Text        |             |
+| ls   |         | Show everything in current folder            | 
+| clear   |         | Clears terminal out            | 
+| mkdir   | mkdir <folder name>        |  Make directory           | 
+| touch   | touch new-file.html        |     Create file inside folder        | 
+| open    | open new-file.html       |   Open a file or folder          |
+| history    |         |  Show all commands that have been run in the current terminal session           |
+| cat    | cat new-file        |  See contents of file          |
