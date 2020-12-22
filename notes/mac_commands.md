@@ -23,4 +23,4 @@ Open the terminal:
 | touch   | touch new-file.html        |     Create file inside folder        | 
 | open    | open new-file.html       |   Open a file or folder          |
 | history    |         |  Show all commands that have been run in the current terminal session           |
-| cat    | cat new-file        |  See contents of file          |
+| cat    | cat /Desktop/new-folder/new-file        |  See contents of file          |
