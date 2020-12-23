@@ -32,3 +32,6 @@
 - [How To Add, Modify and Delete JavaScript Object Literal Properties](https://medium.com/javascript-in-plain-english/add-modify-and-delete-properties-from-javascript-object-7ad07e7be1bb)
 - [5 Advanced JavaScript Techniques You Should Know](https://medium.com/javascript-in-plain-english/5-advanced-javascript-techniques-you-should-know-4362e26f2ca8)
 - [FUNCTIONAL JAVASCRIPT: FIVE WAYS TO CALCULATE AN AVERAGE WITH ARRAY REDUCE](https://jrsinclair.com/articles/2019/five-ways-to-average-with-js-reduce/)
+- [JavaScript ES6 Modules Explained With Examples](https://medium.com/javascript-in-plain-english/javascript-es6-modules-explained-with-examples-3a85e693d56e)
+- [24 Modern ES6 Code Snippets to Solve Practical JavaScript Problems](https://medium.com/swlh/24-modern-es6-code-snippets-to-solve-practical-js-problems-3609f301859e)
+- [JavaScript Decorators From Scratch](https://blog.bitsrc.io/javascript-decorators-from-scratch-c4cfd6c33d70)
