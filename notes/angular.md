@@ -56,3 +56,5 @@ npm install -g @angular/cli@{latest or wanted version}
 ## Best Practices
 
 ## Useful links
+
+- [Angular Questions](https://medium.com/javascript-in-plain-english/tricky-interview-questions-in-angular-2020-part-3-659c0bc81a9d)
