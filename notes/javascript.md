@@ -35,3 +35,4 @@
 - [JavaScript ES6 Modules Explained With Examples](https://medium.com/javascript-in-plain-english/javascript-es6-modules-explained-with-examples-3a85e693d56e)
 - [24 Modern ES6 Code Snippets to Solve Practical JavaScript Problems](https://medium.com/swlh/24-modern-es6-code-snippets-to-solve-practical-js-problems-3609f301859e)
 - [JavaScript Decorators From Scratch](https://blog.bitsrc.io/javascript-decorators-from-scratch-c4cfd6c33d70)
+- [15 Rules For Writing Clean JavaScript](https://medium.com/javascript-in-plain-english/15-rules-for-writing-clean-javascript-8e2b2b426515)
