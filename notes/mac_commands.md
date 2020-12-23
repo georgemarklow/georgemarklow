@@ -27,6 +27,7 @@ Open the terminal:
 | rm    |         |  Remove file          |
 | rmdir    |         |  Remove directory          |
 |     |  rm -rf some_dir       |  Force remove directory          |
+|     |  rm -fr .git       |  Remove git directory          |
   
 <br/>
 
