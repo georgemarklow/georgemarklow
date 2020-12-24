@@ -6,6 +6,41 @@
 
 [Find subarray with given sum](#find-subarray-with-given-sum)
 
+## Notes on loops
+
+Reminder to check correct equality **<** vs. **<=** comparing j and n.
+
+```
+len = 3
+for (i=0; i < len; i++) {
+  for (j = i + 1; j < len; j++) {
+    console.log(`(${i},${j})`)
+  }
+}
+
+(0,1)
+(0,2)
+(1,2)
+```
+
+vs.
+
+```
+len = 3
+for (i=0; i < len; i++) {
+  for (j = i + 1; j <= len; j++) {
+    console.log(`(${i},${j})`)
+  }
+}
+
+(0,1)
+(0,2)
+(0,3)
+(1,2)
+(1,3)
+(2,3)
+```
+
 ## <a name="find-subarray-with-given-sum"></a> Find subarray with given sum
 
 Find a continuous subarray which adds to a given number.
