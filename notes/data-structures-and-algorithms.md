@@ -4,8 +4,8 @@
 
 #### Arrays
 
-[Find subarray with given sum](#find-subarray-with-given-sum)
-[Count the triplets](count-the-triplets)
+- [Find subarray with given sum](#find-subarray-with-given-sum)
+- [Count the triplets](#count-the-triplets)
 
 ## <a name="find-subarray-with-given-sum"></a>Find subarray with given sum
 
