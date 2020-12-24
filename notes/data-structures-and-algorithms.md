@@ -2,10 +2,6 @@
 
 ## Table of Contents
 
-[How is a bubble sort algorithm implemented](#how-is-a-bubble-sort-algorithm-implemented)
+[1 How is a buttle sort algorithm implemented](#1)
 
-### 1 How is a buttle sort algorithm implemented
-
-[Link text](#some-id)
-
-# <a name="some-id"></a> DETAIL SECTION
+#### <a name="1"></a> 1 How is a buttle sort algorithm implemented
