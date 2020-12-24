@@ -10,34 +10,31 @@
 
 Find a continuous subarray which adds to a given number.
 
-```
-function sort(arr, n, sum) {
-  var curr_sum = 0;
-  for (let i = 0; i < n; i++) {
-    {
-      curr_sum = arr[i];
-      for (let j = i + 1; j <= n; j++) {
-        {
-          if (curr_sum === sum) {
-            var p = j - 1;
-            console.info("Sum found between indexes " + i + " and " + p);
-            return;
-          }
-          if (curr_sum > sum || j === n)
-            break;
-          curr_sum = curr_sum + arr[j];
-        };
-      }
-    };
-  }
-  console.info("No subarray found");
-  return 0;
-}
+1. Go through each element i in the array, starting a current sum variable
+2. From each element, iterate forward j until (a) sum === required or (b) sum > required i.e. break out to next i
+3. Keep a record of current sum in i loop
 
-const arr = [15, 2, 4, 8, 9, 5, 10, 23];
-const n = arr.length;
-const sum = 23;
-sort(arr, n, sum);   // Sum found between indexes 1 and 4 
+```
+def find(arr, n, sum): 
+    for i in range(n): 
+        curr_sum = arr[i] 
+        j = i + 1
+        while j <= n: 
+            if curr_sum == sum: 
+                print ("Sum found between") 
+                print("indexes % d and % d"%(i, j-1)) 
+                return
+            if curr_sum > sum or j == n: 
+                break
+            curr_sum = curr_sum + arr[j] 
+            j += 1
+    print ("No subarray found") 
+    return
+  
+arr = [15, 2, 4, 8, 9, 5, 10, 23] 
+n = len(arr) 
+sum = 23
+find(arr, n, sum)
 ```
 
 <br/>
