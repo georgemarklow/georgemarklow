@@ -36,3 +36,4 @@
 - [24 Modern ES6 Code Snippets to Solve Practical JavaScript Problems](https://medium.com/swlh/24-modern-es6-code-snippets-to-solve-practical-js-problems-3609f301859e)
 - [JavaScript Decorators From Scratch](https://blog.bitsrc.io/javascript-decorators-from-scratch-c4cfd6c33d70)
 - [15 Rules For Writing Clean JavaScript](https://medium.com/javascript-in-plain-english/15-rules-for-writing-clean-javascript-8e2b2b426515)
+- [The Difference Between The Spread Operator and The Rest Operator](https://medium.com/javascript-in-plain-english/the-difference-between-the-spread-operator-and-the-rest-operator-45c271393e5d)
