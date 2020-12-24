@@ -55,7 +55,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 - [Part 4: Arrays](https://marklowg.medium.com/javascript-drills-part-4-arrays-1f7ecd6de035)
 - [Part 5: Math Library](https://marklowg.medium.com/javascript-drills-part-5-math-library-b9077f1a1f70)
 - [Part 6: JSON](https://marklowg.medium.com/javascript-drills-part-6-json-b710d82a5168)
-- [Part 7: Classes and Objects(https://marklowg.medium.com/javascript-drills-part-7-classes-and-objects-be43eebe1c46)
+- [Part 7: Classes and Objects](https://marklowg.medium.com/javascript-drills-part-7-classes-and-objects-be43eebe1c46)
   
 #### ElasticStack
 - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
