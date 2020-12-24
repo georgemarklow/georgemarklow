@@ -39,3 +39,10 @@ const n = arr.length;
 const sum = 23;
 sort(arr, n, sum);   // Sum found between indexes 1 and 4 
 ```
+
+<br/>
+
+| Complexity      | Description |
+| ----------- | ----------- |
+| Space      | O(n^2) in worst case |
+| Time   | O(1) as constant extra space needed        |
