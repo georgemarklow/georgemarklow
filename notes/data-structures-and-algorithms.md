@@ -5,8 +5,9 @@
 #### Arrays
 
 [Find subarray with given sum](#find-subarray-with-given-sum)
+[Count the triplets](count-the-triplets)
 
-## <a name="find-subarray-with-given-sum"></a> Find subarray with given sum
+## <a name="find-subarray-with-given-sum"></a>Find subarray with given sum
 
 Find a continuous subarray which adds to a given number.
 
@@ -45,3 +46,5 @@ find(arr3, arr3.length, 0)   // not found
 | ----------- | ----------- |
 | Space      | O(n<sup>2</sup>) in worst case |
 | Time   | O(1) as constant extra space needed        |
+
+## <a name="count-the-triplets"></a>Count the triplets
