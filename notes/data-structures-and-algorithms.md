@@ -21,8 +21,7 @@ def find(arr, n, sum):
         j = i + 1
         while j <= n: 
             if curr_sum == sum: 
-                print ("Sum found between") 
-                print("indexes % d and % d"%(i, j-1)) 
+                print("Between indices % d and % d"%(i, j-1)) 
                 return
             if curr_sum > sum or j == n: 
                 break
