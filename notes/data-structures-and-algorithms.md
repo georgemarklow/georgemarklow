@@ -23,7 +23,7 @@ function find(arr, n, sum) {
     for (j = i + 1; j < n; j++) {
       curr_sum = curr_sum + arr[j]
       if (curr_sum === sum) {
-        console.log(`Between ${i} and ${j}`)
+        console.log(`Between indices ${i} and ${j}`)
         return
       }
       if (curr_sum > sum) break;
