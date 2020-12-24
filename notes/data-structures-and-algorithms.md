@@ -23,7 +23,7 @@ function find(arr, n, sum) {
     for (j = i + 1; j < n; j++) {
       curr_sum = curr_sum + arr[j]
       if (curr_sum === sum) {
-        console.log(`Between indices ${i} and ${j}`)
+        console.log(`between indices ${i} and ${j}`)
         return
       }
       if (curr_sum > sum) break;
@@ -36,9 +36,9 @@ arr1 = [1, 4, 20, 3, 10, 5]
 arr2 = [1, 4, 0, 0, 3, 10, 5]
 arr3 = [1, 4]
 
-find(arr1, arr1.length, 33)
-find(arr2, arr2.length, 7)
-find(arr3, arr3.length, 0)
+find(arr1, arr1.length, 33)  // between indices 2 and 4
+find(arr2, arr2.length, 7)   // between indices 1 and 4
+find(arr3, arr3.length, 0)   // not found
 ```
 
 <br/>
