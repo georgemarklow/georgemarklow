@@ -45,5 +45,5 @@ find(arr3, arr3.length, 0)   // not found
 
 | Complexity      | Description |
 | ----------- | ----------- |
-| Space      | O(n^2) in worst case |
+| Space      | O(n<sup>2</sup>) in worst case |
 | Time   | O(1) as constant extra space needed        |
