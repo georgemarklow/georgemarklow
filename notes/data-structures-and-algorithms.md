@@ -2,8 +2,9 @@
 
 ## Table of Contents
 
-### Arrays
+#### Arrays
 
 [Find subarray with given sum](#find-subarray-with-given-sum)
 
 #### <a name="find-subarray-with-given-sum"></a> Find subarray with given sum
+
