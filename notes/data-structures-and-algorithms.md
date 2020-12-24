@@ -6,6 +6,7 @@
 
 - [Find subarray with given sum](#find-subarray-with-given-sum)
 - [Count the triplets](#count-the-triplets)
+- [Kadane’s Algorithm (Largest Sum Contiguous Subarray)](#kadanes-algorithm)
 
 ## <a name="find-subarray-with-given-sum"></a>Find subarray with given sum
 
@@ -48,3 +49,5 @@ find(arr3, arr3.length, 0)   // not found
 | Time   | O(1) as constant extra space needed        |
 
 ## <a name="count-the-triplets"></a>Count the triplets
+
+## <a name="kadanes-algorithm"></a>Kadane’s Algorithm (Largest Sum Contiguous Subarray)
