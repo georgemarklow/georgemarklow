@@ -50,4 +50,34 @@ find(arr3, arr3.length, 0)   // not found
 
 ## <a name="count-the-triplets"></a>Count the triplets
 
+[Todo]
+
 ## <a name="kadanes-algorithm"></a>Kadane’s Algorithm (Largest Sum Contiguous Subarray)
+
+Find the sum of contiguous subarray within a one-dimensional array of numbers which has the largest sum.
+
+1. Look for all positive contiguous segments of the array
+2. Keep track of maximum sum contiguous segment among all positive segments
+3. Each time we get a positive sum compare it with max_so_far and update max_so_far if it is greater than max_so_far
+
+```
+function maxSubArraySum(a) {
+  size = a.length;
+  max_so_far = 0;
+  max_ending_here = 0;
+
+  for (i = 0; i < size; i++) {
+    max_ending_here = max_ending_here + a[i];
+    if (max_ending_here < 0) max_ending_here = 0;
+    else if (max_so_far < max_ending_here) max_so_far = max_ending_here
+  }
+  return max_so_far
+}
+
+a = [-2, -3, 4, -1, -2, 1, 5, -3];
+maxSubArraySum(a)   // 7
+```
+
+| Complexity      | Description |
+| ----------- | ----------- |
+| Time   | O(n)        |
