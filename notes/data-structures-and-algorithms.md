@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
-[1 How is a buttle sort algorithm implemented](#1)
+### Arrays
 
-#### <a name="1"></a> 1 How is a buttle sort algorithm implemented
+[Find subarray with given sum](#find-subarray-with-given-sum)
+
+#### <a name="find-subarray-with-given-sum"></a> Find subarray with given sum
