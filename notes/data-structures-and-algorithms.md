@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in C# and Javascript
+# Data Structures and Algorithms in Javascript
 
 ## Summary
 
