@@ -8,6 +8,8 @@
 - [Count the triplets](#count-the-triplets)
 - [Kadane’s Algorithm (Largest Sum Contiguous Subarray)](#kadanes-algorithm)
 
+<br/>
+
 ## <a name="find-subarray-with-given-sum"></a>Find subarray with given sum
 
 Find a continuous subarray which adds to a given number.
