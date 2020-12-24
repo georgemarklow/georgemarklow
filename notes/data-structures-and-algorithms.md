@@ -15,25 +15,28 @@ Find a continuous subarray which adds to a given number.
 3. Keep a record of current sum in i loop
 
 ```
-def find(arr, n, sum): 
-    for i in range(n): 
-        curr_sum = arr[i] 
-        j = i + 1
-        while j <= n: 
-            if curr_sum == sum: 
-                print("Between indices % d and % d"%(i, j-1)) 
-                return
-            if curr_sum > sum or j == n: 
-                break
-            curr_sum = curr_sum + arr[j] 
-            j += 1
-    print ("No subarray found") 
-    return
-  
-arr = [15, 2, 4, 8, 9, 5, 10, 23] 
-n = len(arr) 
-sum = 23
-find(arr, n, sum)
+function find(arr, n, sum) {
+  for (i = 0; i < n; i++) {
+    curr_sum = arr[i];
+    for (j = i + 1; j <= n; j++) {
+      curr_sum = curr_sum + arr[j]
+      if (curr_sum === sum) {
+        console.log(`Between ${i} and ${j}`)
+        return
+      }
+      if (curr_sum > sum) break;
+    }
+  }
+  console.log('not found')
+}
+
+arr1 = [1, 4, 20, 3, 10, 5] 
+arr2 = [1, 4, 0, 0, 3, 10, 5]
+arr3 = [1, 4]
+
+find(arr1, arr1.length, 33)
+find(arr2, arr2.length, 7)
+find(arr3, arr3.length, 0)
 ```
 
 <br/>
