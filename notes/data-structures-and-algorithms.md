@@ -1,7 +1,11 @@
 # Data Structures and Algorithms in Javascript
 
-## Summary
+## Table of Contents
 
-## Best Practices
+[How is a bubble sort algorithm implemented](#how-is-a-bubble-sort-algorithm-implemented)
 
-## Useful links
+### 1 How is a buttle sort algorithm implemented
+
+[Link text](#some-id)
+
+# <a name="some-id"></a> DETAIL SECTION
