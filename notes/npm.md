@@ -7,7 +7,7 @@
 | npm init |  | Create a new npm project/package  |
 | | -y  | Initialize default configuration |
 | npm i [package] |  | Install a package |
-| | -D flag | install as devDependency |
+| | -D | install as devDependency |
 || -g | install globally|
 
 ## Best Practices
