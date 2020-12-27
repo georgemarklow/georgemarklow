@@ -7,6 +7,7 @@
 - [Reverse words and letters in sentence](#reverse-words-and-letters-in-sentence)
 - [Print all permutations of a string](#print-all-permutations-of-string)
 - [Remove adjacent duplicates](#remove-adjacent-duplicates)
+- [Check if a string can be obtained by rotating another string 2 places](#string-rotate-2-places)
 
 <br/>
 
@@ -161,6 +162,19 @@ function remove(s, n) {
 
 text = 'DBAABDAB'
 remove(text, text.length);   // AB
+```
+
+<br/>
+
+## <a name="string-rotate-2-places"></a>Check if a string can be obtained by rotating another string 2 places
+
+#### Anti-Clockwise
+Input: string1 = “amazon”, string2 = “azonam”
+
+#### Clockwise
+Input: string1 = “amazon”, string2 = “onamaz”
+
+```
 ```
 
 <br/>
