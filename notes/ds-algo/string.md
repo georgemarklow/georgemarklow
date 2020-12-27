@@ -5,6 +5,7 @@
 - [Reverse letters in word](#reverse-word)
 - [Reverse words in sentence](#reverse-words-in-sentence)
 - [Reverse words and letters in sentence](#reverse-words-and-letters-in-sentence)
+- [Print all permutations of a string](#print-all-permutations-of-string)
 
 <br/>
 
@@ -87,4 +88,41 @@ function reverse(s) {
 }
 
 console.log(reverse('george william charles marklow'));  // wolkram selrahc mailliw egroeg
+```
+<br/>
+
+## <a name="print-all-permutations-of-string"></a>Print all permutations of a string
+
+```Javascript
+function permute(a, l, r) {
+  if (l === r) {
+    console.log(a);
+  } else {
+    for (let i = l; i < r + 1; i++) {
+      a = swap(a,l,i);
+      permute(a, l + 1, r);
+      a = swap(a,l,i);
+    }
+  }
+}
+
+function swap(a, i, j) {
+  charArray = a.split('');
+  temp = charArray[i];
+  charArray[i] = charArray[j];
+  charArray[j] = temp;
+  return charArray.join('');
+}
+
+text = 'ABC'
+n = text.length;
+permute(text, 0, n-1);
+
+// ABC
+// ACB
+// BAC
+// BCA
+// CBA
+// CAB
+
 ```
