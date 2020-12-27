@@ -8,6 +8,7 @@
 - [Print all permutations of a string](#print-all-permutations-of-string)
 - [Remove adjacent duplicates](#remove-adjacent-duplicates)
 - [Check if a string can be obtained by rotating another string 2 places](#string-rotate-2-places)
+- [Convert Roman Numerals](#roman-numerals)
 
 <br/>
 
@@ -194,6 +195,49 @@ function isRotated(str1, str2) {
 
 console.log(isRotated('amazon','azonam'));   // true
 console.log(isRotated('amazon','onamaz'));   // true
+```
+
+<br/>
+
+## <a name="roman-numerals"></a>Convert Roman Numerals
+
+```
+function value(r) {
+  switch(r) {
+    case 'I': return 1;
+    case 'V': return 5;
+    case 'X': return 10;
+    case 'L': return 50;
+    case 'C': return 100;
+    case 'D': return 500;
+    case 'M': return 1000;
+    default: return -1;
+  };
+}
+
+function convert(str) {
+  res = 0;
+  for (let i = 0; i < str.length; i++) {
+    s1 = value(str[i]);
+    if (i + 1 < str.length) {
+      s2 = value(str[i + 1])
+      if (s1 >= s2) {
+        res += s1;
+      } else {
+        res += s2 - s1;
+        i++;
+      }
+    } else {
+      res++;
+    }
+  }
+
+  return res;
+}
+
+console.log(convert('IX'));     // 9
+console.log(convert('XL'));     // 40
+console.log(convert('MCMIV'));  // 1904
 ```
 
 <br/>
