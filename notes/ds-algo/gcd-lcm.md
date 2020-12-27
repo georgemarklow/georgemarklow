@@ -3,7 +3,8 @@
 ## Table of Contents
 
 - [Find LCM of Two Numbers](#find-lcm-of-two-numbers)
-- [Find LCM of Given Array Elements](#find-lcm-of-given-array-elements)
+- [Find LCM of Array](#find-lcm-of-given-array-elements)
+- [Find GCD of Array](#find-gcd-of-given-array-elements)
 
 <br/>
 
@@ -58,4 +59,28 @@ for (let i = 2; i < l.length; i++) {
 }
 
 console.log(result);
+```
+
+<br/>
+
+## <a name="find-gcd-of-given-array-elements"></a>Find GCD of given array elements
+
+```
+function find_gcd(x, y) {
+  while(y) {
+    temp = x;
+    x = y;
+    y = temp % y;
+  }
+  return x;
+}
+
+l = [2,4,6,8,16];
+gcd = find_gcd(l[0], l[1]);
+
+for (let i = 2; i < i.length; i++) {
+  gcd = find_gcd(gcd, l[i]);
+}
+
+console.log(gcd);
 ```
