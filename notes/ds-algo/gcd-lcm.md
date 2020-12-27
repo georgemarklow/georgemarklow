@@ -5,6 +5,7 @@
 - [Find LCM of Two Numbers](#find-lcm-of-two-numbers)
 - [Find LCM of Array](#find-lcm-of-given-array-elements)
 - [Find GCD of Array](#find-gcd-of-given-array-elements)
+- [Given three integers x, y, z, find GCD(LCM(x,y), LCM(x,z))](#find-gcd-of-lcm)
 
 <br/>
 
@@ -81,3 +82,7 @@ for (let i = 2; i < i.length; i++) {
 
 console.log(gcd);
 ```
+
+<br/>
+
+## <a name="find-gcd-of-lcm"></a>Given three integers x, y, z, find GCD(LCM(x,y), LCM(x,z))
