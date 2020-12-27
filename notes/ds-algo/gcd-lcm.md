@@ -10,7 +10,7 @@
 
 ## <a name="find-lcm-of-two-numbers"></a>Find LCM of two numbers
 
-```
+```javascript
 function gcd(a,b) {
   if (a === 0) return b;
   return gcd(b % a, a);
@@ -26,7 +26,7 @@ console.log(lcm(15,20))   // 60
 
 ## <a name="find-lcm-of-given-array-elements"></a>Find LCM of given array elements
 
-```
+```javascript
 function find_lcm(num1, num2) {
   if (num1 > num2) {
     num = num1;
@@ -62,7 +62,7 @@ console.log(result);
 
 ## <a name="find-gcd-of-given-array-elements"></a>Find GCD of given array elements
 
-```
+```javascript
 function find_gcd(x, y) {
   while(y) {
     temp = x;
