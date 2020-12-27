@@ -34,9 +34,9 @@ function find_lcm(num1, num2) {
   } else {
     num = num2;
     den = num1;
-  }
+  }                   // bigger number needs to be on top
 
-  rem = num % den;
+  rem = num % den;    // find remainder of bigger over smaller
 
   while (rem !== 0) {
     num = den;
