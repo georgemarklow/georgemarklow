@@ -202,7 +202,7 @@ console.log(isRotated('amazon','onamaz'));   // true
 
 ## <a name="roman-numerals"></a>Convert Roman Numerals
 
-```
+```Javascript
 function value(r) {
   switch(r) {
     case 'I': return 1;
@@ -245,7 +245,7 @@ console.log(convert('MCMIV'));  // 1904
 
 ## <a name="strings-anagrams"></a>Check whether two strings are anagram of each other
 
-```
+```Javascript
 // linear time and constant space
 function isAnagram(c, d) {
   if (!c || !d || c.length !== d.length) return false;
