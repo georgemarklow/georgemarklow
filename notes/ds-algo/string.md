@@ -75,4 +75,16 @@ function reverse(s) {
 }
 
 console.log(reverse('george william charles marklow'));
+
+function reverse(s) {
+  words = s.split(" ");
+  reversed = words.reverse()
+    .map(word => {
+      return word.split("").reverse().join("");
+    })
+    .join(" ");
+  return reversed;
+}
+
+console.log(reverse('george william charles marklow'));
 ```
