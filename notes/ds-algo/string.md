@@ -174,7 +174,7 @@ Input: string1 = “amazon”, string2 = “azonam”
 #### Clockwise
 Input: string1 = “amazon”, string2 = “onamaz”
 
-```
+```Javascript
 function isRotated(str1, str2) {
   if (str1.length !== str2.length) return false;
   clock_rot = ''
