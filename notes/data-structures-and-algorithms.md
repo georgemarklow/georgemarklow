@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [strings](https://github.com/georgemarklow/georgemarklow/blob/main/notes/ds-algo/string.md#longest-substring)
+- [strings](https://github.com/georgemarklow/georgemarklow/blob/main/notes/ds-algo/string.md)
 
 #### Arrays
 
