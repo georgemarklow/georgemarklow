@@ -1,10 +1,13 @@
 # GCD and LCM
 
-### Table of Contents
+## Table of Contents
 
-- [Find LCM of Two Numbers]()
+- [Find LCM of Two Numbers](#find-lcm-of-two-numbers)
 
-## Find LCM of Two Numbers
+<br/>
+
+#### Find LCM of Two Numbers
+## <a name="find-lcm-of-two-numbers"></a>Find LCM of two numbers
 
 ```
 function gcd(a,b) {
