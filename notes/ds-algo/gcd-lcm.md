@@ -86,3 +86,19 @@ console.log(gcd);
 <br/>
 
 ## <a name="find-gcd-of-lcm"></a>Given three integers x, y, z, find GCD(LCM(x,y), LCM(x,z))
+
+```Javascript
+function find_gcd(a, b) {
+  if (a === 0 || b === 0) return 0;
+  if (a === b) return a;
+  if (a > b) return find_gcd(a-b,b);
+  return find_gcd(a, b-a);
+}
+
+x = 30, y = 40, z = 400;
+g = find_gcd(y, z)
+lcm = (x * g)/find_gcd(x, g)
+console.log(lcm);
+```
+
+<br/>
