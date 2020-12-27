@@ -65,7 +65,7 @@ console.log(reverseWordsInString2('george william charles marklow'))   // marklo
 
 ## <a name="reverse-words-and-letters-in-sentence"></a>Reverse words and letters in sentence
 
-```
+```Javascript
 function reverse(s) {
   result = '';
   for (let i = s.length - 1; i >= 0; i--) {
