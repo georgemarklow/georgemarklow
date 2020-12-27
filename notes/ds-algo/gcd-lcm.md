@@ -87,6 +87,8 @@ console.log(gcd);
 
 ## <a name="find-gcd-of-lcm"></a>Given three integers x, y, z, find GCD(LCM(x,y), LCM(x,z))
 
+**Note:** GCD(LCM(3, 4), LCM(3, 10)) = LCM(3, GCD(4, 10)) = LCM(3, 2) = 6
+
 ```Javascript
 function find_gcd(a, b) {
   if (a === 0 || b === 0) return 0;
