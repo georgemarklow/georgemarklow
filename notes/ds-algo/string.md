@@ -131,3 +131,7 @@ permute(text, 0, n-1);
 <br/>
 
 ## <a name="remove-adjacent-duplicates"></a>Remove adjacent duplicates
+
+e.g. azxxzy -> azzy -> ay
+
+<br/>
