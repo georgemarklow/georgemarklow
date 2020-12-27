@@ -74,7 +74,7 @@ function reverse(s) {
   return result;
 }
 
-console.log(reverse('george william charles marklow'));
+console.log(reverse('george william charles marklow'));   // wolkram selrahc mailliw egroeg
 
 function reverse(s) {
   words = s.split(" ");
@@ -86,5 +86,5 @@ function reverse(s) {
   return reversed;
 }
 
-console.log(reverse('george william charles marklow'));
+console.log(reverse('george william charles marklow'));  // wolkram selrahc mailliw egroeg
 ```
