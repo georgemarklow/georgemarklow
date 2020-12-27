@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+- [strings](https://github.com/georgemarklow/georgemarklow/blob/main/notes/ds-algo/string.md#longest-substring)
+
 #### Arrays
 
 - [Find subarray with given sum](#find-subarray-with-given-sum)
