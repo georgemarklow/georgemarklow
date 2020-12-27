@@ -9,6 +9,7 @@
 - [Remove adjacent duplicates](#remove-adjacent-duplicates)
 - [Check if a string can be obtained by rotating another string 2 places](#string-rotate-2-places)
 - [Convert Roman Numerals](#roman-numerals)
+- [Check if two strings are anagrams of each other](#strings-anagrams)
 
 <br/>
 
@@ -241,3 +242,8 @@ console.log(convert('MCMIV'));  // 1904
 ```
 
 <br/>
+
+## <a name="strings-anagrams"></a>Check whether two strings are anagram of each other
+
+
+
