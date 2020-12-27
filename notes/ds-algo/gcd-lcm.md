@@ -107,3 +107,25 @@ console.log(lcm);
 <br/>
 
 ## <a name="count-pairs-gcd-a-b"></a>Count number of pairs (A <= N, B <= N) such that gcd (A , B) is B
+
+```Javascript
+
+function count_pairs(n) {
+  k = n;
+  imin = 1;
+  ans = 0;
+
+  while(imin <= n) {
+    imax = Math.trunc(n / k);
+    ans += k * (imax - imin + 1);
+    imin = imax + 1;
+    k = Math.trunc(n / imin);
+
+    //console.log(`k: ${k}, n: ${n}, ans: ${ans} imax: ${imax} imin: ${imin}`);
+  }
+  console.log(`ans: ${ans}`)
+}
+
+count_pairs(3);    // 5 ((1, 1) (2, 2) (3, 3) (2, 1) and (3, 1))
+
+```
