@@ -6,6 +6,7 @@
 - [Reverse words in sentence](#reverse-words-in-sentence)
 - [Reverse words and letters in sentence](#reverse-words-and-letters-in-sentence)
 - [Print all permutations of a string](#print-all-permutations-of-string)
+- [Remove adjacent duplicates](#remove-adjacent-duplicates)
 
 <br/>
 
@@ -126,3 +127,7 @@ permute(text, 0, n-1);
 // CAB
 
 ```
+
+<br/>
+
+## <a name="remove-adjacent-duplicates"></a>Remove adjacent duplicates
