@@ -245,5 +245,19 @@ console.log(convert('MCMIV'));  // 1904
 
 ## <a name="strings-anagrams"></a>Check whether two strings are anagram of each other
 
+```
+// linear time and constant space
+function isAnagram(c, d) {
+  if (!c || !d || c.length !== d.length) return false;
 
+  count = 0;
+  for (let i = 0; i < c.length; i++) count += c.charCodeAt(i);
+  for (let i = 0; i < d.length; i++) count -= d.charCodeAt(i);
 
+  return count === 0;
+}
+
+str1 = "cat";
+str2 = "tac";
+console.log(isAnagram(str1, str2))
+```
