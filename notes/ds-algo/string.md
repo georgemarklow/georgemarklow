@@ -319,3 +319,26 @@ console.log(findMinInsertions('abcde', 0, 'abcde'.length - 1)); // 4
 
 ## <a name="longest-substring"></a>Length of the longest substring without repeating characters (Longest distinct characters in the string
 
+```Javascript
+function longestUniqueSubstring(str) {
+  n = str.length;
+  res = 0
+
+  for (let i = 0; i < str.length; i++) {
+    visited = [];
+
+    for (let j = i; j < n; j++) {
+      if (visited[str[j]]) break;
+      res = Math.max(res, j - i + 1);
+      visited[str[j]] = true;
+    }
+
+    visited[str[i]] = false;
+  }
+  return res;
+}
+
+console.log(longestUniqueSubstring('ABDEFGABEF'));     // 6
+console.log(longestUniqueSubstring('BBBB'));           // 1
+console.log(longestUniqueSubstring('GEEKSFORGEEKS'));  // 7
+```
