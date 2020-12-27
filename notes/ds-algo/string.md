@@ -10,6 +10,7 @@
 - [Check if a string can be obtained by rotating another string 2 places](#string-rotate-2-places)
 - [Convert Roman Numerals](#roman-numerals)
 - [Check if two strings are anagrams of each other](#strings-anagrams)
+- [Remove Duplicates from String](#remove-duplicates)
 
 <br/>
 
@@ -262,4 +263,24 @@ function isAnagram(c, d) {
 str1 = "cat";
 str2 = "tac";
 console.log(isAnagram(str1, str2))
+```
+
+<br/>
+
+## <a name="remove-duplicates"></a>Remove Duplicates from String
+
+```Javascript
+// O(n) time complexity
+function removeDuplicates(s) {
+  str = '';
+  len = s.length;
+  for (let i = 0; i < len; i++) {
+    c = s[i];
+    if (str.indexOf(c) < 0) str += c;
+  }
+  return str;
+}
+
+s = 'aaabbcdd'
+console.log(removeDuplicates(s));
 ```
