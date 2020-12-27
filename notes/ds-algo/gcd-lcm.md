@@ -36,13 +36,14 @@ function find_lcm(num1, num2) {
   }
 
   rem = num % den;
-  while (rem != 0) {
+
+  while (rem !== 0) {
     num = den;
     den = rem;
     rem = num % den;
   }
   gcd = den;
-  lcm = Math.trunc(Math.trunc(num1 * num2)/Math.trunc(gcd));
+  lcm = Math.trunc(Math.trunc(num1 * num2) / Math.trunc(gcd));
   return lcm;
 }
 
