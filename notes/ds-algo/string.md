@@ -319,6 +319,10 @@ console.log(findMinInsertions('abcde', 0, 'abcde'.length - 1)); // 4
 
 ## <a name="longest-substring"></a>Length of the longest substring without repeating characters (Longest distinct characters in the string
 
+O(n + d)
+- n is length of the input string
+- d is number of characters in input string alphabet
+
 ```Javascript
 function longestUniqueSubstring(str) {
   n = str.length;
