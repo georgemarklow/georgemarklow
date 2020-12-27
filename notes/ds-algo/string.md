@@ -12,6 +12,7 @@
 - [Check if two strings are anagrams of each other](#strings-anagrams)
 - [Remove Duplicates from String](#remove-duplicates)
 - [Minimum insertions for palindrome](#min-insertions-palendrome)
+- [Length of the longest substring without repeating characters](#longest-substring)
 
 <br/>
 
@@ -313,3 +314,8 @@ console.log(findMinInsertions('abcd', 0, 'abcd'.length - 1));   // 3
 console.log(findMinInsertions('abcda', 0, 'abcda'.length - 1)); // 2
 console.log(findMinInsertions('abcde', 0, 'abcde'.length - 1)); // 4
 ```
+
+<br/>
+
+## <a name="longest-substring"></a>Length of the longest substring without repeating characters (Longest distinct characters in the string
+
