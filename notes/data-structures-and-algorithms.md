@@ -2,5 +2,6 @@
 
 ## Table of Contents
 
-- [strings](https://github.com/georgemarklow/georgemarklow/blob/main/notes/ds-algo/string.md)
-- [arrays](https://github.com/georgemarklow/georgemarklow/blob/main/notes/ds-algo/arrays.md)
+- [Strings](https://github.com/georgemarklow/georgemarklow/blob/main/notes/ds-algo/string.md)
+- [Arrays](https://github.com/georgemarklow/georgemarklow/blob/main/notes/ds-algo/arrays.md)
+- [LCM / GCM](https://github.com/georgemarklow/georgemarklow/blob/main/notes/ds-algo/gcd-lcm.md)
