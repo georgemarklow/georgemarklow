@@ -245,6 +245,8 @@ console.log(convert('MCMIV'));  // 1904
 
 ## <a name="strings-anagrams"></a>Check whether two strings are anagram of each other
 
+**Note:** can sort the strings first and then compare but easier to use the following algorithm
+
 ```Javascript
 // linear time and constant space
 function isAnagram(c, d) {
