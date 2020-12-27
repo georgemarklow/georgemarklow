@@ -40,3 +40,4 @@
 - [Why Factories are better than Classes in JavaScript](https://medium.com/javascript-in-plain-english/why-factories-are-better-than-classes-in-javascript-1248b600b6d4)
 - [Think twice before using Array.reduce()](https://blog.bitsrc.io/array-reduce-think-twice-before-using-it-c00f22ec9273)
 - [JavaScript Basics: How to create a Dictionary with Key/Value pairs](https://pietschsoft.com/post/2015/09/05/javascript-basics-how-to-create-a-dictionary-with-keyvalue-pairs)
+- [6 Tips to Improve Your Conditional Statements for Better Readability](https://medium.com/javascript-in-plain-english/6-tips-to-improve-your-conditional-statements-for-better-readability-56256c5a5245)
