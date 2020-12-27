@@ -38,3 +38,4 @@
 - [15 Rules For Writing Clean JavaScript](https://medium.com/javascript-in-plain-english/15-rules-for-writing-clean-javascript-8e2b2b426515)
 - [The Difference Between The Spread Operator and The Rest Operator](https://medium.com/javascript-in-plain-english/the-difference-between-the-spread-operator-and-the-rest-operator-45c271393e5d)
 - [Why Factories are better than Classes in JavaScript](https://medium.com/javascript-in-plain-english/why-factories-are-better-than-classes-in-javascript-1248b600b6d4)
+- [Think twice before using Array.reduce()](https://blog.bitsrc.io/array-reduce-think-twice-before-using-it-c00f22ec9273)
