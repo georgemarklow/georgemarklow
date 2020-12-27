@@ -49,10 +49,7 @@ function find_lcm(num1, num2) {
 }
 
 let l = [2, 7, 3, 9, 4];
-
-const num1 = l[0];
-const num2 = l[1];
-let result = find_lcm(num1, num2);
+let result = find_lcm(l[0], l[1]);
 
 for (let i = 2; i < l.length; i++) {
   result = find_lcm(lcm, l[i]);
