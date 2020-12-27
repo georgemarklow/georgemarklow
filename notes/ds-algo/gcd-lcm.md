@@ -6,6 +6,7 @@
 - [Find LCM of Array](#find-lcm-of-given-array-elements)
 - [Find GCD of Array](#find-gcd-of-given-array-elements)
 - [Given three integers x, y, z, find GCD(LCM(x,y), LCM(x,z))](#find-gcd-of-lcm)
+- [Count number of pairs (A <= N, B <= N) such that gcd (A , B) is B](#count-pairs-gcd-a-b)
 
 <br/>
 
@@ -104,3 +105,5 @@ console.log(lcm);
 ```
 
 <br/>
+
+## <a name="count-pairs-gcd-a-b"></a>Count number of pairs (A <= N, B <= N) such that gcd (A , B) is B
