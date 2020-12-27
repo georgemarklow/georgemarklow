@@ -175,6 +175,25 @@ Input: string1 = “amazon”, string2 = “azonam”
 Input: string1 = “amazon”, string2 = “onamaz”
 
 ```
+function isRotated(str1, str2) {
+  if (str1.length !== str2.length) return false;
+  clock_rot = ''
+  anticlock_rot = ''
+  len = str2.length;
+
+  anticlock_rot = anticlock_rot + 
+                  str2.substring(len - 2, len) + 
+                  str2.substring(0, len - 2);
+
+  clock_rot = clock_rot +
+              str2.substring(2) +
+              str2.substring(0,2);
+
+  return str1 === clock_rot || str1 === anticlock_rot;
+}
+
+console.log(isRotated('amazon','azonam'));   // true
+console.log(isRotated('amazon','onamaz'));   // true
 ```
 
 <br/>
