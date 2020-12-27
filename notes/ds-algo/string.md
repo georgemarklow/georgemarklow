@@ -4,6 +4,7 @@
 
 - [Reverse letters in word](#reverse-word)
 - [Reverse words in sentence](#reverse-words-in-sentence)
+- [Reverse words and letters in sentence](#reverse-words-and-letters-in-sentence)
 
 <br/>
 
@@ -57,7 +58,21 @@ function reverseWordsInString2(s) {
   return words.join(" ");
 }
 
-
-
 console.log(reverseWordsInString2('george william charles marklow'))   // marklow charles william george
+
+```
+<br/>
+
+## <a name="reverse-words-and-letters-in-sentence"></a>Reverse words and letters in sentence
+
+```
+function reverse(s) {
+  result = '';
+  for (let i = s.length - 1; i >= 0; i--) {
+    result += s[i];
+  }
+  return result;
+}
+
+console.log(reverse('george william charles marklow'));
 ```
