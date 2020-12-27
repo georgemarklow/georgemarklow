@@ -134,4 +134,33 @@ permute(text, 0, n-1);
 
 e.g. azxxzy -> azzy -> ay
 
+```Javascript
+function remove(s, n) {
+  chars = s.split('');
+  k = 0;
+  i = 1;
+
+  while (i < s.length) {
+    if (chars[i-1] !== chars[i]) {
+      chars[k] = chars[i-1];
+      k++;
+    } else {
+      while (i < chars.length && chars[i-1] === chars[i]) {
+        i++;
+      }
+    }
+    i++;
+  }
+
+  chars[k] = chars[i-1];
+  k++;
+  s = chars.join('').substring(k);
+  if (k !== n) remove(s, k);
+  return s;
+}
+
+text = 'DBAABDAB'
+remove(text, text.length);   // AB
+```
+
 <br/>
