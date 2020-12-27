@@ -11,6 +11,7 @@
 - [Convert Roman Numerals](#roman-numerals)
 - [Check if two strings are anagrams of each other](#strings-anagrams)
 - [Remove Duplicates from String](#remove-duplicates)
+- [Minimum insertions for palindrome](#min-insertions-palendrome)
 
 <br/>
 
@@ -283,4 +284,32 @@ function removeDuplicates(s) {
 
 s = 'aaabbcdd'
 console.log(removeDuplicates(s));
+```
+<br/>
+
+
+## <a name="min-insertions-palendrome"></a>Minimum insertions for palindrome
+```Javascript
+// order (n^2)
+
+function findMinInsertions(str, l, h) {
+
+  if (l > h) 
+      return Number.MAX_VALUE;
+  if (l === h) 
+      return 0;
+  if (l === h - 1) 
+      return (str[l] === str[h]) ? 0 : 1;
+  if (str[l] === str[h]) 
+      return findMinInsertions(str, l + 1, h - 1);
+  else {
+    return Math.min(findMinInsertions(str, l, h - 1), findMinInsertions(str, l + 1, h)) + 1;
+  }
+}
+
+console.log(findMinInsertions('ab', 0, 'ab'.length - 1));       // 1
+console.log(findMinInsertions('aa', 0, 'aa'.length - 1));       // 0
+console.log(findMinInsertions('abcd', 0, 'abcd'.length - 1));   // 3
+console.log(findMinInsertions('abcda', 0, 'abcda'.length - 1)); // 2
+console.log(findMinInsertions('abcde', 0, 'abcde'.length - 1)); // 4
 ```
