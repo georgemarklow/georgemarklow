@@ -3,10 +3,10 @@
 ## Table of Contents
 
 - [Find LCM of Two Numbers](#find-lcm-of-two-numbers)
+- [Find LCM of Given Array Elements](#find-lcm-of-given-array-elements)
 
 <br/>
 
-#### LCM of Two Numbers
 ## <a name="find-lcm-of-two-numbers"></a>Find LCM of two numbers
 
 ```
@@ -21,7 +21,6 @@ function lcm(a,b) {
 
 console.log(lcm(15,20))   // 60
 ```
-#### LCM of given array elements
 ## <a name="find-lcm-of-given-array-elements"></a>Find LCM of given array elements
 
 ```
