@@ -18,7 +18,7 @@ Find a continuous subarray which adds to a given number.
 2. From each element, iterate forward j until (a) sum === required or (b) sum > required i.e. break out to next i
 3. Keep a record of current sum in i loop
 
-```
+```javascript
 function find(arr, n, sum) {
   for (i = 0; i < n; i++) {
     curr_sum = arr[i];
@@ -66,7 +66,7 @@ Find the sum of contiguous subarray within a one-dimensional array of numbers wh
 2. Keep track of maximum sum contiguous segment among all positive segments
 3. Each time we get a positive sum compare it with max_so_far and update max_so_far if it is greater than max_so_far
 
-```
+```javascript
 function maxSubArraySum(a) {
   size = a.length;
   max_so_far = 0;
@@ -93,7 +93,7 @@ maxSubArraySum(a)   // 7
 
 This code handles the case where all values in the array are negative as well:
 
-```
+```javascript
 function maxSubArraySum(a) {
   curr_max = a[0];
   max_so_far = a[0];
