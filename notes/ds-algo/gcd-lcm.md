@@ -21,6 +21,8 @@ function lcm(a,b) {
 
 console.log(lcm(15,20))   // 60
 ```
+<br/>
+
 ## <a name="find-lcm-of-given-array-elements"></a>Find LCM of given array elements
 
 ```
