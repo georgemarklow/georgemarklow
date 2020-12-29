@@ -48,6 +48,10 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 
 - [Drills in Git — Part 1](https://marklowg.medium.com/drills-in-git-part-1-a08a011794a6)
 
+## C#
+
+- [Part 1: Strings](https://marklowg.medium.com/drills-in-c-part-1-strings-fd93d5fa7a60)
+
 #### Javascript
 - [Part 1: Strings](https://marklowg.medium.com/javascript-drills-part-1-strings-2acdfe9727e0)
 - [Part 2: Numbers](https://marklowg.medium.com/javascript-drills-part-2-numbers-c8de40744c3f)
