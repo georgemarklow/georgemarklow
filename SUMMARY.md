@@ -44,11 +44,17 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 
 ## Articles I've Published
 
+#### Self-Development
+- [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
+- [Creating a Personal Knowledge Base on Github](https://marklowg.medium.com/creating-a-personal-knowledgebase-on-github-d1d8bb9222a4)
+- [Using Quizlet to Memorise Commands, IDE Shortcuts, and other things for Software Engineers](https://marklowg.medium.com/using-quizlet-to-memorise-commands-ide-shortcuts-and-other-things-for-software-engineers-cf110465d067)
+- [Algorithms in Colour…Fun for the Whole Family!](https://marklowg.medium.com/algorithms-in-colour-fun-for-the-whole-family-eb18dbb8f55a)
+
 ### Git
 
 - [Drills in Git — Part 1](https://marklowg.medium.com/drills-in-git-part-1-a08a011794a6)
 
-## C#
+### C#
 
 - [Part 1: Strings](https://marklowg.medium.com/drills-in-c-part-1-strings-fd93d5fa7a60)
 - [Part 2: Arrays](https://marklowg.medium.com/drills-in-c-part-2-arrays-8d2ebf65cdb7)
@@ -64,12 +70,6 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
   
 #### ElasticStack
 - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
-  
-#### Misc
-- [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
-- [Creating a Personal Knowledge Base on Github](https://marklowg.medium.com/creating-a-personal-knowledgebase-on-github-d1d8bb9222a4)
-- [Using Quizlet to Memorise Commands, IDE Shortcuts, and other things for Software Engineers](https://marklowg.medium.com/using-quizlet-to-memorise-commands-ide-shortcuts-and-other-things-for-software-engineers-cf110465d067)
-- [Algorithms in Colour…Fun for the Whole Family!](https://marklowg.medium.com/algorithms-in-colour-fun-for-the-whole-family-eb18dbb8f55a)
 
 <br/>
 
