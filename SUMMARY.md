@@ -44,7 +44,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 
 ## Articles I've Published
 
-#### Self-Development
+### Self-Development
 - [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
 - [Creating a Personal Knowledge Base on Github](https://marklowg.medium.com/creating-a-personal-knowledgebase-on-github-d1d8bb9222a4)
 - [Using Quizlet to Memorise Commands, IDE Shortcuts, and other things for Software Engineers](https://marklowg.medium.com/using-quizlet-to-memorise-commands-ide-shortcuts-and-other-things-for-software-engineers-cf110465d067)
@@ -59,7 +59,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 - [Part 1: Strings](https://marklowg.medium.com/drills-in-c-part-1-strings-fd93d5fa7a60)
 - [Part 2: Arrays](https://marklowg.medium.com/drills-in-c-part-2-arrays-8d2ebf65cdb7)
 
-#### Javascript
+### Javascript
 - [Part 1: Strings](https://marklowg.medium.com/javascript-drills-part-1-strings-2acdfe9727e0)
 - [Part 2: Numbers](https://marklowg.medium.com/javascript-drills-part-2-numbers-c8de40744c3f)
 - [Part 3: Functions and Control Flow](https://marklowg.medium.com/javascript-drills-part-3-functions-and-control-flow-ec38e1eca8cd)
@@ -68,7 +68,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 - [Part 6: JSON](https://marklowg.medium.com/javascript-drills-part-6-json-b710d82a5168)
 - [Part 7: Classes and Objects](https://marklowg.medium.com/javascript-drills-part-7-classes-and-objects-be43eebe1c46)
   
-#### ElasticStack
+### ElasticStack
 - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
 
 <br/>
