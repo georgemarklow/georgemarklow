@@ -58,6 +58,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 
 - [Part 1: Strings](https://marklowg.medium.com/drills-in-c-part-1-strings-fd93d5fa7a60)
 - [Part 2: Arrays](https://marklowg.medium.com/drills-in-c-part-2-arrays-8d2ebf65cdb7)
+- [Part 3: StringBuilder](https://marklowg.medium.com/drills-in-c-part-3-stringbuilder-5b6d06464a3b)
 
 ### Javascript
 - [Part 1: Strings](https://marklowg.medium.com/javascript-drills-part-1-strings-2acdfe9727e0)
