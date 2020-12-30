@@ -9,10 +9,14 @@
 | :----------- | :----------- |
 | ng new app-name      | Generates all the files needed for an angular app to run properly.       |
 
+<br/>
+
 Options:
 - --dry-run => Shows all the files that can potentially be generated.
 - --prefix braga => Create your project with a custom prefix. For example, normally your project at components level has the selector with the alias app-component-name, right? So, with this CLI command your selector will be braga-component-name.
 - --routing --style scss => Adds the routing file to your project and puts the CSS files in SASS type.
+
+<br/>
 
 #### Build and Run
 | Syntax      | Description |
@@ -22,6 +26,7 @@ Options:
 | ng serve -p 666 -o | Builds your entire project and automatically opens the browser with the url pointing to port 666. This is useful if for example we need to run two angular projects simultaneously. |
 | ng serve --help | Gives you more information about ng serve. |
 
+<br/>
 
 #### Tslint
 | Syntax      | Description |
@@ -30,6 +35,8 @@ Options:
 | ng lint --format stylish | The same as ng lint but formats the output in a more tidier way. |
 | ng lint --fix | The same as ng lint but it also tries to fix any errors. |
 | ng lint --help | Gives you more information about ng lint. |
+
+<br/>
 
 #### Create Components/Services/Models/Pipes
 
@@ -45,6 +52,8 @@ Options:
 | ng g p shared/init-caps | Generates the pipe “init-caps” inside of the shared folder.
 | ng g d search-box | Generates the “search box” directive.
 
+<br/>
+
 #### Downgrade/Upgrade CLI
 
 ```
@@ -52,6 +61,8 @@ npm uninstall -g @angular/cli
 npm cache clean
 npm install -g @angular/cli@{latest or wanted version}
 ```
+
+<br/>
 
 ## Best Practices
 
