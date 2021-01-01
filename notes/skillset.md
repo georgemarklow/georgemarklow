@@ -1,0 +1,22 @@
+## Skillset
+
+- C#
+- Javascript
+- Typescript
+- Angular
+- Angular CLI Commands
+- NgRx
+- RxJs
+- npm
+- Node
+- IIS
+- SQL (incl. views, sps, indexing)
+- SSMS
+- SQL Server Performance Profiler
+- Azure DevOps
+- HTTP/S
+- Postman
+- MVC Web API
+- git
+- Generics
+- Design patterns in C# and Javascript
