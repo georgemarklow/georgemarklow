@@ -26,6 +26,13 @@ npm init
 node index.js
 ```
 
+Index.js:
+```
+const { sqrt } = require('mathjs')
+
+console.log(sqrt(-4).toString())  // 2i
+```
+
 - [Setting up new project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
 - [HelloWorld with Node and Express](https://medium.com/@adnanrahic/hello-world-app-with-node-js-and-express-c1eb7cfa8a30)
 
