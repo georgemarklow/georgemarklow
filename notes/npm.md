@@ -12,6 +12,12 @@
 
 ## Best Practices
 
+## Notes
+
+#### Initialization
+
+Follow [Setting up new project](https://philna.sh/blog/2019/01/10/how-to-start-a-node-js-project/)
+
 ## Useful links
 
 - [npm Cheat Sheet - Most Common Commands and nvm](https://www.freecodecamp.org/news/npm-cheat-sheet-most-common-commands-and-nvm/)
