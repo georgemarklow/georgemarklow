@@ -15,6 +15,9 @@
 ## Best Practices
 - [JavaScript Tips, Tricks, and Best Practices](https://medium.com/javascript-in-plain-english/common-hacks-in-javascript-5d72a6fcdac)
 
+## Unit Testing
+- [List to handle edge cases for Math js functions](http://es5.github.io/#x15.8.2.13)
+
 ## Useful links
 - [Javascript Module Pattern](https://medium.com/technofunnel/data-hiding-with-javascript-module-pattern-62b71520bddd)
 - [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
