@@ -43,3 +43,4 @@
 - [JavaScript Basics: How to create a Dictionary with Key/Value pairs](https://pietschsoft.com/post/2015/09/05/javascript-basics-how-to-create-a-dictionary-with-keyvalue-pairs)
 - [6 Tips to Improve Your Conditional Statements for Better Readability](https://medium.com/javascript-in-plain-english/6-tips-to-improve-your-conditional-statements-for-better-readability-56256c5a5245)
 - [The Problem with Testing for NaN in JavaScript](http://adripofjavascript.com/blog/drips/the-problem-with-testing-for-nan-in-javascript.html)
+- [NaN, isNaN() & Number.isNaN()](https://www.codementor.io/@diegopalacios/nan-isnan-number-isnan-1agz7vzs08)
