@@ -10,6 +10,7 @@
   - [Extending built-in classes](https://javascript.info/extend-natives)
   - [Class checking: "instanceof"](https://javascript.info/instanceof)
   - [Mixins](https://javascript.info/mixins)
+ - [Factory Functions in ES6](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
 
 ## Best Practices
 - [JavaScript Tips, Tricks, and Best Practices](https://medium.com/javascript-in-plain-english/common-hacks-in-javascript-5d72a6fcdac)
