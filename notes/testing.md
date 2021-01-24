@@ -15,5 +15,6 @@
 - https://blog.4geeks.io/software-versioning/ 
 
 ### Edge Case Best Practices
+- [A Beginner’s Guide to Testing: Error Handling Edge Cases](https://www.freecodecamp.org/news/a-beginners-guide-to-testing-implement-these-quick-checks-to-test-your-code-d50027ad5eed/)
 - https://people.bath.ac.uk/rjg20/training/intro-testing/07-edges/ 
 - https://softwareengineering.stackexchange.com/questions/125587/what-are-the-difference-between-an-edge-case-a-corner-case-a-base-case-and-a-b 
