@@ -44,6 +44,9 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 
 ## Articles I've Published
 
+### Book Reviews
+- [Book Review: ‘The Art of Everyday Assertiveness’](https://marklowg.medium.com/book-review-the-art-of-everyday-assertiveness-by-patrick-king-67c490f8ba7d)
+
 ### Self-Development
 - [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
 - [Creating a Personal Knowledge Base on Github](https://marklowg.medium.com/creating-a-personal-knowledgebase-on-github-d1d8bb9222a4)
