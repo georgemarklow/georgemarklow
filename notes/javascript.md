@@ -47,3 +47,4 @@
 - [6 Tips to Improve Your Conditional Statements for Better Readability](https://medium.com/javascript-in-plain-english/6-tips-to-improve-your-conditional-statements-for-better-readability-56256c5a5245)
 - [The Problem with Testing for NaN in JavaScript](http://adripofjavascript.com/blog/drips/the-problem-with-testing-for-nan-in-javascript.html)
 - [NaN, isNaN() & Number.isNaN()](https://www.codementor.io/@diegopalacios/nan-isnan-number-isnan-1agz7vzs08)
+- [15 Typescript Mistakes To Avoid](https://blog.softwaremill.com/typescript-mistakes-to-avoid-d3ab240c90eb)
