@@ -1,0 +1,3 @@
+- [ ] How to Establish Boundaries: Protect Yourself
+- [ ] The Art Of Saying NO: How To Stand Your Ground
+- [ ] The Mental Toughness Handbook
