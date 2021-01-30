@@ -13,6 +13,11 @@
 - [ ] Software Engineer's Interview Survival Guide: Grinding Your Way to Whiteboard Interview Confidence
 - [ ] Not Nice: Stop People Pleasing, Staying Silent, & Feeling Guilty
 
+
+## General Computing
+- [ ] Refactoring: Improving the Design of Existing Code
+- [ ] Rethinking Productivity in Software Engineering
+
 ## JavaScript / Angular
 - [ ] Basic JavaScript Design Patterns (John Au-Yeung)
 - [ ] Modern JavaScript for the Impatient
