@@ -11,6 +11,12 @@
   - [Class checking: "instanceof"](https://javascript.info/instanceof)
   - [Mixins](https://javascript.info/mixins)
  - [Factory Functions in ES6](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
+ 
+ ## Init TypeScript Libraries
+- [TypeScript Starter](https://github.com/bitjson/typescript-starter)
+- [The fast and easy way to create a TypeScript library](https://carlosroso.com/the-fast-and-easy-way-to-create-a-typescript-library/)
+- [How to create your own Typescript library](https://aganglada.com/blog/how-to-create-your-own-typescript-library)
+- [Publishing a TypeScript Library](https://medium.com/openmindonline/js-monday-17-publishing-a-typescript-library-59dd8200f80d)
 
 ## Best Practices
 - [JavaScript Tips, Tricks, and Best Practices](https://medium.com/javascript-in-plain-english/common-hacks-in-javascript-5d72a6fcdac)
@@ -49,7 +55,3 @@
 - [NaN, isNaN() & Number.isNaN()](https://www.codementor.io/@diegopalacios/nan-isnan-number-isnan-1agz7vzs08)
 - [15 Typescript Mistakes To Avoid](https://blog.softwaremill.com/typescript-mistakes-to-avoid-d3ab240c90eb)
 
-## Init TypeScript Libraries
-- [The fast and easy way to create a TypeScript library](https://carlosroso.com/the-fast-and-easy-way-to-create-a-typescript-library/)
-- [How to create your own Typescript library](https://aganglada.com/blog/how-to-create-your-own-typescript-library)
-- [Publishing a TypeScript Library](https://medium.com/openmindonline/js-monday-17-publishing-a-typescript-library-59dd8200f80d)
