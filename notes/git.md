@@ -134,6 +134,7 @@ Source: [link](https://www.freecodecamp.org/news/10-important-git-commands-that-
 - [Gitflow Workdlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [A Beginners Guide to Git](https://www.fir3net.com/UNIX/Linux/a-beginners-guide-to-git.html)
 - [Using Git with Visual Studio 2019: The Ultimate Guide](https://yourbrainoncomputers.com/using-git-with-visual-studio-2019-the-ultimate-guide/)
+- [Adding an existing project to GitHub using the command line](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
 
 ## Best Practices
 
