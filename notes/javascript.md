@@ -52,3 +52,4 @@
 ## Init TypeScript Libraries
 - [The fast and easy way to create a TypeScript library](https://carlosroso.com/the-fast-and-easy-way-to-create-a-typescript-library/)
 - [How to create your own Typescript library](https://aganglada.com/blog/how-to-create-your-own-typescript-library)
+- [Publishing a TypeScript Library](https://medium.com/openmindonline/js-monday-17-publishing-a-typescript-library-59dd8200f80d)
