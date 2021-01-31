@@ -55,3 +55,4 @@
 - [NaN, isNaN() & Number.isNaN()](https://www.codementor.io/@diegopalacios/nan-isnan-number-isnan-1agz7vzs08)
 - [15 Typescript Mistakes To Avoid](https://blog.softwaremill.com/typescript-mistakes-to-avoid-d3ab240c90eb)
 - [Which type of loop is fastest in JavaScript?](https://medium.com/javascript-in-plain-english/which-type-of-loop-is-fastest-in-javascript-ec834a0f21b9)
+- [Accuracy of JavaScript Time](https://johnresig.com/blog/accuracy-of-javascript-time/)
