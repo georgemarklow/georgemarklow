@@ -56,3 +56,4 @@
 - [15 Typescript Mistakes To Avoid](https://blog.softwaremill.com/typescript-mistakes-to-avoid-d3ab240c90eb)
 - [Which type of loop is fastest in JavaScript?](https://medium.com/javascript-in-plain-english/which-type-of-loop-is-fastest-in-javascript-ec834a0f21b9)
 - [Accuracy of JavaScript Time](https://johnresig.com/blog/accuracy-of-javascript-time/)
+- [5 Advanced TypeScript Tips To Make You a Better Programmer](https://levelup.gitconnected.com/5-advanced-typescript-tips-to-make-you-a-better-programmer-bd4070aa2ab4)
