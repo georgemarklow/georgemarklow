@@ -12,6 +12,7 @@
 - [ ] The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact
 - [ ] Software Engineer's Interview Survival Guide: Grinding Your Way to Whiteboard Interview Confidence
 - [ ] Not Nice: Stop People Pleasing, Staying Silent, & Feeling Guilty
+- [ ] Rapport: The Four Ways to Read People
 
 
 ## General Computing
