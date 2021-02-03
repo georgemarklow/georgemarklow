@@ -9,6 +9,7 @@
 - [ ] How to Be an Imperfectionist: The New Way to Self-Acceptance, Fearless Living, and Freedom from Perfectionism
 - [ ] The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 - [ ] Managing Humans: Biting and Humorous Tales of a Software Engineering Manager
+- [ ] Directed by Purpose: How to Focus on Work That Matters, Ignore Distractions and Manage Your Attention over the Long Haul
 - [ ] The CBT Workbook for Perfectionism: Evidence-Based Skills to Help You Let Go of Self-Criticism, Build Self-Esteem, and Find Balance
 - [ ] How to Stop Overthinking: Declutter Your Mind with 8 Proven Strategies to Stop Negative Thinking, End Anxiety, and Overcome Worrying
 - [ ] Always Time for Coffee A Down-to-Earth Guide for Frontline Managers, Team Leaders and Supervisors
