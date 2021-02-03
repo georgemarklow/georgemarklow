@@ -1,5 +1,7 @@
-## User Stories / Specification by Example
+## Software Lifecycle and Documentation
 - [ ] Specification by Example: How Successful Teams Deliver the Right Software
+- [ ] Test Driven Development: By Example
+- [ ] Refactoring: Improving the Design of Existing Code
 
 ## Personal Development
 - [ ] The Perfectionism Workbook: Proven Strategies to End Procrastination, Accept Yourself, and Achieve Your Goals
