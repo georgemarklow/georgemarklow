@@ -9,6 +9,7 @@
 - [ ] How to Be an Imperfectionist: The New Way to Self-Acceptance, Fearless Living, and Freedom from Perfectionism
 - [ ] The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 - [ ] Leading Equality, Diversity and Inclusion: A Practical Guide for Managers
+- [ ] Inclusive Growth: Future-proof your business by creating a diverse workplace
 - [ ] Managing Humans: Biting and Humorous Tales of a Software Engineering Manager
 - [ ] The Leader's Guide to Unconscious Bias
 - [ ] Inclusive Leadership: The Definitive Guide to Developing and Executing an Impactful Diversity and Inclusion Strategy
