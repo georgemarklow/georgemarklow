@@ -1,6 +1,7 @@
 ## Personal Development
 - [ ] The Workshop Survival Guide: How to design and teach educational workshops that work every time
 - [ ] The Workshop Book: How to design and lead successful workshops
+- [ ] The First Minute: How to Start Conversations That Get Results
 - [ ] How to Establish Boundaries: Protect Yourself
 - [ ] The Art Of Saying NO: How To Stand Your Ground
 - [ ] The Mental Toughness Handbook
