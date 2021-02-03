@@ -1,5 +1,6 @@
 ## Personal Development
 - [ ] How to Stop Overthinking: Declutter Your Mind with 8 Proven Strategies to Stop Negative Thinking, End Anxiety, and Overcome Worrying
+- [ ] Always Time for Coffee A Down-to-Earth Guide for Frontline Managers, Team Leaders and Supervisors
 - [ ] Everyday Bias: Identifying and Navigating Unconscious Judgments in Our Daily Lives
 - [ ] Leading without Authority
 - [ ] The Workshop Survival Guide: How to design and teach educational workshops that work every time
