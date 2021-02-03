@@ -13,6 +13,7 @@
 - [ ] Software Engineer's Interview Survival Guide: Grinding Your Way to Whiteboard Interview Confidence
 - [ ] Not Nice: Stop People Pleasing, Staying Silent, & Feeling Guilty
 - [ ] Rapport: The Four Ways to Read People
+- [ ] Introvert Survival Tactics: How to Make Friends, Be More Social, and Be Comfortable In Any Situation
 
 
 ## General Computing
