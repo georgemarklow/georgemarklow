@@ -3,6 +3,7 @@
 - [ ] Always Time for Coffee A Down-to-Earth Guide for Frontline Managers, Team Leaders and Supervisors
 - [ ] Everyday Bias: Identifying and Navigating Unconscious Judgments in Our Daily Lives
 - [ ] Making Work Visible
+- [ ] The Joy Of Imperfection: A Stress-Free Guide To Silencing Your Inner Critic, Conquering Perfectionism, and Becoming The Best Version Of Yourself!
 - [ ] Leading without Authority
 - [ ] The Workshop Survival Guide: How to design and teach educational workshops that work every time
 - [ ] The Workshop Book: How to design and lead successful workshops
