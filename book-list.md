@@ -1,4 +1,5 @@
 ## Personal Development
+- [ ] The Workshop Survival Guide: How to design and teach educational workshops that work every time
 - [ ] How to Establish Boundaries: Protect Yourself
 - [ ] The Art Of Saying NO: How To Stand Your Ground
 - [ ] The Mental Toughness Handbook
