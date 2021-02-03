@@ -1,3 +1,6 @@
+## User Stories / Specification by Example
+- [ ] Specification by Example: How Successful Teams Deliver the Right Software
+
 ## Personal Development
 - [ ] The Perfectionism Workbook: Proven Strategies to End Procrastination, Accept Yourself, and Achieve Your Goals
 - [ ] Overcoming Perfectionism 2nd Edition: A self-help guide using scientifically supported cognitive behavioural techniques
