@@ -1,5 +1,8 @@
 ## Personal Development
 - [ ] The Perfectionism Workbook: Proven Strategies to End Procrastination, Accept Yourself, and Achieve Your Goals
+- [ ] Overcoming Perfectionism 2nd Edition: A self-help guide using scientifically supported cognitive behavioural techniques
+- [ ] How to Be an Imperfectionist: The New Way to Self-Acceptance, Fearless Living, and Freedom from Perfectionism
+- [ ] The CBT Workbook for Perfectionism: Evidence-Based Skills to Help You Let Go of Self-Criticism, Build Self-Esteem, and Find Balance
 - [ ] How to Stop Overthinking: Declutter Your Mind with 8 Proven Strategies to Stop Negative Thinking, End Anxiety, and Overcome Worrying
 - [ ] Always Time for Coffee A Down-to-Earth Guide for Frontline Managers, Team Leaders and Supervisors
 - [ ] Everyday Bias: Identifying and Navigating Unconscious Judgments in Our Daily Lives
