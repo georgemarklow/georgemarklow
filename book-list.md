@@ -1,4 +1,5 @@
 ## Personal Development
+- [ ] The Perfectionism Workbook: Proven Strategies to End Procrastination, Accept Yourself, and Achieve Your Goals
 - [ ] How to Stop Overthinking: Declutter Your Mind with 8 Proven Strategies to Stop Negative Thinking, End Anxiety, and Overcome Worrying
 - [ ] Always Time for Coffee A Down-to-Earth Guide for Frontline Managers, Team Leaders and Supervisors
 - [ ] Everyday Bias: Identifying and Navigating Unconscious Judgments in Our Daily Lives
