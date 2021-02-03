@@ -1,6 +1,7 @@
 ## Personal Development
 - [ ] How to Stop Overthinking: Declutter Your Mind with 8 Proven Strategies to Stop Negative Thinking, End Anxiety, and Overcome Worrying
 - [ ] Everyday Bias: Identifying and Navigating Unconscious Judgments in Our Daily Lives
+- [ ] Leading without Authority
 - [ ] The Workshop Survival Guide: How to design and teach educational workshops that work every time
 - [ ] The Workshop Book: How to design and lead successful workshops
 - [ ] The First Minute: How to Start Conversations That Get Results
