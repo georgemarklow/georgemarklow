@@ -14,6 +14,7 @@
  
  ## Init TypeScript Libraries
 - [Tutorial](https://github.com/georgemarklow/georgemarklow/blob/main/notes/typescript-starter.md)
+- [Creating a TypeScript library with a minimal setup](https://michalzalecki.com/creating-typescript-library-with-a-minimal-setup/)
 - [Starter kit with zero-config for building a library in TypeScript](https://github.com/alexjoverm/typescript-library-starter)
 - [TypeScript Boilerplate](https://github.com/VitorLuizC/typescript-library-boilerplate)
 - [Start a New TypeScript Project](https://www.typescriptlang.org/docs/bootstrap)
