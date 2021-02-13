@@ -25,6 +25,7 @@
 - [List to handle edge cases for Math js functions](http://es5.github.io/#x15.8.2.13)
 
 ## Useful links
+- [Please Stop Using JS Classes](https://everyday.codes/javascript/please-stop-using-classes-in-javascript/)
 - [Javascript Module Pattern](https://medium.com/technofunnel/data-hiding-with-javascript-module-pattern-62b71520bddd)
 - [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
