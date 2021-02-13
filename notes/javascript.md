@@ -17,6 +17,7 @@
  
  ## Init TypeScript Libraries
 - [Tutorial](https://github.com/georgemarklow/georgemarklow/blob/main/notes/typescript-starter.md)
+- [Simple setup for your next TypeScript project](https://itnext.io/simple-setup-for-your-typescript-project-d96f66113b41)
 - [Create a new node js project in typescript for beginners](Create a new node js project in typescript for beginners)
 - [How To Set Up a New TypeScript Project from Scratch](https://www.digitalocean.com/community/tutorials/typescript-new-project)
 - [Creating a TypeScript library with a minimal setup](https://michalzalecki.com/creating-typescript-library-with-a-minimal-setup/)
