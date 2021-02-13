@@ -13,6 +13,7 @@
  - [Factory Functions in ES6](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
  
  ## Init TypeScript Libraries
+- [TypeScript Node Starter](https://github.com/microsoft/TypeScript-Node-Starter)
 - [TypeScript Starter](https://github.com/bitjson/typescript-starter)
 - [The fast and easy way to create a TypeScript library](https://carlosroso.com/the-fast-and-easy-way-to-create-a-typescript-library/)
 - [How to create your own Typescript library](https://aganglada.com/blog/how-to-create-your-own-typescript-library)
