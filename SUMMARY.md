@@ -47,7 +47,8 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 ### Book Reviews
 - [Book Review: ‘The Art of Everyday Assertiveness’](https://marklowg.medium.com/book-review-the-art-of-everyday-assertiveness-by-patrick-king-67c490f8ba7d)
 
-### Self-Development
+### General
+- [Leading Agile Project Estimation with PlanITPoker](https://marklowg.medium.com/leading-agile-project-estimation-with-planitpoker-de87198ddcf1)
 - [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
 - [Creating a Personal Knowledge Base on Github](https://marklowg.medium.com/creating-a-personal-knowledgebase-on-github-d1d8bb9222a4)
 - [Using Quizlet to Memorise Commands, IDE Shortcuts, and other things for Software Engineers](https://marklowg.medium.com/using-quizlet-to-memorise-commands-ide-shortcuts-and-other-things-for-software-engineers-cf110465d067)
@@ -56,13 +57,6 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 ### Git
 
 - [Drills in Git — Part 1](https://marklowg.medium.com/drills-in-git-part-1-a08a011794a6)
-
-### C#
-
-- [Part 1: Strings](https://marklowg.medium.com/drills-in-c-part-1-strings-fd93d5fa7a60)
-- [Part 2: Arrays](https://marklowg.medium.com/drills-in-c-part-2-arrays-8d2ebf65cdb7)
-- [Part 3: StringBuilder](https://marklowg.medium.com/drills-in-c-part-3-stringbuilder-5b6d06464a3b)
-- [Part 4: Stack<T>](https://marklowg.medium.com/drills-in-c-part-4-stack-t-90285542e5a1)
 
 ### Javascript
 - [A Beginners Guide to Creating a TypeScript library and a Github Repository](https://marklowg.medium.com/a-beginners-guide-to-creating-a-typescript-library-and-a-github-repository-26ae3f1540ad)
