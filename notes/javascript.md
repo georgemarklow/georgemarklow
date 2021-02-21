@@ -32,6 +32,7 @@
 - [How to use ESLint with TypeScript](https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/)
 
 ## Best Practices
+- [34 JavaScript Optimization Techniques to Know in 2021](https://js.plainenglish.io/34-javascript-optimization-techniques-to-know-in-2021-d561afdf73c3)
 - [JavaScript Tips, Tricks, and Best Practices](https://medium.com/javascript-in-plain-english/common-hacks-in-javascript-5d72a6fcdac)
 
 ## Unit Testing
