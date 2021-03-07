@@ -345,6 +345,24 @@ for (var i = 0; i < list.Count; i++)
 
 ```
 
+### Inserting Elements
+
+```csharp
+
+list.Insert(1, "A");
+list.InsertRange(3, new List<string> { "B", "C" });
+
+//  one
+//  A
+//  two
+//  B
+//  C
+//  three
+//  four
+//  five
+
+```
+
 ## SortedList
 
 ## Hashset
