@@ -205,30 +205,30 @@ dict3.Add(new KeyValuePair<int, string>(2, "b"));
 ### Accessing Elements
 ```csharp
 var dict = new Dictionary<int, string>
-            {
-                { 1, "a" },
-                { 2, "b" }
-            };
+{
+    { 1, "a" },
+    { 2, "b" }
+};
 
-            foreach (var item in dict)
-            {
-                Console.WriteLine($"key: {item.Key} value: {item.Value}");
-            }
+foreach (var item in dict)
+{
+    Console.WriteLine($"key: {item.Key} value: {item.Value}");
+}
 
-            foreach (KeyValuePair<int, string> item in dict)
-            {
-                Console.WriteLine($"key: {item.Key} value: {item.Value}");
-            }
+foreach (KeyValuePair<int, string> item in dict)
+{
+    Console.WriteLine($"key: {item.Key} value: {item.Value}");
+}
 
-            foreach (var key in dict.Keys)
-            {
-                Console.WriteLine($"key: {key}");
-            }
+foreach (var key in dict.Keys)
+{
+    Console.WriteLine($"key: {key}");
+}
 
-            foreach (var value in dict.Values)
-            {
-                Console.WriteLine($"value: {value}");
-            }
+foreach (var value in dict.Values)
+{
+    Console.WriteLine($"value: {value}");
+}
 ```
 
 ## StringBuilder
