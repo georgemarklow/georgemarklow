@@ -287,6 +287,65 @@ dict.Count;         // 1
 
 ## Stack
 
+### Adding Values to the Stack
+
+```csharp
+
+Stack<int> stack = new Stack<int>();
+stack.Push(1);
+stack.Push(2);
+stack.Push(3);
+stack.Push(4);
+stack.Push(5);
+    
+foreach (var item in stack)
+    print(item);
+    
+// 1
+// 2
+// 3
+// 4
+// 5
+
+```
+
+### Checking Stack Contents
+
+```csharp
+
+stack.Contains(1);                  // True
+stack.Contains(10);                 // False
+
+```
+
+### Peek and Pop
+
+```csharp
+
+stack.Peek();                       // 5
+stack.Count;                        // 5
+stack.Pop();                        // 5
+stack.Peek();                       // 4
+
+int peekedValue;    
+stack.TryPeek(out peekedValue);
+peekedValue;                        // 4
+
+int poppedValue;
+stack.TryPop(out poppedValue);
+poppedValue;                        // 4
+
+```
+
+### Clear the Stack
+
+```csharp
+
+stack.Clear();
+stack.Count;                    // 0
+
+```
+
 ## Queue
 
 ## List
