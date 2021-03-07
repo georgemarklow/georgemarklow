@@ -8,6 +8,7 @@
 - [Stack](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#stack)
 - [Queue](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#queue)
 - [List](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#list)
+- [SortedList](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#sortedlist)
 
 <br/>
 
