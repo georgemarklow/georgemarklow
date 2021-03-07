@@ -73,7 +73,7 @@ string.IsNullOrEmpty(" ")
 string[] s4 = { "abc", "def" };
 string.Join("-", s4);
 ```
-### 
+### Remove
 ```csharp
 "abc".Remove(2);
 "abc".Remove(1, 2);
