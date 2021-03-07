@@ -200,8 +200,6 @@ dict3.Add(new KeyValuePair<int, string>(1, "a"));
 dict3.Add(new KeyValuePair<int, string>(2, "b"));
 ```
 
-### Collection Initializer
-
 ### Accessing Elements
 ```csharp
 var dict = new Dictionary<int, string>
@@ -210,6 +208,11 @@ var dict = new Dictionary<int, string>
     { 2, "b" }
 };
 
+dict[1];    // a
+dict[2];    // b
+```
+### Looping Through Elements
+```csharp
 foreach (var item in dict)
 {
     Console.WriteLine($"key: {item.Key} value: {item.Value}");
