@@ -182,6 +182,8 @@ arr[1][1]
 <br/>
 
 ## Dictionary
+
+### Initialization
 ```csharp
 var dict1 = new Dictionary<int, string>
 {
