@@ -188,7 +188,7 @@ arr[1][1]
 var dict1 = new Dictionary<int, string>
 {
     { 1, "a" },
-    { 1, "b" }
+    { 2, "b" }
 };
 
 var dict2 = new Dictionary<int, string>();
