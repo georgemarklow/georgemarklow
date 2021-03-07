@@ -251,6 +251,20 @@ dict.ContainsValue("c");    // False
 
 ```
 
+### Remove
+```csharp
+
+var dict = new Dictionary<int, string>
+{
+    { 1, "a" },
+    { 2, "b" }
+};
+
+dict.Remove(1);     // True
+dict.Count;         // 1
+
+``
+
 ## StringBuilder
 
 ## Stack
