@@ -28,9 +28,3 @@ string.Concat("a", "b")
 "abc".Contains("A")
 "abc".Contains("a")
 ```
-
-## Summary
-
-## Best Practices
-
-## Useful links
