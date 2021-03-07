@@ -376,6 +376,8 @@ list.RemoveRange(1, 2);
 //  four
 //  five
 
+list.TrueForAll(x => x.StartsWith("f"));    // False
+
 ```
 
 ## SortedList
