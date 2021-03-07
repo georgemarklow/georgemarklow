@@ -349,6 +349,49 @@ stack.Count;                    // 0
 
 ## Queue
 
+### Adding Items
+
+```csharp
+
+var queue = new Queue<string>();
+queue.Enqueue("one");
+queue.Enqueue("two");
+queue.Enqueue("three");
+queue.Count;
+    
+foreach (var item in queue)
+    Console.WriteLine(item);
+queue.Contains("one");
+queue.Contains("four");
+
+```
+
+### Peeking and Dequeuing
+
+```csharp
+
+queue.Peek();
+queue.Dequeue();
+
+string peekedItem;
+queue.TryPeek(out peekedItem);
+peekedItem;
+
+string dequeuedItem;
+queue.TryDequeue(out dequeuedItem);
+dequeuedItem;
+
+```
+
+### Clearing the Queue
+
+```csharp
+
+queue.Clear();
+queue.Count;
+
+```
+
 ## List
 
 ### Initialize
