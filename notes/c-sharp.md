@@ -29,6 +29,46 @@ string.Concat("a", "b")
 "abc".Contains("a")
 ```
 
+### StartsWith, EndsWith
+```csharp
+"abc".StartsWith("A")
+"abc".StartsWith("a")
+
+"abc".EndsWith("C")
+"abc".EndsWith("c")
+```
+### Equals
+```csharp
+var s2 = "a";
+var s3 = "b";
+"a".Equals(s2);
+"a".Equals(s3);
+```
+### Enumerator
+```csharp
+var charEnum = "abc".GetEnumerator();
+while (charEnum.MoveNext())
+    Console.WriteLine(charEnum.Current);
+```
+### GetHashCode
+```csharp
+"abc".GetHashCode()
+```
+### IndexOf
+```csharp
+"abc".IndexOf("a")
+"abc".IndexOf("A")
+"abc".IndexOf("d")
+```
+
+### IsNullOrEmpty
+```csharp
+string.IsNullOrEmpty("a")
+string.IsNullOrEmpty(null)
+string.IsNullOrEmpty("")
+string.IsNullOrEmpty(" ")
+```
+
 ## Arrays
 
 ## StringBuilder
