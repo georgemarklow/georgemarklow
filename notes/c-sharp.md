@@ -109,6 +109,12 @@ var chars = "abc".ToCharArray()
 
 ## Arrays
 
+### Initialization
+```csharp
+var arr1 = new int[2]
+var arr2 = new int[2] { 1, 2 }
+int[] arr3 = { 1, 2 }
+```
 ## Dictionary
 
 ## StringBuilder
