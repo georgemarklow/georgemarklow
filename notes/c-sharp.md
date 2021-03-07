@@ -297,9 +297,9 @@ dict.Count;         // 1
 
 class Person { }
 
-List<int> list = new List<int>
+List<string> list = new List<string>
 {
-    1, 2, 3
+    "one", "two", "three"
 };
 
 var people = new List<Person>
@@ -318,8 +318,30 @@ list.Add("one");
 list.Add("two");
 list.Add("three");
 
-list.AddRange(new List<string> { "four", "five" });    // { "one", "two", "three", "four", "five" }
-list.Count                                          // 5
+list.AddRange(new List<string> { "four", "five" });     // { "one", "two", "three", "four", "five" }
+list.Count                                              // 5
+
+```
+
+### Accessing Collection
+
+```csharp
+
+foreach (var item in list)
+    print(item);            // "one", "two", "three", "four", "five"
+    
+list[1]                     // "two"
+
+for (var i = 0; i < list.Count; i++)
+{
+    $"index: {i} item {list[i]}";
+};
+
+//  index: 0 item one
+//  index: 1 item two
+//  index: 2 item three
+//  index: 3 item four
+//  index: 4 item five
 
 ```
 
