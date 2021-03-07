@@ -155,7 +155,7 @@ arr[2][0]
 arr[1][1]
 ```
 
-### Jagged Arrays
+### Array of Arrays
 ```csharp
 var arr = new int[2][][]
 {
