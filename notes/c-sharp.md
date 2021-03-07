@@ -28,3 +28,19 @@ string.Concat("a", "b")
 "abc".Contains("A")
 "abc".Contains("a")
 ```
+
+## Arrays
+
+## StringBuilder
+
+## Stack
+
+## Queue
+
+## Dictionary
+
+## List
+
+## SortedList
+
+## Hashset
