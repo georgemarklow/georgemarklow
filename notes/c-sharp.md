@@ -69,6 +69,44 @@ string.IsNullOrEmpty("")
 string.IsNullOrEmpty(" ")
 ```
 
+```csharp
+string[] s4 = { "abc", "def" };
+string.Join("-", s4);
+```
+
+```csharp
+"abc".Remove(2);
+"abc".Remove(1, 2);
+```
+
+```csharp
+"abc".Replace("c", "d")
+```
+
+```csharp
+"a b c".Split(' ')
+```
+
+```csharp
+"abc".Substring(1)
+"abc".Substring(1, 2)
+```
+
+```csharp
+var chars = "abc".ToCharArray()
+```
+
+```csharp
+"Abc".ToUpper()
+"Abc".ToLower()
+```
+
+```csharp
+" abc ".Trim()
+" abc ".TrimStart()
+" abc ".TrimEnd()
+```
+
 ## Arrays
 
 ## StringBuilder
