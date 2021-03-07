@@ -263,7 +263,7 @@ var dict = new Dictionary<int, string>
 dict.Remove(1);     // True
 dict.Count;         // 1
 
-``
+```
 
 ## StringBuilder
 
