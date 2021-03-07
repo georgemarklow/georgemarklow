@@ -116,6 +116,14 @@ var arr1 = new int[2]
 var arr2 = new int[2] { 1, 2 }
 int[] arr3 = { 1, 2 }
 ```
+### Setting Vales
+```csharp
+var arr = new int[] { 1, 2 };
+arr[1] = 3;
+arr[0]
+arr[1]
+```
+
 ## Dictionary
 
 ## StringBuilder
