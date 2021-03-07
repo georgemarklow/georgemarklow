@@ -234,6 +234,23 @@ foreach (var value in dict.Values)
 }
 ```
 
+### ContainsKey, Contains (Value)
+
+```csharp
+
+var dict = new Dictionary<int, string>
+{
+    { 1, "a" },
+    { 2, "b" }
+};
+
+dict.ContainsKey(1);
+dict.ContainsKey(3);
+dict.ContainsValue("a");
+dict.ContainsValue("c");
+
+```
+
 ## StringBuilder
 
 ## Stack
