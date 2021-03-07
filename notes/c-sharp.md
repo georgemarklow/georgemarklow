@@ -5,6 +5,8 @@
 - [Strings](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#strings)
 - [Arrays](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#arrays)
 
+<br/>
+
 ## Strings
 
 ### Compare
@@ -107,6 +109,7 @@ var chars = "abc".ToCharArray()
 " abc ".TrimStart()
 " abc ".TrimEnd()
 ```
+<br/>
 
 ## Arrays
 
@@ -174,6 +177,8 @@ arr[0][0]
 arr[2][0]
 arr[1][1]
 ```
+
+<br/>
 
 ## Dictionary
 
