@@ -486,4 +486,100 @@ list.TrueForAll(x => x.StartsWith("f"));    // False
 
 ## SortedList
 
+### Adding Items and Checking the List
+
+```csharp
+
+var list = new SortedList<string, int>();
+list.Add("one", 1);
+list.Add("two", 2);
+list.Add("three", 3);
+list.Add("four", 4);
+print(list["one"]);
+print(list.ContainsKey("one"));
+print(list.ContainsKey("five"));
+print(list.ContainsValue(1));
+print(list.ContainsValue(5));
+
+```
+
+### Looping through the List Contents
+
+```csharp
+
+for (int i = 0; i < list.Count; i++)
+{
+    print($"{list.Keys[i]} {list.Values[i]}");
+}
+// four 4
+// one 1
+// three 3
+// two 2
+
+foreach (var kvp in list)
+{
+    print($"{kvp.Key} {kvp.Value}");
+}
+// four 4
+// one 1
+// three 3
+// two 2
+
+```
+
+### Printing Keys and Values Directly
+
+```csharp
+
+foreach (string key in list.Keys)
+{
+    print(key);
+}
+// four
+// one
+// three
+// two
+
+foreach (int value in list.Values)
+{
+    print(value);
+}
+// 4
+// 1
+// 3
+// 2
+
+```
+
+### Attempting to Get a Value
+
+```csharp
+
+int val;
+if (list.TryGetValue("one", out val))
+{
+    print(val);
+}
+
+Attempting to Get a Key
+if (list.ContainsValue(6))
+    print(list.First(kvp => kvp.Value == 6).Key);
+    
+```
+
+### Removing Items
+
+```csharp
+
+list.Remove("three");
+list.RemoveAt(0);
+foreach (var kvp in list)
+{
+    print($"{kvp.Key} {kvp.Value}");
+}
+// one 1
+// two 2
+
+```
+
 ## Hashset
