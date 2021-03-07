@@ -68,39 +68,39 @@ string.IsNullOrEmpty(null)
 string.IsNullOrEmpty("")
 string.IsNullOrEmpty(" ")
 ```
-
+### Join
 ```csharp
 string[] s4 = { "abc", "def" };
 string.Join("-", s4);
 ```
-
+### 
 ```csharp
 "abc".Remove(2);
 "abc".Remove(1, 2);
 ```
-
+### Replace
 ```csharp
 "abc".Replace("c", "d")
 ```
-
+### Split
 ```csharp
 "a b c".Split(' ')
 ```
-
+### Substring
 ```csharp
 "abc".Substring(1)
 "abc".Substring(1, 2)
 ```
-
+### ToCharArray
 ```csharp
 var chars = "abc".ToCharArray()
 ```
-
+### ToUpper, ToLower
 ```csharp
 "Abc".ToUpper()
 "Abc".ToLower()
 ```
-
+### Trim, TrimStart, TrimEnd
 ```csharp
 " abc ".Trim()
 " abc ".TrimStart()
