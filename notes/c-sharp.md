@@ -496,11 +496,12 @@ list.Add("one", 1);
 list.Add("two", 2);
 list.Add("three", 3);
 list.Add("four", 4);
-print(list["one"]);
-print(list.ContainsKey("one"));
-print(list.ContainsKey("five"));
-print(list.ContainsValue(1));
-print(list.ContainsValue(5));
+
+list["one"];
+list.ContainsKey("one");
+list.ContainsKey("five");
+list.ContainsValue(1);
+list.ContainsValue(5);
 
 ```
 
@@ -510,8 +511,9 @@ print(list.ContainsValue(5));
 
 for (int i = 0; i < list.Count; i++)
 {
-    print($"{list.Keys[i]} {list.Values[i]}");
+    Console.WriteLine($"{list.Keys[i]} {list.Values[i]}");
 }
+
 // four 4
 // one 1
 // three 3
@@ -519,8 +521,9 @@ for (int i = 0; i < list.Count; i++)
 
 foreach (var kvp in list)
 {
-    print($"{kvp.Key} {kvp.Value}");
+    Console.WriteLine($"{kvp.Key} {kvp.Value}");
 }
+
 // four 4
 // one 1
 // three 3
@@ -534,8 +537,9 @@ foreach (var kvp in list)
 
 foreach (string key in list.Keys)
 {
-    print(key);
+    Console.WriteLine(key);
 }
+
 // four
 // one
 // three
@@ -543,8 +547,9 @@ foreach (string key in list.Keys)
 
 foreach (int value in list.Values)
 {
-    print(value);
+    Console.WriteLine(value);
 }
+
 // 4
 // 1
 // 3
@@ -559,7 +564,7 @@ foreach (int value in list.Values)
 int val;
 if (list.TryGetValue("one", out val))
 {
-    print(val);
+    Console.WriteLine(val);
 }
 
 ```
@@ -569,7 +574,7 @@ if (list.TryGetValue("one", out val))
 ```csharp
 
 if (list.ContainsValue(6))
-    print(list.First(kvp => kvp.Value == 6).Key);
+    Console.WriteLine(list.First(kvp => kvp.Value == 6).Key);
     
 ```
 
@@ -579,10 +584,12 @@ if (list.ContainsValue(6))
 
 list.Remove("three");
 list.RemoveAt(0);
+
 foreach (var kvp in list)
 {
-    print($"{kvp.Key} {kvp.Value}");
+    Console.WriteLine($"{kvp.Key} {kvp.Value}");
 }
+
 // one 1
 // two 2
 
