@@ -123,6 +123,24 @@ arr[1] = 3;
 arr[0]
 arr[1]
 ```
+### Multi-Dimensional Arrays
+```csharp
+var arr1 = new int[3, 2]
+{
+    { 1, 2 },
+    { 3, 4 },
+    { 5, 6 }
+};
+
+int[,] arr2 = { { 1, 2 }, { 3, 4 }, { 5, 6 } };
+
+arr1[0, 0]
+arr1[0, 1]
+arr1[1, 0]
+arr1[1, 1]
+arr1[2, 0]
+arr1[2, 1]
+```
 
 ## Dictionary
 
