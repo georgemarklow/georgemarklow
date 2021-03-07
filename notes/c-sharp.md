@@ -211,6 +211,23 @@ var dict = new Dictionary<int, string>
 dict[1];    // a
 dict[2];    // b
 ```
+
+### Try Accessing Values
+
+```csharp
+
+var dict = new Dictionary<int, string>
+{
+    { 1, "a" },
+    { 2, "b" }
+};
+
+string value;
+dict.TryGetValue(1, out value);     // True
+value;                              // a
+
+```
+
 ### Looping Through Elements
 ```csharp
 foreach (var item in dict)
