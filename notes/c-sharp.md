@@ -244,10 +244,10 @@ var dict = new Dictionary<int, string>
     { 2, "b" }
 };
 
-dict.ContainsKey(1);
-dict.ContainsKey(3);
-dict.ContainsValue("a");
-dict.ContainsValue("c");
+dict.ContainsKey(1);        // True
+dict.ContainsKey(3);        // False
+dict.ContainsValue("a");    // True
+dict.ContainsValue("c");    // False
 
 ```
 
