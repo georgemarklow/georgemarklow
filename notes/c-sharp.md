@@ -6,6 +6,7 @@
 - [Arrays](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#arrays)
 - [Dictionary](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#dictionary)
 - [Stack](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#stack)
+- [Queue](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#queue)
 - [List](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#list)
 
 <br/>
