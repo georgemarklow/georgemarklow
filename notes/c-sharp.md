@@ -363,6 +363,21 @@ list.InsertRange(3, new List<string> { "B", "C" });
 
 ```
 
+### Remove Elements
+
+```csharp
+
+list.Remove("one");                         // True
+list.RemoveAt(1);                           
+list.RemoveAll(x => x.StartsWith("t"));     // 1
+list.RemoveRange(1, 2);                     
+
+//  A
+//  four
+//  five
+
+```
+
 ## SortedList
 
 ## Hashset
