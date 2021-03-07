@@ -109,13 +109,13 @@ var chars = "abc".ToCharArray()
 
 ## Arrays
 
+## Dictionary
+
 ## StringBuilder
 
 ## Stack
 
 ## Queue
-
-## Dictionary
 
 ## List
 
