@@ -318,6 +318,9 @@ list.Add("one");
 list.Add("two");
 list.Add("three");
 
+list.AddRange(new List<int> { "four", "five" });    // { "one", "two", "three", "four", "five" }
+list.Count                                          // 5
+
 ```
 
 ## SortedList
