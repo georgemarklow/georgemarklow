@@ -1,6 +1,6 @@
 # C#
 
-- [Strings]()
+- [Strings](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#strings)
 
 ### Strings
 
