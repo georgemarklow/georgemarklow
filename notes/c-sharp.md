@@ -4,7 +4,7 @@
 
 - [Strings](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#strings)
 - [Arrays](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#arrays)
-- [Dictionaries](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#dictionary)
+- [Dictionary](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#dictionary)
 
 <br/>
 
@@ -182,6 +182,22 @@ arr[1][1]
 <br/>
 
 ## Dictionary
+```csharp
+var dict1 = new Dictionary<int, string>
+{
+    { 1, "a" },
+    { 1, "b" }
+};
+
+var dict2 = new Dictionary<int, string>();
+dict2.Add(1, "a");
+dict2.Add(2, "b");
+
+IDictionary<int, string> dict3 = new Dictionary<int, string>();
+dict3.Add(new KeyValuePair<int, string>(1, "a"));
+dict3.Add(new KeyValuePair<int, string>(2, "b"));
+```
+
 
 ## StringBuilder
 
