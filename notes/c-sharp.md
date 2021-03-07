@@ -291,6 +291,35 @@ dict.Count;         // 1
 
 ## List
 
+### Initialize
+
+```csharp
+
+class Person { }
+
+List<int> list = new List<int>
+{
+    1, 2, 3
+};
+
+var people = new List<Person>
+{
+    new Person()
+};
+
+```
+
+### Add Elements
+
+```csharp
+
+var list = new List<string>();
+list.Add("one");
+list.Add("two");
+list.Add("three");
+
+```
+
 ## SortedList
 
 ## Hashset
