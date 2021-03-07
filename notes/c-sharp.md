@@ -4,6 +4,7 @@
 
 - [Strings](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#strings)
 - [Arrays](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#arrays)
+- [Dictionaries](https://github.com/georgemarklow/georgemarklow/blob/main/notes/c-sharp.md#dictionary)
 
 <br/>
 
