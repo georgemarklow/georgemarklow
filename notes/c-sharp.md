@@ -1,5 +1,7 @@
 # C#
 
+- [Strings]()
+
 ### Strings
 
 #### Compare
