@@ -16,8 +16,8 @@
 
 ### Compare
 ```csharp
-string.Compare("a", "a")
-string.Compare("a", "b")
+string.Compare("a", "a");
+string.Compare("a", "b");
 string.Compare("b", "a");
 string.Compare("A", "a");
 ```
@@ -29,21 +29,21 @@ s1.CompareTo("a");
 ```
 ### Concat
 ```csharp
-string.Concat("a", "b")
+string.Concat("a", "b");
 ```
 ### Contains
 ```csharp
-"abc".Contains("A")
-"abc".Contains("a")
+"abc".Contains("A");
+"abc".Contains("a");
 ```
 
 ### StartsWith, EndsWith
 ```csharp
-"abc".StartsWith("A")
-"abc".StartsWith("a")
+"abc".StartsWith("A");
+"abc".StartsWith("a");
 
-"abc".EndsWith("C")
-"abc".EndsWith("c")
+"abc".EndsWith("C");
+"abc".EndsWith("c");
 ```
 ### Equals
 ```csharp
@@ -60,21 +60,21 @@ while (charEnum.MoveNext())
 ```
 ### GetHashCode
 ```csharp
-"abc".GetHashCode()
+"abc".GetHashCode();
 ```
 ### IndexOf
 ```csharp
-"abc".IndexOf("a")
-"abc".IndexOf("A")
-"abc".IndexOf("d")
+"abc".IndexOf("a");
+"abc".IndexOf("A");
+"abc".IndexOf("d");
 ```
 
 ### IsNullOrEmpty
 ```csharp
-string.IsNullOrEmpty("a")
-string.IsNullOrEmpty(null)
-string.IsNullOrEmpty("")
-string.IsNullOrEmpty(" ")
+string.IsNullOrEmpty("a");
+string.IsNullOrEmpty(null);
+string.IsNullOrEmpty("");
+string.IsNullOrEmpty(" ");
 ```
 ### Join
 ```csharp
@@ -88,31 +88,31 @@ string.Join("-", s4);
 ```
 ### Replace
 ```csharp
-"abc".Replace("c", "d")
+"abc".Replace("c", "d");
 ```
 ### Split
 ```csharp
-"a b c".Split(' ')
+"a b c".Split(' ');
 ```
 ### Substring
 ```csharp
-"abc".Substring(1)
-"abc".Substring(1, 2)
+"abc".Substring(1);
+"abc".Substring(1, 2);
 ```
 ### ToCharArray
 ```csharp
-var chars = "abc".ToCharArray()
+var chars = "abc".ToCharArray();
 ```
 ### ToUpper, ToLower
 ```csharp
-"Abc".ToUpper()
-"Abc".ToLower()
+"Abc".ToUpper();
+"Abc".ToLower();
 ```
 ### Trim, TrimStart, TrimEnd
 ```csharp
-" abc ".Trim()
-" abc ".TrimStart()
-" abc ".TrimEnd()
+" abc ".Trim();
+" abc ".TrimStart();
+" abc ".TrimEnd();
 ```
 <br/>
 
@@ -120,9 +120,9 @@ var chars = "abc".ToCharArray()
 
 ### Initialization
 ```csharp
-var arr1 = new int[2]
-var arr2 = new int[2] { 1, 2 }
-int[] arr3 = { 1, 2 }
+var arr1 = new int[2];
+var arr2 = new int[2] { 1, 2 };
+int[] arr3 = { 1, 2 };
 ```
 ### Setting Vales
 ```csharp
