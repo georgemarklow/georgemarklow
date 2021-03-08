@@ -61,6 +61,44 @@ String.fromCharCode(65,98,99)                       // 'Abc'
 String.fromCharCode(32,100,101,102,32)              // ' def '
 ```
 
+### Numbers
+
+```javascript
+> const a = 2           undefined
+> const b = "3"         undefined
+> const c = Math.PI     undefined
+> const d = 123.456     undefined
+> a+3                   5
+> a-3                   -1
+> a*2                   4
+> a / 1.25              1.6
+> a/2                   1
+> a/3                   0.6666666666666666
+> a % 2                 0
+> a % 3                 2
+> a ** 2                4
+> a ** 1.5              2.82842712474619
+> `d: ${d}`             'd: 123.456'
+> d.toString()          '123.456'
+> d.toString(16)        '7b.74bc6a7ef9dc'
+> d.toString(2)         '1111011.0111010010111100011010100111111011111001110111'
+> Number.parseInt(b)    3
+> Number.parseFloat(b)  3
+> Number.parseInt(a)    2
+> Number.parseInt(d)    123
+> Number.parseInt(a,10) 2
+> Number.parseFloat(a)  2
+> Number.parseFloat(d)  123.456
+> a+b                   '23'
+> b+a                   '32'
+> a + parseInt(b)       5
+> c.toFixed()           '3'
+> c.toFixed(0)          '3'
+> c.toFixed(1)          '3.1'
+
+cont...
+```
+
 ## Summary
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [How To Work With TypeScript in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-work-with-typescript-in-visual-studio-code)
