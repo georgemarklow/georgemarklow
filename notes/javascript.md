@@ -17,6 +17,50 @@ console.log(JSON.stringify(
 , null, 2));                                  // { "first": "George", "last": "Marklow" }
 ```
 
+### Strings
+
+```javascript
+const s = 'Abc'     // undefined
+const t = ' def '   // undefined
+s                   // 'Abc'
+s.toLowerCase()     // 'abc'
+s.toUpperCase()     // 'ABC'
+s.length            // 3
+s[0]                // 'A'
+s[s.length - 1]     // 'c'
+s[3]                // undefined
+s[-1]               // undefined
+s.charAt(1)         // 'b'
+s.charAt(3)         // ''
+s.substring(0,2)    // 'Ab'
+s.substring(0,3)    // 'Abc'
+s.substring(0,4)    // 'Abc'
+s.substring(2)      // 'c'
+s.substring(3)      // ''
+s+t                 // 'Abc def '
+`s: ${s}`           // 's: Abc'
+t.trimStart()       // 'def '
+t.trimEnd()         // ' def'
+t.trim()            // 'def'           
+t.replace('f','F')  // ' deF '
+t.replace('z','Z')  // ' def '
+s.startsWith('A')   // true
+s.startsWith('a')   // false
+s.endsWith('c')     // true
+s.endsWith('x')     // false
+s.concat('abc')     // 'Abcabc'
+s.indexOf('c')      // 2
+s.indexOf('C')      // -1
+s.lastIndexOf('c')  // 2
+s.lastIndexOf('C')  // -1
+const u = 'Abc'     // undefined
+s.localeCompare(u)  // 0
+u.localeCompare(s)  // 0
+s.localeCompare(u, 'en', { sensitivity: 'base' })   // 0
+String.fromCharCode(65,98,99)                       // 'Abc'
+String.fromCharCode(32,100,101,102,32)              // ' def '
+```
+
 ## Summary
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [How To Work With TypeScript in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-work-with-typescript-in-visual-studio-code)
