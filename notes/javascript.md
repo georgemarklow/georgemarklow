@@ -1,6 +1,22 @@
 
 # Javascript / TypeScript
 
+## Notes
+
+### Console Basics
+
+```javascript
+console.log('test', 123, true);               // test 123 true
+console.log('Test: %s %j', 123, 'test');      // Test: 123 "test"
+console.log('%s %s', 'test', 123);            // test 123
+console.log('%o', {foo: 123, bar: 'test'});   // { foo: 123, bar: 'test' }
+console.log('%j', {foo: 123, bar: 'test'});   // {"foo":123,"bar":"test"}
+console.log('%s%%', 99);                      // 99%
+console.log(JSON.stringify(
+  {first: 'George', last: 'Marklow'}
+, null, 2));                                  // { "first": "George", "last": "Marklow" }
+```
+
 ## Summary
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [How To Work With TypeScript in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-work-with-typescript-in-visual-studio-code)
