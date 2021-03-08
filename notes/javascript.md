@@ -1,8 +1,8 @@
 # Javascript / TypeScript
 
-## Warm-Up Drill in Node
+## JavaScript Warm-Up Drill in Node
 
-<img width="777" alt="Screenshot 2021-03-08 at 9 15 03 pm" src="https://user-images.githubusercontent.com/11710404/110382832-5d3f4300-8053-11eb-8307-b783495f9cfa.png">
+<img width="600" alt="Screenshot 2021-03-08 at 9 15 03 pm" src="https://user-images.githubusercontent.com/11710404/110382832-5d3f4300-8053-11eb-8307-b783495f9cfa.png">
 
 ### Console Basics
 
