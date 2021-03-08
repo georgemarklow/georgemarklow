@@ -68,12 +68,12 @@ String.fromCharCode(32,100,101,102,32)              // ' def '
 > const b = "3"         undefined
 > const c = Math.PI     undefined
 > const d = 123.456     undefined
-> a+3                   5
-> a-3                   -1
-> a*2                   4
+> a + 3                 5
+> a - 3                 -1
+> a * 2                 4
 > a / 1.25              1.6
-> a/2                   1
-> a/3                   0.6666666666666666
+> a / 2                 1
+> a / 3                 0.6666666666666666
 > a % 2                 0
 > a % 3                 2
 > a ** 2                4
