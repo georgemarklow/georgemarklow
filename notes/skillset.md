@@ -9,6 +9,7 @@
 - RxJs
 - npm
 - Node
+- Protracror
 - IIS
 - SQL (incl. views, sps, indexing)
 - SSMS
