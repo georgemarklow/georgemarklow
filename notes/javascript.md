@@ -142,7 +142,6 @@ Number("a");                 // NaN
 Number.isInteger(1);         // true
 Number.isInteger(2.5);       // false
 Number.isInteger(null);      // false
-
 Number.MAX_VALUE;            // 1.7976931348623157e+308
 Number.MIN_VALUE;            // 5e-324
 Number.POSITIVE_INFINITY;    // Infinity
