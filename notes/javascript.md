@@ -698,6 +698,73 @@ Promise.all([p1, p2, p3]).then((values) => {
 // [ 1, 2, 3 ]
 ```
 
+### Closures
+
+```javascript
+function f() {
+    let y = 2;
+    function g() { 
+        var x = 1; 
+        console.log(`${x} ${y}`);
+        x++;
+        y++;
+    }
+    return g;
+}
+var a = f(); 
+var b = f(); 
+a();                         // 1 2
+a();                         // 1 3
+b();                         // 1 2
+```
+
+```javascript
+function f1() {
+    let x = 'b'
+    function f2() {
+        console.log('a')
+        console.log(x)
+    }
+    x = 'c'
+    return f2
+}
+var f = f1();
+f()                          // a
+                             // c
+                             
+```
+
+```javascript
+
+function f(x) {
+    return function(y) { return x * y }
+}
+var g = f(1)
+var h = f(2)
+g(2)                         // 2 (1 * 2)
+h(2)                         // 4 (2 * 2)
+
+```
+
+```javascript
+
+var f = (function() {
+    var a = 1
+    function times(x) { a *= x }
+    return {
+        p: function() { times(2) },
+        q: function() { times(0.5) },
+        r: function() { return a }
+    }
+})()
+console.log(f.r())           // 1
+f.p()
+console.log(f.r())           // 2
+f.q()
+f.q()
+console.log(f.r())           // 0.5
+```
+
 ## Summary
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [How To Work With TypeScript in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-work-with-typescript-in-visual-studio-code)
