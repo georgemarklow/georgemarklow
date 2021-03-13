@@ -486,7 +486,60 @@ const f = x => {
 f([1,2,3]);                  // '1 2 3'
 ```
 
+### Math Library
 
+```javascript
+Math.trunc(1);               // 1
+Math.trunc(1.4);             // 1
+```
+
+```javascript
+Math.round(1.4);             // 1
+Math.round(1.5);             // 2
+Math.floor(1.5);             // 1
+Math.ceil(1.4);              // 2
+Math.round(null);            // 0
+Math.floor(null);            // 0
+Math.ceil(null);             // 0
+```
+
+```javascript
+Math.abs(2);                 // 2
+Math.abs(-2);                // 2
+Math.pow(2,3);               // 8
+Math.sqrt(4);                // 2
+Math.sqrt(5);                // 2.23606797749979
+Math.cbrt(8);                // 2
+Math.cbrt(9);                // 2.080083823051904
+```
+
+```javascript
+Math.min(-1,1,2);             // -1
+Math.max(-1,1,2);             // 2
+const a = [-1,1,2];
+Math.min(a);                 // NaN
+Math.max(a);                 // NaN
+Math.min(...x);              // -1
+Math.max(...x);              // 2
+```
+
+```javascript
+Math.exp(2);                 // 7.38905609893065
+Math.log(2);                 // 0.6931471805599453
+Math.log10(100);             // 2
+Math.log2(4);                // 2
+```
+
+```javascript
+Math.sign(2);                // 1
+Math.sign(-3);               // -1
+```
+
+```javascript
+Math.random();               // 0.21371612513099092
+Math.random();               // 0.27317142827413443      
+Math.random();               // 0.9137994771416735
+```
 
 ## Summary
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
