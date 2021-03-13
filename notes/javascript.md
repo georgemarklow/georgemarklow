@@ -841,6 +841,7 @@ f.q()
 f.q()
 console.log(f.r())           // 0.5
 ```
+<br/>
 
 ## Some Useful Resources
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
