@@ -39,9 +39,10 @@ console.log(JSON.stringify(
 ```javascript
 const s = 'Abc'     // undefined
 const t = ' def '   // undefined
-s                   // 'Abc'
+                   
 ```
 ```javascript
+s                   // 'Abc'
 s.toLowerCase()     // 'abc'
 s.toUpperCase()     // 'ABC'
 s.length            // 3
