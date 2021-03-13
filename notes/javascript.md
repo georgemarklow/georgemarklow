@@ -4,7 +4,7 @@
 
 # Javascript
 
-## JavaScript Warm-Up Drill in Node
+## Warm-Up Drill with Node.js
 
 There's two ways to get started with this JavaScript drill, using:
 1. Node.js from the Terminal
