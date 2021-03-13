@@ -4,11 +4,11 @@
 
 There are a couple of ways to get started, using
 1. Node.js from the Terminal
-2. a Node.js Repl (a playground for experimenting with and sharing code)
+2. a Node.js Replit playground (a collaborative space for experimenting with and sharing code)
 
-For one-liners, such as string and number manipulation, I prefer using the Terminal. For longer examples that use multiple lines, I find it more convenient to use a Repl.
+For one-liners, such as string and number manipulation, I prefer using the Terminal. For longer examples that use multiple lines, I find it more convenient to use Replit.
 
-#### Terminal
+### Option 1: Node.js from the Terminal
 
 1. Install Node if you haven't already from [here](https://nodejs.org/en/download/)
 2. Press ⌘ + Space, search and open the Terminal
@@ -17,9 +17,9 @@ For one-liners, such as string and number manipulation, I prefer using the Termi
 <img width="777" alt="Screenshot 2021-03-13 at 6 24 31 pm" src="https://user-images.githubusercontent.com/11710404/111040077-5f294d80-8429-11eb-985f-1a583baf9192.png">
 
 
-#### ReplIt
+### Option 2: A Node.js Replit Playground
 
-1. Visit [ReplIt](https://replit.com/~)
+1. Visit [Replit](https://replit.com/~)
 
 <img width="1381" alt="Screenshot 2021-03-13 at 6 18 08 pm" src="https://user-images.githubusercontent.com/11710404/111039988-ed510400-8428-11eb-81a3-97b7529063dc.png">
 
