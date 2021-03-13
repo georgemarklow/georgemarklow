@@ -105,7 +105,8 @@ const a = 2;
 const b = "3";
 const c = Math.PI;
 const d = 123.456;
-
+```
+```javascript
 a + 3;                       // 5
 a - 3;                       // -1
 a * 2;                       // 4
@@ -116,12 +117,14 @@ a % 2;                       // 0
 a % 3;                       // 2
 a ** 2;                      // 4
 a ** 1.5;                    // 2.82842712474619
-
+```
+```javascript
 `d: ${d}`;                   // 'd: 123.456'
 d.toString();                // '123.456'
 d.toString(16);              // '7b.74bc6a7ef9dc'
 d.toString(2);               // '1111011.0111010010111100011010100111111011111001110111'
-
+```
+```javascript
 Number.parseInt(b);          // 3
 Number.parseFloat(b);        // 3
 Number.parseInt(a);          // 2
@@ -129,11 +132,13 @@ Number.parseInt(d);          // 123
 Number.parseInt(a, 10);      // 2
 Number.parseFloat(a);        // 2
 Number.parseFloat(d);        // 123.456
-
+```
+```javascript
 a + b;                       // '23'
 b + a;                       // '32'
 a + parseInt(b);             // 5
-
+```
+```javascript
 c.toFixed();                 // '3'
 c.toFixed(0);                // '3'
 c.toFixed(1);                // '3.1'
@@ -144,7 +149,8 @@ d.toFixed(0);                // '123'
 d.toFixed(1);                // '123.5'
 d.toFixed(2);                // '123.46'
 d.toFixed(3);                // '123.456'
-
+```
+```javascript
 a.toPrecision(1);            // '2'
 a.toPrecision(4);            // '2.000'
 c.toPrecision();             // '3.141592653589793'
@@ -157,14 +163,16 @@ d.toPrecision(0);            // Kaboom!
 d.toPrecision(1);            // '1e+2'
 d.toPrecision(2);            // '1.2e+2'
 d.toPrecision(3);            // '123'
-
+```
+```javascript
 c.toExponential(0);          // '3e+0'
 c.toExponential(1);          // '3.1e+0'
 c.toExponential(2);          // '3.14e+0'
 d.toExponential(0);          // '1e+2'
 d.toExponential(1);          // '1.2e+2'
 d.toExponential(2);          // '1.23e+2'
-
+```
+```javascript
 Number(true);                // 1
 Number(false);               // 0
 Number(null);                // 0
@@ -174,7 +182,8 @@ Number(` ${a} `);            // 2
 Number("1,2");               // NaN
 Number("1 2");               // NaN
 Number("a");                 // NaN
-
+```
+```javascript
 Number.isInteger(1);         // true
 Number.isInteger(2.5);       // false
 Number.isInteger(null);      // false
@@ -191,7 +200,8 @@ Number.NEGATIVE_INFINITY;    // -Infinity
 
 ```javascript
 const n = [1,2,3];
-
+```
+```javascript
 let a = (x,y) => { return x + y };
 let b = (x,y) => { return x - y };
 let c = (x,y) => { return x * y };
