@@ -5,12 +5,16 @@
 <img width="600" alt="Screenshot 2021-03-08 at 9 15 03 pm" src="https://user-images.githubusercontent.com/11710404/110382832-5d3f4300-8053-11eb-8307-b783495f9cfa.png">
 
 ### Contents
-- [Console Basics]()
-- [Strings]()
-- [Numbers]()
-- [Functions]()
-- [Arrays]()
-- [Math Library]()
+- [Console Basics](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#console-basics)
+- [Strings](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#strings)
+- [Numbers](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#numbers)
+- [Functions](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#functions)
+- [Arrays](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#arrays)
+- [Math Library](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#math-library)
+- [JSON](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#json)
+- [Promises](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#promises)
+- [Async/Await](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#asyncawait)
+- [Closure](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#closures)
 
 <br/>
 
@@ -27,6 +31,8 @@ console.log(JSON.stringify(
   {first: 'George', last: 'Marklow'}
 , null, 2));                                  // { "first": "George", "last": "Marklow" }
 ```
+
+<br/>
 
 ### Strings
 
@@ -71,6 +77,8 @@ s.localeCompare(u, 'en', { sensitivity: 'base' })   // 0
 String.fromCharCode(65,98,99)                       // 'Abc'
 String.fromCharCode(32,100,101,102,32)              // ' def '
 ```
+
+<br/>
 
 ### Numbers
 
@@ -159,6 +167,7 @@ Number.POSITIVE_INFINITY;    // Infinity
 Number.NEGATIVE_INFINITY;    // -Infinity
 -1/0;                        // -Infinity
 ```
+<br/>
 
 ### Functions
 
@@ -298,6 +307,8 @@ for (let i = 0; i < 10; i++) {
                              // 2 failed: error
                              // 8 failed: error
 ```
+
+<br/>
 
 ### Arrays
 
@@ -495,6 +506,7 @@ const f = x => {
 };
 f([1,2,3]);                  // '1 2 3'
 ```
+<br/>
 
 ### Math Library
 
@@ -550,6 +562,7 @@ Math.random();               // 0.21371612513099092
 Math.random();               // 0.27317142827413443      
 Math.random();               // 0.9137994771416735
 ```
+<br/>
 
 ### JSON
 
@@ -583,6 +596,7 @@ const x = { a:"1", b:"2" };
 const y = { a:"3", b:"4" };
 f([x,y]);                    // 1:2 3:4
 ```
+<br/>
 
 ### Promises
 
@@ -659,6 +673,7 @@ const f = () => {
 };
 f();
 ```
+<br/>
 
 ### Async/Await
 
@@ -697,6 +712,7 @@ Promise.all([p1, p2, p3]).then((values) => {
 });
 // [ 1, 2, 3 ]
 ```
+<br/>
 
 ### Closures
 
