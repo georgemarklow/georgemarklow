@@ -30,6 +30,7 @@ For one-liners, such as string and number manipulation, it's fine to use the Ter
 
 <img width="1193" alt="Screenshot 2021-03-13 at 6 20 27 pm" src="https://user-images.githubusercontent.com/11710404/111039978-dca08e00-8428-11eb-8993-50df22bb964a.png">
 
+Let's get started, shall we?
 
 <br/>
 
