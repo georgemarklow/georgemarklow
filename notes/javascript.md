@@ -65,39 +65,90 @@ String.fromCharCode(32,100,101,102,32)              // ' def '
 ### Numbers
 
 ```javascript
-> const a = 2           undefined
-> const b = "3"         undefined
-> const c = Math.PI     undefined
-> const d = 123.456     undefined
-> a + 3                 5
-> a - 3                 -1
-> a * 2                 4
-> a / 1.25              1.6
-> a / 2                 1
-> a / 3                 0.6666666666666666
-> a % 2                 0
-> a % 3                 2
-> a ** 2                4
-> a ** 1.5              2.82842712474619
-> `d: ${d}`             'd: 123.456'
-> d.toString()          '123.456'
-> d.toString(16)        '7b.74bc6a7ef9dc'
-> d.toString(2)         '1111011.0111010010111100011010100111111011111001110111'
-> Number.parseInt(b)    3
-> Number.parseFloat(b)  3
-> Number.parseInt(a)    2
-> Number.parseInt(d)    123
-> Number.parseInt(a,10) 2
-> Number.parseFloat(a)  2
-> Number.parseFloat(d)  123.456
-> a+b                   '23'
-> b+a                   '32'
-> a + parseInt(b)       5
-> c.toFixed()           '3'
-> c.toFixed(0)          '3'
-> c.toFixed(1)          '3.1'
+const a = 2;
+const b = "3";
+const c = Math.PI;
+const d = 123.456;
 
-cont...
+a + 3;                       // 5
+a - 3;                       // -1
+a * 2;                       // 4
+a * 1.25;                    // 2.5
+a / 2;                       // 1
+a / 3;                       // 0.6666666666666666
+a % 2;                       // 0
+a % 3;                       // 2
+a ** 2;                      // 4
+a ** 1.5;                    // 2.82842712474619
+
+`d: ${d}`;                   // 'd: 123.456'
+d.toString();                // '123.456'
+d.toString(16);              // '7b.74bc6a7ef9dc'
+d.toString(2);               // '1111011.0111010010111100011010100111111011111001110111'
+
+Number.parseInt(b);          // 3
+Number.parseFloat(b);        // 3
+Number.parseInt(a);          // 2
+Number.parseInt(d);          // 123
+Number.parseInt(a, 10);      // 2
+Number.parseFloat(a);        // 2
+Number.parseFloat(d);        // 123.456
+
+a + b;                       // '23'
+b + a;                       // '32'
+a + parseInt(b);             // 5
+
+c.toFixed();                 // '3'
+c.toFixed(0);                // '3'
+c.toFixed(1);                // '3.1'
+c.toFixed(2);                // '3.14'
+c.toFixed(3);                // '3.142'
+d.toFixed();                 // '123'
+d.toFixed(0);                // '123'
+d.toFixed(1);                // '123.5'
+d.toFixed(2);                // '123.46'
+d.toFixed(3);                // '123.456'
+
+a.toPrecision(1);            // '2'
+a.toPrecision(4);            // '2.000'
+c.toPrecision();             // '3.141592653589793'
+c.toPrecision(0);            // Kaboom!
+c.toPrecision(1);            // '3'
+c.toPrecision(2);            // '3.1'
+c.toPrecision(3);            // '3.14'
+d.toPrecision();             // '123.456'
+d.toPrecision(0);            // Kaboom!
+d.toPrecision(1);            // '1e+2'
+d.toPrecision(2);            // '1.2e+2'
+d.toPrecision(3);            // '123'
+
+c.toExponential(0);          // '3e+0'
+c.toExponential(1);          // '3.1e+0'
+c.toExponential(2);          // '3.14e+0'
+d.toExponential(0);          // '1e+2'
+d.toExponential(1);          // '1.2e+2'
+d.toExponential(2);          // '1.23e+2'
+
+Number(true);                // 1
+Number(false);               // 0
+Number(null);                // 0
+Number(b);                   // 3
+Number(d);                   // 123.456
+Number(` ${a} `);            // 2
+Number("1,2");               // NaN
+Number("1 2");               // NaN
+Number("a");                 // NaN
+
+Number.isInteger(1);         // true
+Number.isInteger(2.5);       // false
+Number.isInteger(null);      // false
+
+Number.MAX_VALUE;            // 1.7976931348623157e+308
+Number.MIN_VALUE;            // 5e-324
+Number.POSITIVE_INFINITY;    // Infinity
+1/0;                         // Infinity
+Number.NEGATIVE_INFINITY;    // -Infinity
+-1/0;                        // -Infinity
 ```
 
 ## Summary
