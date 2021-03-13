@@ -2,7 +2,36 @@
 
 ## JavaScript Warm-Up Drill in Node
 
+There are a couple of ways to get started, using
+1. Node.js from the Terminal
+2. Node.js Repl (a playground for experimenting with and sharing code)
+
+For one-liners, such as string and number manipulation, it's fine to use the Terminal. For longer examples that use multiple lines, I find it more convenient to use a Repl.
+
+#### Terminal
+
+1. Install Node if you haven't already from [here](https://nodejs.org/en/download/)
+2. Press ⌘ + Space, search and open the Terminal
+3. Type "node" and press Enter
+
 <img width="600" alt="Screenshot 2021-03-08 at 9 15 03 pm" src="https://user-images.githubusercontent.com/11710404/110382832-5d3f4300-8053-11eb-8307-b783495f9cfa.png">
+
+#### ReplIt
+
+1. Visit [ReplIt](https://replit.com/~)
+
+<img width="1381" alt="Screenshot 2021-03-13 at 6 18 08 pm" src="https://user-images.githubusercontent.com/11710404/111039988-ed510400-8428-11eb-81a3-97b7529063dc.png">
+
+2. Create a new Node.js Repl
+
+<img width="1381" alt="Screenshot 2021-03-13 at 6 19 26 pm" src="https://user-images.githubusercontent.com/11710404/111039986-e5915f80-8428-11eb-9d2f-08f393ad24c5.png">
+
+3. Type some code and hit the green Run button at the top
+
+<img width="1193" alt="Screenshot 2021-03-13 at 6 20 27 pm" src="https://user-images.githubusercontent.com/11710404/111039978-dca08e00-8428-11eb-8993-50df22bb964a.png">
+
+
+<br/>
 
 ### Contents
 - [Console Basics](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#console-basics)
