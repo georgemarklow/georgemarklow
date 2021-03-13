@@ -584,6 +584,119 @@ const y = { a:"3", b:"4" };
 f([x,y]);                    // 1:2 3:4
 ```
 
+### Promises
+
+```javascript
+setTimeout(() => {
+    console.log('s');        // [...] s
+}, 1000);
+```
+
+```javascript
+const f = x => {
+    return new Promise(y => {
+        setTimeout(() => {   
+            y()         
+        }, x);
+    });
+};
+
+f(1000).then(() => {
+    console.log('s');        // [...] s
+});
+```
+```javascript
+const f = x => {
+    return new Promise(y => {
+        y(x === "a");
+    });
+};
+
+console.log('1');
+
+f(1000).then(() => {
+    console.log('2');
+});
+
+console.log('3');
+                             // 1
+                             // 3
+                             // 2
+                             
+```
+```javascript
+
+const f = () => {
+    const x = {
+        a: 1,
+        b: 2
+    };
+    return new Promise(y => {
+        setTimeout(() => {
+            y(x);
+        }, 3000);
+    });
+};
+
+f().then(x => {
+    console.log(x);          // [...] { a: 1, b: 2 }
+});
+```
+
+```javascript
+const g = x => {
+    return new Promise(y => {
+        setTimeout(() => {
+            y();
+        }, x);
+    });
+};
+
+const f = () => {
+     g(() => { console.log('a') });
+    .then(() => { console.log('b') });
+    .catch(() => { console.log('c') });
+};
+f();
+```
+
+### Async/Await
+
+```javascript
+const f = async (x) => { 
+    return Promise.resolve(x);
+};
+f('s').then(console.log);    // Promise { <pending> }
+                             // s
+```
+```javascript
+const f = async (x) => { 
+    return Promise.resolve(x);
+};
+f('s').then(console.log);    // Promise { <pending> }
+                             // s
+```
+```javascript
+async function f(s,t) {
+    let promise = new Promise((resolve, reject) => {
+        setTimeout(() => resolve(s), t)
+    });
+    console.log(await promise);
+}
+f('s', 3000);                // Promise { <pending> }
+                             // s
+```
+```javascript
+const p1 = 1;
+const p2 = Promise.resolve(2);
+const p3 = new Promise((resolve, reject) => {
+    setTimeout(resolve, 1000, 3);
+});
+Promise.all([p1, p2, p3]).then((values) => {
+    console.log(values);
+});
+// [ 1, 2, 3 ]
+```
 
 ## Summary
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
