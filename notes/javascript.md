@@ -13,6 +13,7 @@ For one-liners, such as string and number manipulation, I prefer using the Termi
 1. Install Node if you haven't already from [here](https://nodejs.org/en/download/)
 2. Press ⌘ + Space, search and open the Terminal
 3. Type "node" and press Enter
+4. Write some basic arithmetic and press Enter again to display the result
 
 <img width="777" alt="Screenshot 2021-03-13 at 6 24 31 pm" src="https://user-images.githubusercontent.com/11710404/111040077-5f294d80-8429-11eb-985f-1a583baf9192.png">
 
