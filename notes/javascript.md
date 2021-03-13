@@ -4,9 +4,9 @@
 
 There are a couple of ways to get started, using
 1. Node.js from the Terminal
-2. Node.js Repl (a playground for experimenting with and sharing code)
+2. a Node.js Repl (a playground for experimenting with and sharing code)
 
-For one-liners, such as string and number manipulation, it's fine to use the Terminal. For longer examples that use multiple lines, I find it more convenient to use a Repl.
+For one-liners, such as string and number manipulation, I prefer using the Terminal. For longer examples that use multiple lines, I find it more convenient to use a Repl.
 
 #### Terminal
 
