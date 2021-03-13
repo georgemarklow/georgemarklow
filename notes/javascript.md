@@ -150,6 +150,145 @@ Number.NEGATIVE_INFINITY;    // -Infinity
 -1/0;                        // -Infinity
 ```
 
+### Functions
+
+```javascript
+const n = [1,2,3];
+
+let a = (x,y) => { return x + y };
+let b = (x,y) => { return x - y };
+let c = (x,y) => { return x * y };
+let d = (x,y) => { return x / y };
+
+a(2,3);                      // 5
+b(2,3);                      // -1
+c(2,3);                      // 6
+d(2,3);                      // 0.6666666666666666
+```
+
+```javascript
+
+let x = 0;
+for (let i = 0, max = n.length; i < max; i++) {
+    x += n[i];
+};
+x;                           // 6
+```
+
+```javascript
+
+x = 0;
+n.forEach(function(y){
+    x += y;
+});
+x;                           // 6
+```
+
+```javascript
+
+let m = { p: 'p', q: 'q' };
+for (let i in m) {
+    if (m.hasOwnProperty(i)) console.log(`${i} = ${m[i]}`);
+};
+// p = p
+// q = q
+```
+
+```javascript
+const f = x => {
+    if (x === 2) return 'a';
+    else if (x === 1) return 'b';
+    else return 'c';
+};
+f(2);                        // 'a'
+f(1);                        // 'b'
+f(0);                        // 'c'
+```
+
+```javascript
+function g(x) {
+  switch(x) {
+      case 1: return 'a'; break;
+      case 0: return 'b'; break;
+      default: return 'c';
+  }
+};
+g(1);                        // 'a'
+g(0);                        // 'b'
+g(-1);                       // 'c'
+```
+
+```javascript
+function h(x,y) {
+    switch(true) {
+        case x * y > 4: return 'a'; break;
+        case x * y > 2: return 'b'; break;
+        default: return 'c';
+    }
+};
+h(2,3);                      // 'a'
+h(2,2);                      // 'b'
+h(1,0);                      // 'c'
+```
+
+```javascript
+function s(x,y) {
+    if (y) console.log(`x: ${x}, y: ${y}`);
+    else console.log(`x: ${x}`);
+};
+s('a','b');                  // x: a, y: b
+s('a');                      // x: a
+x;                           // 6
+```
+
+```javascript
+let t = x => x >= 0
+t(3)                         // true
+t(-1)                        // false
+let u = (x,y) => x / y       
+u(8,2)                       // 4
+u(1,3)                       // 0.3333333333333333
+```
+
+```javascript
+const v = x => (x < 10) ? true : false;
+v(5);                         // true
+v(15);                        // false
+```
+
+```javascript
+function w() {
+    try {
+        throw 'e';                  
+    } catch (e) {
+        console.log(e);
+    }
+};
+w();                         // 'e'
+```
+
+```javascript
+const o = (x) => {
+    try {
+        p();
+    }
+    catch(e) {
+        console.log(`${x} failed: ${e}`);
+    }
+};
+function p() {
+    var x = Math.random() <= 0.1;
+    if (x) {
+        throw 'error';
+    }
+};
+for (let i = 0; i < 10; i++) {
+    o(i);
+};
+                             // 2 failed: error
+                             // 8 failed: error
+```
+
 ## Summary
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [How To Work With TypeScript in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-work-with-typescript-in-visual-studio-code)
