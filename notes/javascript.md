@@ -1,4 +1,4 @@
-# Javascript / TypeScript
+# Javascript
 
 ## JavaScript Warm-Up Drill in Node
 
