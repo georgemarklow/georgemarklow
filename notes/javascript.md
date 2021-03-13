@@ -289,6 +289,205 @@ for (let i = 0; i < 10; i++) {
                              // 8 failed: error
 ```
 
+### Arrays
+
+```javascript
+const m = ['a','b','c','d'];
+const n = [1,2,3];
+const s = 'A;b;c';
+```
+
+```javascript
+m;                           // ['a','b','c','d']
+m.length;                    // 4
+m[0];                        // 'a'
+m[1];                        // 'b'
+m[4];                        // undefined
+m[m.length - 1];             // 'd'
+m[m.length - 2];             // 'c'
+m.slice(1);                  // ['b','c','d']
+m.slice(0,1);                // ['a']
+m;                           // ['a','b','c','d']
+```
+
+```javascript
+m.push('e');                 // 5
+m;                           // ['a','b','c','d','e']
+m.unshift(1);                // 6
+m;                           // [1,'a','b','c','d','e']
+```
+
+```javascript
+m.pop();                     // 'e'
+m;                           // [1,'a','b','c','d']
+m.splice(3);                 // ['c','d']
+m;                           // [1,'a','b']
+m.splice(0,2);               // [1,'a']
+m;                           // ['b']
+```
+
+```javascript
+m.length = 0;
+m;                           // []
+```
+
+```javascript
+m[1] = 'b';                   
+m[2] = 'c';
+m.length;                    // 3
+m.length = 2;
+m[2];                        // undefined
+m[1];                        // b
+delete m[1];
+m.length;                    // 2
+m;                           // [ <2 empty items> ]
+```
+
+```javascript
+const f = (x) => [...x];
+c;                           // [ 'a', 'b' ]
+f('ab');                     // [ 'a', 'b' ]
+```
+
+```javascript
+const y = ['a', 1];
+const [a, b] = y;
+a;                           // 'a'
+b;                           // 1
+```
+
+```javascript
+const [a, b] = ['a', 1];
+a;                           // 'a'
+b;                           // 1
+```
+
+```javascript
+const a = ['a'];
+const b = ['b'];
+const c = [...'ab'];
+[...a, ...b];                // ['a','b']
+c;                           // ['a','b']
+```
+
+```javascript
+function f(z) {
+    let x = 0
+    m.forEach(y => {
+        x += y;
+    })
+    return Math.round(x / z.length);
+};
+f(n);                        // 2
+```
+
+```javascript
+const f = (x) => x === 2;
+const g = (x) => x === 5;
+n.findIndex(f);              // 1
+n.findIndex(g);              // -1
+```
+
+```javascript
+n.filter(x => x > 1);        // [2,3]
+n.filter(x => x < 1);        // []
+```
+
+```javascript
+n.find(x => x === 1);        // 1
+n.find(x => x === 0);        // undefined
+```
+
+```javascript
+n.reverse();                 // [3,2,1]
+```
+
+```javascript
+n.shift;                     // 3
+[].shift();                  // undefined
+```
+
+```javascript
+n.every(x => x > 0);         // true
+n.every(x => x > 1);         // false
+n.includes(1);               // true
+n.includes(4);               // false
+```
+
+```javascript
+n.sort();                    // [1,2,3]
+n;                           // [1,2,3]
+```
+
+```javascript
+function f(a,b) {
+    if (a < b) return 1;
+    if (b < a) return -1;
+    else return 0;
+};
+n.sort(f);                   // [3,2,1]
+n;                           // [3,2,1]
+```
+
+```javascript
+n.push('a');
+n.push('b');
+n.push(true);
+n.push(false);
+function f(x,y) {
+    if (x === y) return 0;
+    if (typeof x === typeof y) return x < y ? -1 : 1;
+    return typeof x < typeof y ? -1 : 1;
+}
+n;                           // [ 3, 2, 1, 'a','b' ,true ,false ]
+n.sort(f);                   // [ false, true,1 ,2 ,3 ,'a' ,'b' ]
+n;                           // [ false, true,1 ,2 ,3 ,'a' ,'b' ]
+```
+
+```javascript
+Array.of(1);                 // [1]
+Array.of(1, 2, 3);           // [1,2,3]
+```
+
+```javascript
+'123'.split('');             // ['1','2','3']
+'123'.split('-');            // ['123']
+'1-23'.split('-');           // ['1','23']
+```
+
+```javascript
+const m = s.split(';');
+m.map(m => m.toUpperCase()); // A
+                             // B
+                             // C
+m.map(m => m.toLowerCase()); // a
+                             // b
+                             // c
+```
+
+```javascript
+n.join('|');                 // 1|2|3
+```
+
+```javascript
+a = ['a'];
+b = [2];
+a.concat(b, false, 3);       // [ 'a', 2, false, 3 ]
+```
+
+```javascript
+const f = x => {
+    let s = '';
+    x.forEach((y) => {
+        s += `${y} `;
+    })
+    return s;
+};
+f([1,2,3]);                  // '1 2 3'
+```
+
+
+
 ## Summary
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [How To Work With TypeScript in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-work-with-typescript-in-visual-studio-code)
