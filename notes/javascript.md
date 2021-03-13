@@ -551,6 +551,40 @@ Math.random();               // 0.27317142827413443
 Math.random();               // 0.9137994771416735
 ```
 
+### JSON
+
+```javascript
+const x = JSON.parse("\{\"a\":\"1\",\"b\":\"2\",\"c\":{\"d\":\"3\"}}");
+x.a;                         // 1
+x.b;                         // 2
+x.c.d                        // 3
+```
+
+```javascript
+const x = {
+    a: "1",
+    b: "2",
+    c: {
+        d: "3"
+    }
+};
+JSON.stringify(x);           // {"a":"1","b":"2","c":{"d":"3"}}
+```
+
+```javascript
+const f = x => {
+    let s = ""
+    x.forEach((y) => {
+        s += `${y.a}:${y.b};`
+    })
+    return s;
+};
+const x = { a:"1", b:"2" };
+const y = { a:"3", b:"4" };
+f([x,y]);                    // 1:2 3:4
+```
+
+
 ## Summary
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [How To Work With TypeScript in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-work-with-typescript-in-visual-studio-code)
