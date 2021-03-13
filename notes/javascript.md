@@ -2,15 +2,15 @@
 
 ## JavaScript Warm-Up Drill in Node
 
-There are a couple of ways to get started, using
+There's two ways to get started with this JavaScript drill, using:
 1. Node.js from the Terminal
-2. a Node.js Replit playground (a collaborative space for experimenting with and sharing code)
+2. A Node.js Replit playground (a collaborative space for experimenting with and sharing code)
 
 For one-liners, such as string and number manipulation, I prefer using the Terminal. For longer examples that use multiple lines, I find it more convenient to use Replit.
 
 ### Option 1: Node.js from the Terminal
 
-1. Install Node if you haven't already from [here](https://nodejs.org/en/download/)
+1. Install Node from [here](https://nodejs.org/en/download/)
 2. Press ⌘ + Space, search and open the Terminal
 3. Type "node" and press Enter
 4. Write some basic arithmetic and press Enter again to display the result
