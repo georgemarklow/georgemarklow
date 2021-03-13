@@ -842,7 +842,7 @@ f.q()
 console.log(f.r())           // 0.5
 ```
 
-## Summary
+## Some Useful Resources
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [How To Work With TypeScript in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-work-with-typescript-in-visual-studio-code)
 - [TypeScript For Beginners](https://levelup.gitconnected.com/typescript-for-beginners-97b568d3e110)
