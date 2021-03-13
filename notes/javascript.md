@@ -14,7 +14,8 @@ For one-liners, such as string and number manipulation, it's fine to use the Ter
 2. Press ⌘ + Space, search and open the Terminal
 3. Type "node" and press Enter
 
-<img width="600" alt="Screenshot 2021-03-08 at 9 15 03 pm" src="https://user-images.githubusercontent.com/11710404/110382832-5d3f4300-8053-11eb-8307-b783495f9cfa.png">
+<img width="777" alt="Screenshot 2021-03-13 at 6 24 31 pm" src="https://user-images.githubusercontent.com/11710404/111040077-5f294d80-8429-11eb-985f-1a583baf9192.png">
+
 
 #### ReplIt
 
