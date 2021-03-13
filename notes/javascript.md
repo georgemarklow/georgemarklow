@@ -1,5 +1,6 @@
-<div style="text-align:left"><img src="https://user-images.githubusercontent.com/11710404/111040646-da8bfe80-842b-11eb-9d5c-62959f5b66d3.png" />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11710404/111040646-da8bfe80-842b-11eb-9d5c-62959f5b66d3.png" />
+</p>
 
 # Javascript
 
