@@ -8,6 +8,8 @@ There's two ways to get started with this JavaScript drill, using:
 
 For one-liners, such as string and number manipulation, I prefer using the Terminal. For longer examples that use multiple lines, I find it more convenient to use Replit.
 
+<br/>
+
 ### Option 1: Node.js from the Terminal
 
 1. Install Node from [here](https://nodejs.org/en/download/)
