@@ -9,6 +9,7 @@
 - [Queue](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#queue)
 - [Dictionary / Map](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#dictionary)
 - [Set](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#set)
+- [Counter](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#counter)
 
 <br/>
 
