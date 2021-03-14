@@ -254,7 +254,7 @@ search(arr, 6);                 // -1
 ```
 <br>
 
-### Stack
+## Stack
 
 ```javascript
 class Stack {
