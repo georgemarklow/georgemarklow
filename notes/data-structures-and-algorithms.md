@@ -108,6 +108,8 @@ console.log(arr.join(' '));
 
 ![Screenshot 2021-03-14 at 4 37 40 pm](https://user-images.githubusercontent.com/11710404/111076278-9c521600-84e3-11eb-9040-a7c2da1fe144.png)
 
+<br>
+
 ```javascript
 function sort(arr, compare) {
     const size = arr.length;
@@ -138,6 +140,14 @@ console.log(arr.join(' '));
 
 ### Insertion-Sort
 
+- Same O(n<sup>2</sup>) time complexity as Bubble-Sort but performs better
+- Like arranging playing cards, we keep a sorted sub-array
+- Each value inserted into its proper position in the sorted sub-array
+
+![Screenshot 2021-03-14 at 4 40 14 pm](https://user-images.githubusercontent.com/11710404/111076374-f9e66280-84e3-11eb-91c3-93312e2f790f.png)
+
+<br>
+
 ```javascript
 function sort(arr, compare) {
     const size = arr.length;
@@ -157,6 +167,8 @@ const arr = [5, 3, 1,2 ,4]
 sort(arr, more);
 console.log(arr.join(' '));
 ```
+
+![Screenshot 2021-03-14 at 4 39 50 pm](https://user-images.githubusercontent.com/11710404/111076361-eb984680-84e3-11eb-99ee-adfebcd8019a.png)
 
 <br/>
 
