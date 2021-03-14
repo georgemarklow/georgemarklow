@@ -7,7 +7,7 @@
 - [Search](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#search)
 - [Stack](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#stack)
 - [Queue](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#queue)
-- Dictionary (Map)
+- [Dictionary / Map]()
 
 <br/>
 
@@ -354,6 +354,8 @@ queue.isEmpty();           // true
 - Uses a hash-table => key-value pairs not in sorted order
 - Does not allow duplicate keys 
 - Values can be duplicates
+
+<br>
 
 ```javascript
 class Dictionary {
