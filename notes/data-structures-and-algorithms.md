@@ -38,7 +38,7 @@
 ## Sorting
 
 - [Bubble-Sort](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#bubble-sort)
-- [Selection-Sort]()
+- [Selection-Sort](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#selection-sort)
 - [Insertion-Sort]()
 - [Bubble-Sort]()
 - [Quick-Sort]()
