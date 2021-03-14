@@ -326,7 +326,6 @@ function s(x,y) {
 };
 s('a','b');                  // x: a, y: b
 s('a');                      // x: a
-x;                           // 6
 ```
 
 ```javascript
