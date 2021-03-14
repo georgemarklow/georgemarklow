@@ -212,7 +212,7 @@ console.log(arr.join(' '));
 ## Search
 
 - [Linear](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#linear)
-- [Binary]()
+- [Binary](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#binary)
 
 <br>
 
