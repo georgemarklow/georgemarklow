@@ -460,17 +460,6 @@ c;                           // ['a','b']
 ```
 
 ```javascript
-function f(z) {
-    let x = 0
-    m.forEach(y => {
-        x += y;
-    })
-    return Math.round(x / z.length);
-};
-f(n);                        // 2
-```
-
-```javascript
 const f = (x) => x === 2;
 const g = (x) => x === 5;
 n.findIndex(f);              // 1
