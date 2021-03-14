@@ -89,8 +89,8 @@ console.log(JSON.stringify(
 ### Strings
 
 ```javascript
-const s = 'Abc'     // undefined
-const t = ' def '   // undefined
+const s = 'Abc'     
+const t = ' def '   
                    
 ```
 ```javascript
