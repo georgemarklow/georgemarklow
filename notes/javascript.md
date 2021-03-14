@@ -715,19 +715,32 @@ f().then(x => {
 
 ```javascript
 const g = x => {
-    return new Promise(y => {
+    return new Promise((resolve, reject) => {
         setTimeout(() => {
-            y();
-        }, x);
+            if (Math.random() < 0.5) {
+                resolve(console.log('ok'));    
+            } else {
+                reject(console.log('error'));    
+            }
+                    
+        }, 1000);
     });
 };
 
 const f = () => {
-     g(() => { console.log('a') });
-    .then(() => { console.log('b') });
+     g()
+    .then(() => { console.log('b') })
     .catch(() => { console.log('c') });
 };
 f();
+                             // ok
+                             // b
+                             
+                             or
+                             
+                             // error
+                             // c
+                             
 ```
 <br/>
 
