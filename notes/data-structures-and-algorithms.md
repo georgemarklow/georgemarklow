@@ -207,6 +207,8 @@ quickSort(arr);
 console.log(arr.join(' '));
 ```
 
+<br>
+
 ## Search
 
 - [Linear](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#linear)
@@ -232,3 +234,20 @@ search(arr, 6);         // -1
 <br>
 
 ### Binary
+
+```javascript
+function search(arr, l, r, x) {
+    while (l <= r) {
+        const mid = Math.floor(l + (r - 1));
+        if (arr[mid] === x) return mid
+        else if (arr[mid] < x) l = mid + 1
+        else r = mid - 1
+    }
+    return -1;
+}
+
+const arr = [5,3,1,4,2]
+search(arr, 0, arr.length, 1);    
+search(arr, 6);                 // 2
+search(arr, 6);                 // -1
+```
