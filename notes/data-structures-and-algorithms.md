@@ -8,7 +8,7 @@
 
 ## Time Complexity
 
-### Time Complexity Order
+### Time Complexity
 
 | Name   |      Notation      | Examples |
 |:----------|:-------------|:-------------|
