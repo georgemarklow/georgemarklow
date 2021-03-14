@@ -122,3 +122,46 @@ const arr = [5, 3, 1,2 ,4]
 sort(arr, more);
 console.log(arr.join(' '));
 ```
+
+### Merge-Sort
+
+```javascript
+function util(arr, temp, l, mid, u, compare) {
+    let l1 = l;
+    const l2 = mid;
+    let u1 = mid + 1;
+    const u2 = u;
+    let count = l;
+
+    while (l1 <= l2 && u1 <= u2) {
+        if (compare(arr[l1], arr[u1])) {
+            temp[count++] = arr[l1++];
+        } else {
+            temp[count++] = arr[u1++];
+        }
+    };
+
+    while (l1 <= l2) temp[count++] = arr[l1++];
+    while (u1 <= u2) temp[count++] = arr[u1++];
+    for (let i = l; i <= u; i++) arr[i] = temp[i];
+}
+
+function mergeSort(arr, temp, l, u, compare) {
+    if (l >= u) return;
+    const mid = Math.floor((l + u) / 2);
+    mergeSort(arr, temp, l, mid, compare);
+    mergeSort(arr, temp, mid + 1, u, compare);
+    util(arr, temp, l, mid, u, compare);
+};
+
+function sort(arr, compare) {
+    const size = arr.length;
+    const temp = new Array(size);
+    mergeSort(arr, temp, 0, size - 1, compare);
+}
+
+const arr = [5,3,1,2,4];
+const more = (array1, array2) => array1 > array2;
+sort(arr, more);
+console.log(arr.join(" "));
+```
