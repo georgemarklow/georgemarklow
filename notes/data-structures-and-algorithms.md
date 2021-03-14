@@ -4,6 +4,7 @@
 
 - [Time Complexity Order](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#time-complexity)
 - [Sorting](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#sorting)
+- [Search]()
 
 <br/>
 
@@ -204,4 +205,21 @@ function quickSort(arr) {
 const arr = [5,3,1,4,2];
 quickSort(arr);
 console.log(arr.join(' '));
+```
+
+## Search
+
+### Linear
+
+```javascript
+function search(arr, x) {
+    for (let i = 0; i < arr.length; i++) {
+        if (arr[i] === x) return i; 
+    }
+    return -1;
+}
+
+const arr = [5,3,1,4,2]
+search(arr, 1); // 2
+search(arr, 6); // -1
 ```
