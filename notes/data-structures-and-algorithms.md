@@ -41,7 +41,7 @@
 - [Selection-Sort](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#selection-sort)
 - [Insertion-Sort](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#insertion-sort)
 - [Merge-Sort](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#merge-sort)
-- [Quick-Sort]()
+- [Quick-Sort](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#quick-sort)
 
 
 <br/>
