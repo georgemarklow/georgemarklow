@@ -101,6 +101,13 @@ console.log(arr.join(' '));
 
 ### Selection-Sort
 
+- Traverse the unsorted array
+- Put the largest value at the end of it
+- Repeated (n-1) times
+- Quadratic time complexity but performs better than bubble and selection sorts as a smaller number of swaps are required
+
+![Screenshot 2021-03-14 at 4 37 40 pm](https://user-images.githubusercontent.com/11710404/111076278-9c521600-84e3-11eb-9040-a7c2da1fe144.png)
+
 ```javascript
 function sort(arr, compare) {
     const size = arr.length;
@@ -124,6 +131,8 @@ const arr = [5, 3, 1, 2, 4]
 sort(arr, more);
 console.log(arr.join(' '));
 ```
+
+![Screenshot 2021-03-14 at 4 37 17 pm](https://user-images.githubusercontent.com/11710404/111076270-92301780-84e3-11eb-8657-ae34f4ec03b7.png)
 
 <br/>
 
