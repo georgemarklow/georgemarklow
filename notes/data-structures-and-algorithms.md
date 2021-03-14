@@ -40,9 +40,9 @@
 - [Bubble-Sort](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#bubble-sort)
 - [Selection-Sort](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#selection-sort)
 - [Insertion-Sort](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#insertion-sort)
-- [Bubble-Sort]()
-- [Quick-Sort]()
 - [Merge-Sort]()
+- [Quick-Sort]()
+
 
 <br/>
 
