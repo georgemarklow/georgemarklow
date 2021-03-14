@@ -348,6 +348,8 @@ queue.isEmpty();           // true
 
 ```
 
+<br>
+
 ## Dictionary
 
 - Maps keys to values
@@ -405,3 +407,38 @@ d.add('a',30)             // Key already added
 d.remove('c')             // Invalid map key
 
 ```
+
+<br>
+
+## Set
+- Stores only unique elements
+- Implemented using a hash-table
+- Elements not stored in sequential order
+- Like dictionaries (maps) but stores only keys
+
+Applications:
+- Removing duplicate data from collections
+
+```javascript
+const s = new Set(); // in JavaScript already
+s.add('a')
+s.add('a')
+s.add('b')
+s                   // Set { 'a', 'b' }
+s.size              // 2
+s.has('a')          // true
+s.has('c')          // false
+s.delete('a')
+ 
+for (let [key, value] of s.entries()) {
+    console.log(key)  // b
+}
+ 
+for (let item of s) console.log(item) // b
+ 
+s.clear()          
+s                   // Set {}
+
+```
+
+<br>
