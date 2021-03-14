@@ -17,4 +17,4 @@
 | Quadratic | O(n<sup>2</sup>) |- Bubble-osrt<br>- Selection-sort<br>- Insertion-sort|
 | Polynomial | O(n<sup>c</sup>) c constant > 1 ||
 | Exponential | O(c<sup>m</sup>) c constant > 1 | All possible subsets |
-| Factorial | O(n!) / O(n^n) | All possible permutations |
+| Factorial | O(n!) / O(n<sup>n</sup>) | All possible permutations |
