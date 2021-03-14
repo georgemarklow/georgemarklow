@@ -50,6 +50,14 @@
 - [Merge-Sort](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#merge-sort)
 - [Quick-Sort](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#quick-sort)
 
+<br>
+
+### Summary
+
+| Algorithm   |      Ideal for |
+|:----------|:-------------|
+|- Bubble-Sort<br>- Insertion-Sort<br>- Selection-Sort  | small datasets but slow with large datasets |
+|- Merge-Sort<br>- Quick-Sort<br>- Heap-Sort | large data but overkill for small data |
 
 <br/>
 
