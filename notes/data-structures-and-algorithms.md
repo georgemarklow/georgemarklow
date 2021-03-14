@@ -170,3 +170,37 @@ console.log(arr.join(" "));
 <br/>
 
 ### Quick-Sort
+
+```javascript
+const swap = (arr, first, second) => {
+    const temp = arr[first];
+    arr[first] = arr[second];
+    arr[second] = temp;
+}
+
+function quickSortUtil(arr, l, u) {
+    if (u <= l) return;
+    const pivot = arr[l];
+    const p1 = l;
+    const p2 = u;
+
+    while (l < u) {
+        while (arr[l] <= pivot && l < u) l++;
+        while (arr[u] > pivot && l <= u) u--;
+        if (l < u) swap(arr, u, l);
+    }
+
+    swap(arr, u, p1);
+    quickSortUtil(arr, p1, u - 1);
+    quickSortUtil(arr, u + 1, p2);
+}
+
+function quickSort(arr) {
+    const size = arr.length;
+    quickSortUtil(arr, 0, size - 1);
+}
+
+const arr = [5,3,1,4,2];
+quickSort(arr);
+console.log(arr.join(' '));
+```
