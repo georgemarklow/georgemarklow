@@ -7,7 +7,7 @@
 - [Search](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#search)
 - [Stack](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#stack)
 - [Queue](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#queue)
-- [Dictionary / Map]()
+- [Dictionary / Map](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#dictionary)
 
 <br/>
 
