@@ -257,6 +257,8 @@ search(arr, 6);                 // -1
 
 ## Stack
 
+All stack operations are O(1).
+
 Applications:
 - Recursion
 - Postfix evaluation
@@ -301,6 +303,15 @@ stack.isEmpty()            // true
 <br>
 
 ## Queue
+
+All queue operations are O(1).
+
+- Access shared resource (printer)
+- Multiprogramming
+- Message queue
+- A breadth-first traversal of a graph
+
+<br>
 
 ```javascript
 class Queue {
