@@ -63,6 +63,16 @@
 
 ### Bubble-Sort
 
+- Slowest for sorting
+- Easy to implement 
+- Ideal for small data
+- Compares each pair of adjacent values
+- After the first pass, the largest value is in the right-most position
+
+![Screenshot 2021-03-14 at 4 34 50 pm](https://user-images.githubusercontent.com/11710404/111076196-3bc2d900-84e3-11eb-9588-f1449441d14b.png)
+
+<br>
+
 ```javascript
 function sort(arr, compare) {
     let size = arr.length;
@@ -85,6 +95,7 @@ const arr = [5,3,1,2,4];
 sort(arr, more);
 console.log(arr.join(' '));
 ```
+![Screenshot 2021-03-14 at 4 33 40 pm](https://user-images.githubusercontent.com/11710404/111076156-0cac6780-84e3-11eb-9f96-6e80ca486363.png)
 
 <br/>
 
