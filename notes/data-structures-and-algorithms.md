@@ -257,6 +257,14 @@ search(arr, 6);                 // -1
 
 ## Stack
 
+Applications:
+- Recursion
+- Postfix evaluation
+- Backtracking
+- Depth-first search
+- Convert decimal to a number
+<br>
+
 ```javascript
 class Stack {
    constructor() {
