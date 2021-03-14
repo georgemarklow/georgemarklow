@@ -471,6 +471,8 @@ d.remove('c')             // Invalid map key
 Applications:
 - Removing duplicate data from collections
 
+<br>
+
 ```javascript
 const s = new Set(); // in JavaScript already
 s.add('a')
@@ -497,6 +499,8 @@ s                   // Set {}
 
 ## Counter
 Counts the number of occurrences of a value in a list.
+
+<br>
 
 ```javascript
 class CountMap {
