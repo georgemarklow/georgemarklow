@@ -174,6 +174,13 @@ console.log(arr.join(' '));
 
 ### Merge-Sort
 
+- Divide and Conquer algorithm
+- Divide the input into two halves recursively
+- In each step, data is divided into two halves
+- The two parts are sorted separately
+- Finally, combine the result into the final sorted output
+
+
 ```javascript
 function util(arr, temp, l, mid, u, compare) {
     let l1 = l;
@@ -214,6 +221,9 @@ const more = (array1, array2) => array1 > array2;
 sort(arr, more);
 console.log(arr.join(" "));
 ```
+
+![Screenshot 2021-03-14 at 4 41 48 pm](https://user-images.githubusercontent.com/11710404/111076440-31550f00-84e4-11eb-9f52-e401f8e464eb.png)
+
 <br/>
 
 ### Quick-Sort
