@@ -37,7 +37,7 @@
 
 ## Sorting
 
-- [Bubble-Sort]()
+- [Bubble-Sort](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#bubble-sort)
 - [Selection-Sort]()
 - [Insertion-Sort]()
 - [Bubble-Sort]()
