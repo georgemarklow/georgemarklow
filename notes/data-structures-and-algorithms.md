@@ -443,3 +443,53 @@ s                   // Set {}
 ```
 
 <br>
+
+## Counter
+Counts the number of occurrences of a value in a list.
+
+```javascript
+class CountMap {
+ constructor() {
+   this.items = new Map()
+ }
+ 
+ insert(key) {
+   if (this.items.has(key)) {
+     const count = this.items.get(key)
+     this.items.set(key, count + 1)
+   } else {
+     this.items.set(key, 1)
+   }
+ }
+ 
+ remove(key) {
+   if (this.items.has(key)) {
+     if (this.items.get(key) === 1) {
+       this.items.delete(key)
+     } else {
+       const count = this.items.get(key)
+       this.items.set(key, count - 1)
+     }
+   }
+ }
+  get(key) {
+     if (this.items.has(key))
+       return this.items.get(key)
+     return 0
+   }
+ 
+   exists(key) {
+     return this.items.has(key)
+   }
+}
+ 
+const c = new CountMap();
+c.insert('a')
+c.insert('a')
+c.insert('b')
+c                 // CountMap { items: Map { 'a' => 2, 'b' => 1 } }
+c.get('a')        // 2
+c.exists('a')     // true
+c.exists('c')     // false
+
+```
