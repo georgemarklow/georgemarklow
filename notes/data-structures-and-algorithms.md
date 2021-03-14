@@ -5,7 +5,7 @@
 - [Time Complexity Order](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#time-complexity)
 - [Sorting](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#sorting)
 - [Search](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#search)
-- [Stack]()
+- [Stack](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#stack)
 
 <br/>
 
