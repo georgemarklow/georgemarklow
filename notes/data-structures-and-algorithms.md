@@ -7,6 +7,7 @@
 - [Search](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#search)
 - [Stack](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#stack)
 - [Queue](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#queue)
+- Dictionary (Map)
 
 <br/>
 
@@ -344,5 +345,61 @@ queue.pop();               // 1
 queue.peek();              // 2
 queue.pop();               // 2
 queue.isEmpty();           // true
+
+```
+
+## Dictionary
+
+- Maps keys to values
+- Uses a hash-table => key-value pairs not in sorted order
+- Does not allow duplicate keys 
+- Values can be duplicates
+
+```javascript
+class Dictionary {
+   constructor() {
+       this.items = {}
+   }
+ 
+   add(key, value) {
+       if (this.items[key]) {
+           throw new Error('Key already added')
+       }
+       this.items[key] = value
+       return this.items
+   }
+ 
+   remove(key) {
+       if (!this.items.hasOwnProperty(key)) {
+           throw new Error('Invalid map key')
+       }
+       const value = this.items[key];
+       delete this.items[key]
+       return {key, value}
+   }
+ 
+   keys() {
+       return Object.keys(this.items)
+   }
+ 
+   values() {
+       return Object.values(this.items)
+   }
+ 
+   exists(value) {
+       return this.items.hasOwnProperty(value)
+   }
+}
+ 
+const d = new Dictionary();
+d.add('a',10);            // { a: 10 }
+d.add('b',20);            // { a: 10, b: 20 }
+d.keys();                 // ['a','b']
+d.values();               // [ 10, 20 ]
+d.remove('a')             // 10
+d.exists('b')             // true
+d.exists('a')             // false
+d.add('a',30)             // Key already added
+d.remove('c')             // Invalid map key
 
 ```
