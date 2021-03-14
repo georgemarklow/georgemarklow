@@ -744,45 +744,6 @@ f();
 ```
 <br/>
 
-### Async/Await
-
-```javascript
-const f = async (x) => { 
-    return Promise.resolve(x);
-};
-f('s').then(console.log);    // Promise { <pending> }
-                             // s
-```
-```javascript
-const f = async (x) => { 
-    return Promise.resolve(x);
-};
-f('s').then(console.log);    // Promise { <pending> }
-                             // s
-```
-```javascript
-async function f(s,t) {
-    let promise = new Promise((resolve, reject) => {
-        setTimeout(() => resolve(s), t)
-    });
-    console.log(await promise);
-}
-f('s', 3000);                // Promise { <pending> }
-                             // s
-```
-```javascript
-const p1 = 1;
-const p2 = Promise.resolve(2);
-const p3 = new Promise((resolve, reject) => {
-    setTimeout(resolve, 1000, 3);
-});
-Promise.all([p1, p2, p3]).then((values) => {
-    console.log(values);
-});
-// [ 1, 2, 3 ]
-```
-<br/>
-
 ### Closures
 
 ```javascript
