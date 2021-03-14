@@ -65,7 +65,6 @@ Let's get started, shall we?
 - [Math Library](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#math-library)
 - [JSON](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#json)
 - [Promises](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#promises)
-- [Async/Await](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#asyncawait)
 - [Closures](https://github.com/georgemarklow/georgemarklow/blob/main/notes/javascript.md#closures)
 
 <br/>
