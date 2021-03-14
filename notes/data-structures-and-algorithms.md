@@ -6,7 +6,9 @@
 
 <br/>
 
-## Time Complexity Order
+## Time Complexity
+
+### Time Complexity Order
 
 | Name   |      Notation      | Examples |
 |:----------|:-------------|:-------------|
@@ -18,3 +20,15 @@
 | Polynomial | O(n<sup>c</sup>) c constant > 1 ||
 | Exponential | O(c<sup>m</sup>) c constant > 1 | All possible subsets |
 | Factorial | O(n!) / O(n<sup>n</sup>) | All possible permutations |
+
+<br/>
+
+### Running Time Analysis
+
+| Name   |      Running Time  |
+|:----------|:-------------|
+| Loop  | O(n) |
+| Nested Loop | O(n<sup>2</sup> |
+| Consecutive statements | Sum of running times |
+| If-Else | Consider running time of larger block |
+| Logarithmic | Input size descreased by constant factor on each iteration |
