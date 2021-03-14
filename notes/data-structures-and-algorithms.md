@@ -225,8 +225,8 @@ function search(arr, x) {
 }
 
 const arr = [5,3,1,4,2]
-search(arr, 1); // 2
-search(arr, 6); // -1
+search(arr, 1);         // 2
+search(arr, 6);         // -1
 ```
 
 <br>
