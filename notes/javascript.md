@@ -435,7 +435,6 @@ m;                           // [ <2 empty items> ]
 
 ```javascript
 const f = (x) => [...x];
-c;                           // [ 'a', 'b' ]
 f('ab');                     // [ 'a', 'b' ]
 ```
 
