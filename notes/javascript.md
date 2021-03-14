@@ -8,6 +8,18 @@
 
 ## Warm-Up Drill with Node.js
 
+Drills cover important operations of a programming language or framework in a very short space of time.
+
+What drills are for:
+-  They get you upto speed quickly on a language if you've been away from it for a while e.g. for returning to front-end development after a few months working on a middleware webservices project in Java/C#.
+-  Preparing you for something done under timed conditions, such as a hackathon.
+-  They expose differences between operations through examples e.g. toPrecision() vs. toFixed()
+
+What drills are **not** for:
+- Because they are to be worked through quickly, and aren't broken up with descriptions of everything going on, they aren't ideal for people new to programming.
+
+<br/>
+
 There's two ways to get started with this JavaScript drill, using:
 1. Node.js from the Terminal
 2. A Node.js Replit playground (a collaborative space for experimenting with and sharing code)
