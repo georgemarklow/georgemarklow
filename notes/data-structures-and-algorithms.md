@@ -5,6 +5,7 @@
 - [Time Complexity Order](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#time-complexity)
 - [Sorting](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#sorting)
 - [Search](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#search)
+- [Stack]()
 
 <br/>
 
@@ -250,4 +251,40 @@ const arr = [5,3,1,4,2]
 search(arr, 0, arr.length, 1);    
 search(arr, 6);                 // 2
 search(arr, 6);                 // -1
+```
+<br>
+
+### Stack
+
+```javascript
+class Stack {
+   constructor() {
+       this.items = [];
+   }
+ 
+   push(item) {
+       this.items.push(item);
+       return this.items;
+   }
+ 
+   pop() {
+       return this.items.pop();
+   }
+ 
+   peek() {
+       return this.items[this.items.length - 1];
+   }
+ 
+   isEmpty() {
+       return this.items.length === 0;
+   }
+}
+ 
+const stack = new Stack();
+stack.push(1);             // [1]
+stack.push(2);             // [1, 2]
+stack.pop();               // 2
+stack.peek();              // 1
+stack.pop()                // 1
+stack.isEmpty()            // true
 ```
