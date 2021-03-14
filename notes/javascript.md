@@ -274,7 +274,7 @@ x;                           // 6
 
 ```javascript
 
-let m = { p: 'p', q: 'q' };
+const m = { p: 'p', q: 'q' };
 for (let i in m) {
     if (m.hasOwnProperty(i)) console.log(`${i} = ${m[i]}`);
 };
