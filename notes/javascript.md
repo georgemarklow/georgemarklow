@@ -372,6 +372,7 @@ function p() {
 for (let i = 0; i < 10; i++) {
     o(i);
 };
+                             // NOTE! Different each time due to non-deterministic function
                              // 2 failed: error
                              // 8 failed: error
 ```
