@@ -209,6 +209,11 @@ console.log(arr.join(' '));
 
 ## Search
 
+- [Linear](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#linear)
+- [Binary]()
+
+<br>
+
 ### Linear
 
 ```javascript
@@ -223,3 +228,7 @@ const arr = [5,3,1,4,2]
 search(arr, 1); // 2
 search(arr, 6); // -1
 ```
+
+<br>
+
+### Binary
