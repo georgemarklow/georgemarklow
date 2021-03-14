@@ -1,5 +1,6 @@
 # Blogging Resources
 
+- [50 Catchy Headlines](https://www.searchenginejournal.com/50-catchy-headline-formulas-can-use-blog/160136/)
 - [Power Words](https://smartblogger.com/power-words/)
 - [How to Write a Blog Post in 2021: The Ultimate Guide](https://smartblogger.com/how-to-write-a-blog-post/)
 - [401+ Ridiculously Useful Power Words To Increase Conversions](https://sumo.com/stories/power-words)
