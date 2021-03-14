@@ -123,6 +123,8 @@ sort(arr, more);
 console.log(arr.join(' '));
 ```
 
+<br/>
+
 ### Merge-Sort
 
 ```javascript
