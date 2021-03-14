@@ -167,3 +167,6 @@ const more = (array1, array2) => array1 > array2;
 sort(arr, more);
 console.log(arr.join(" "));
 ```
+<br/>
+
+### Quick-Sort
