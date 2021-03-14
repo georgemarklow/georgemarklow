@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Time Complexity Order](https://github.com/georgemarklow/georgemarklow/new/main/notes#time-complexity-order)
+- [Time Complexity Order](https://github.com/georgemarklow/georgemarklow/blob/main/notes/data-structures-and-algorithms.md#time-complexity)
 
 <br/>
 
