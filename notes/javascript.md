@@ -696,22 +696,21 @@ console.log('3');
                              
 ```
 ```javascript
-
 const f = () => {
-    const x = {
-        a: 1,
-        b: 2
-    };
-    return new Promise(y => {
+    return new Promise((resolve) => {
         setTimeout(() => {
-            y(x);
-        }, 3000);
+            resolve(console.log('ok'));            
+        }, 1000);
     });
 };
 
 f().then(x => {
-    console.log(x);          // [...] { a: 1, b: 2 }
+    setTimeout(() => {
+        console.log('done');    
+    }, 1000);
 });
+                             // ok
+                             // done                            
 ```
 
 ```javascript
