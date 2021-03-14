@@ -288,3 +288,41 @@ stack.peek();              // 1
 stack.pop()                // 1
 stack.isEmpty()            // true
 ```
+
+<br>
+
+## Queue
+
+```javascript
+class Queue {
+   constructor() {
+       this.items = [];
+   }
+ 
+   push(item) {
+       this.items.unshift(item);
+       return this.items;
+   }
+ 
+   peek() {
+       return this.items[this.items.length - 1];
+   }
+ 
+   pop() {
+       return this.items.pop();
+   }
+ 
+   isEmpty() {
+       return this.items === 0;
+   }
+}
+ 
+const queue = new Queue();
+queue.push(1);             // [1]
+queue.push(2);             // [2, 1]
+queue.pop();               // 1
+queue.peek();              // 2
+queue.pop();               // 2
+queue.isEmpty();           // true
+
+```
