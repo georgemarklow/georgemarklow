@@ -32,3 +32,93 @@
 | Consecutive statements | Sum of running times |
 | If-Else | Consider running time of larger block |
 | Logarithmic | Input size descreased by constant factor on each iteration |
+
+<br/>
+
+## Sorting
+
+- [Bubble-Sort]()
+- [Selection-Sort]()
+- [Insertion-Sort]()
+- [Bubble-Sort]()
+- [Quick-Sort]()
+- [Merge-Sort]()
+
+<br/>
+
+### Bubble-Sort
+
+```javascript
+function sort(arr, compare) {
+    let size = arr.length;
+    let swapped = true;
+    let temp;
+    for (let i = 0; i < (size - 1) && swapped; i++) {
+        for (let j = 0; j < size - i - 1; j++) {
+            if (compare(arr[j], arr[j + 1])) {
+                temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
+                swapped = true;
+            }
+        }
+    }
+}
+
+const more = (value1, value2) => value1 > value2;
+const arr = [5,3,1,2,4];
+sort(arr, more);
+console.log(arr.join(' '));
+```
+
+<br/>
+
+### Selection-Sort
+
+```javascript
+function sort(arr, compare) {
+    const size = arr.length;
+    let max;
+    let temp;
+    for (let i = 0; i < size - 1; i++) {
+        max = 0;
+        for (let j = 1; j < size - i; j++) {
+            if (compare(arr[j], arr[max])) {
+                max = j;
+            }
+        }
+        temp = arr[size - 1 - i];
+        arr[size - 1 - i] = arr[max];
+        arr[max] = temp;
+    }
+}
+
+const more = (array1, array2) => array1 > array2;
+const arr = [5, 3, 1, 2, 4]
+sort(arr, more);
+console.log(arr.join(' '));
+```
+
+<br/>
+
+### Insertion-Sort
+
+```javascript
+function sort(arr, compare) {
+    const size = arr.length;
+    let temp;
+    for (let i = 0; i < size; i++) {
+        temp = arr[i];
+        let j;
+        for (j = i; j > 0 && compare(arr[j - 1], temp); j--) {
+            arr[j] = arr[j - 1];
+        }
+        arr[j] = temp;
+    }
+}
+
+const more = (value1, value2) => value1 < value2;
+const arr = [5, 3, 1,2 ,4]
+sort(arr, more);
+console.log(arr.join(' '));
+```
