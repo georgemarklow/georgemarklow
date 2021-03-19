@@ -1,5 +1,6 @@
 # Blogging Resources
 
+- [**Catchy Headlines**](https://www.angelagiles.com/catchy-headlines)
 - [**41 Engaging Examples of the Best Headlines to Rally Your Audience**](https://www.crazyegg.com/blog/best-headlines/)
 - [50 Catchy Headlines](https://www.searchenginejournal.com/50-catchy-headline-formulas-can-use-blog/160136/)
 - [Power Words](https://smartblogger.com/power-words/)
