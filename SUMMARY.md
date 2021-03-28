@@ -44,6 +44,9 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 
 ## Articles I've Published
 
+### Team-Building
+- [You Won’t Believe How Easy Remote Team-Building Can Be With These 10 Simple Ideas](https://marklowg.medium.com/you-wont-believe-how-easy-remote-team-building-can-be-with-these-10-simple-ideas-ac60f90a1847)
+
 ### General
 - [Multiple-Choice Tests in Minutes — the Smart Way to Build Mental Muscle.](https://marklowg.medium.com/multiple-choice-tests-in-minutes-the-smart-way-to-build-mental-muscle-ead2044c0391)
 - [Leading Agile Project Estimation with PlanITPoker](https://marklowg.medium.com/leading-agile-project-estimation-with-planitpoker-de87198ddcf1)
