@@ -45,6 +45,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 ## Articles I've Published
 
 ### General
+- [Multiple-Choice Tests in Minutes — the Smart Way to Build Mental Muscle.](https://marklowg.medium.com/multiple-choice-tests-in-minutes-the-smart-way-to-build-mental-muscle-ead2044c0391)
 - [Leading Agile Project Estimation with PlanITPoker](https://marklowg.medium.com/leading-agile-project-estimation-with-planitpoker-de87198ddcf1)
 - [Book Review: ‘The Art of Everyday Assertiveness’](https://marklowg.medium.com/book-review-the-art-of-everyday-assertiveness-by-patrick-king-67c490f8ba7d)
 - [Asynchronous and Synchronous Working, Attention Fatigue, and Striking a Good Work-from-Home Balance: Lessons from ‘Leading Remote and Virtual Teams’](https://marklowg.medium.com/asynchronous-and-synchronous-working-attention-fatigue-and-striking-a-good-work-from-home-2b92a0a21d3c)
