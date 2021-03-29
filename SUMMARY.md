@@ -47,12 +47,15 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 ### Team-Building
 - [You Won’t Believe How Easy Remote Team-Building Can Be With These 10 Simple Ideas](https://marklowg.medium.com/you-wont-believe-how-easy-remote-team-building-can-be-with-these-10-simple-ideas-ac60f90a1847)
 
+### Presenting
+- [Delivering a Fearless Webinar: The Feeling of 30 Minutes in Freefall](https://marklowg.medium.com/delivering-a-fearless-webinar-the-feeling-of-30-minutes-in-freefall-7f584e8fea1e)
+- [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
+
 ### General
 - [Multiple-Choice Tests in Minutes — the Smart Way to Build Mental Muscle.](https://marklowg.medium.com/multiple-choice-tests-in-minutes-the-smart-way-to-build-mental-muscle-ead2044c0391)
 - [Leading Agile Project Estimation with PlanITPoker](https://marklowg.medium.com/leading-agile-project-estimation-with-planitpoker-de87198ddcf1)
 - [Book Review: ‘The Art of Everyday Assertiveness’](https://marklowg.medium.com/book-review-the-art-of-everyday-assertiveness-by-patrick-king-67c490f8ba7d)
 - [Asynchronous and Synchronous Working, Attention Fatigue, and Striking a Good Work-from-Home Balance: Lessons from ‘Leading Remote and Virtual Teams’](https://marklowg.medium.com/asynchronous-and-synchronous-working-attention-fatigue-and-striking-a-good-work-from-home-2b92a0a21d3c)
-- [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
 - [Creating a Personal Knowledge Base on Github](https://marklowg.medium.com/creating-a-personal-knowledgebase-on-github-d1d8bb9222a4)
 - [Using Quizlet to Memorise Commands, IDE Shortcuts, and other things for Software Engineers](https://marklowg.medium.com/using-quizlet-to-memorise-commands-ide-shortcuts-and-other-things-for-software-engineers-cf110465d067)
 - [Algorithms in Colour…Fun for the Whole Family!](https://marklowg.medium.com/algorithms-in-colour-fun-for-the-whole-family-eb18dbb8f55a)
