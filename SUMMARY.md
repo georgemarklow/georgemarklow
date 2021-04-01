@@ -52,6 +52,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 - [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
 
 ### General
+- [Designing a Metric for Software Delivery or Incident Management](https://marklowg.medium.com/designing-a-metric-for-software-delivery-or-incident-management-bf6a043b013f)
 - [Multiple-Choice Tests in Minutes — the Smart Way to Build Mental Muscle.](https://marklowg.medium.com/multiple-choice-tests-in-minutes-the-smart-way-to-build-mental-muscle-ead2044c0391)
 - [Leading Agile Project Estimation with PlanITPoker](https://marklowg.medium.com/leading-agile-project-estimation-with-planitpoker-de87198ddcf1)
 - [Book Review: ‘The Art of Everyday Assertiveness’](https://marklowg.medium.com/book-review-the-art-of-everyday-assertiveness-by-patrick-king-67c490f8ba7d)
