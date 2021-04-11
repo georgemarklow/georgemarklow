@@ -60,6 +60,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 - [Creating a Personal Knowledge Base on Github](https://marklowg.medium.com/creating-a-personal-knowledgebase-on-github-d1d8bb9222a4)
 - [Using Quizlet to Memorise Commands, IDE Shortcuts, and other things for Software Engineers](https://marklowg.medium.com/using-quizlet-to-memorise-commands-ide-shortcuts-and-other-things-for-software-engineers-cf110465d067)
 - [Algorithms in Colour…Fun for the Whole Family!](https://marklowg.medium.com/algorithms-in-colour-fun-for-the-whole-family-eb18dbb8f55a)
+- [Three Things to Help Control a Preoccupation with Body Image. Unlock the Blessings of Mental Health Techniques to Live a Happier Life.](https://marklowg.medium.com/three-things-to-help-control-a-preoccupation-with-body-image-874a19b24ece)
 
 ### Git
 
