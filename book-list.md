@@ -1,3 +1,10 @@
+## Refactoring
+- [ ] Refactoring Databases: Evolutionary Database Design (Addison-Wesley Signature Series (Fowler))
+
+## Agile
+- [ ] Agile Estimating and Planning 1st Edition
+- [ ] User Stories Applied
+
 ## Software Lifecycle and Documentation
 - [ ] Specification by Example: How Successful Teams Deliver the Right Software
 - [ ] Test Driven Development: By Example
