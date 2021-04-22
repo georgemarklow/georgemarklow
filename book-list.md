@@ -7,6 +7,7 @@
 ## Agile
 - [ ] Agile Estimating and Planning 1st Edition
 - [ ] User Stories Applied
+- [ ] Adaptive Code: Agile coding with design patterns and SOLID principles (Developer Best Practices) 2nd Edition
 
 ## Testing
 - [ ] TDD by example - Evaluating an expression
