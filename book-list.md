@@ -1,3 +1,6 @@
+## Azure
+- [ ] Learn Microsoft Azure: Step by step in 7 days for .NET Developers
+
 ## Refactoring
 - [ ] Refactoring Databases: Evolutionary Database Design (Addison-Wesley Signature Series (Fowler))
 
@@ -71,6 +74,3 @@
 - [ ] Building a RESTful API with ASP.NET Core (pluralsight)
 - [ ] What Every Web Developer Should Know About HTTP
 - [ ] Building Single Page App using ASP.NET Core and Angular
-
-## Azure
-- [ ] Learn Microsoft Azure: Step by step in 7 days for .NET Developers
