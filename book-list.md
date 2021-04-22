@@ -8,6 +8,9 @@
 - [ ] Agile Estimating and Planning 1st Edition
 - [ ] User Stories Applied
 
+## Testing
+- [ ] TDD by example - Evaluating an expression
+
 ## Software Lifecycle and Documentation
 - [ ] Specification by Example: How Successful Teams Deliver the Right Software
 - [ ] Test Driven Development: By Example
@@ -51,7 +54,6 @@
 - [ ] Not Nice: Stop People Pleasing, Staying Silent, & Feeling Guilty
 - [ ] Rapport: The Four Ways to Read People
 - [ ] Introvert Survival Tactics: How to Make Friends, Be More Social, and Be Comfortable In Any Situation
-
 
 ## General Computing
 - [ ] Refactoring: Improving the Design of Existing Code
