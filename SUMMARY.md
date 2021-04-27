@@ -51,6 +51,9 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 - [Delivering a Fearless Webinar: The Feeling of 30 Minutes in Freefall](https://marklowg.medium.com/delivering-a-fearless-webinar-the-feeling-of-30-minutes-in-freefall-7f584e8fea1e)
 - [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
 
+### C#
+- [Packing and Unpacking with C# Tuples](https://marklowg.medium.com/packing-and-unpacking-with-c-tuples-e2d07b44d993)
+
 ### General
 - [Designing a Metric for Software Delivery or Incident Management](https://marklowg.medium.com/designing-a-metric-for-software-delivery-or-incident-management-bf6a043b013f)
 - [Multiple-Choice Tests in Minutes — the Smart Way to Build Mental Muscle.](https://marklowg.medium.com/multiple-choice-tests-in-minutes-the-smart-way-to-build-mental-muscle-ead2044c0391)
