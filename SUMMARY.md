@@ -55,6 +55,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 - [Packing and Unpacking with C# Tuples](https://marklowg.medium.com/packing-and-unpacking-with-c-tuples-e2d07b44d993)
 
 ### General
+- [Blogging Towards a ‘Personal Infrastructure’](https://marklowg.medium.com/blogging-towards-a-personal-infrastructure-e8779f023ba4)
 - [Designing a Metric for Software Delivery or Incident Management](https://marklowg.medium.com/designing-a-metric-for-software-delivery-or-incident-management-bf6a043b013f)
 - [Multiple-Choice Tests in Minutes — the Smart Way to Build Mental Muscle.](https://marklowg.medium.com/multiple-choice-tests-in-minutes-the-smart-way-to-build-mental-muscle-ead2044c0391)
 - [Leading Agile Project Estimation with PlanITPoker](https://marklowg.medium.com/leading-agile-project-estimation-with-planitpoker-de87198ddcf1)
