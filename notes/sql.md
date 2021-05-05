@@ -5,6 +5,8 @@
 - [SQL Sample Database](https://www.sqltutorial.org/sql-sample-database/)
 - [LIKE](https://www.sqltutorial.org/seeit/query/sql-like/#1)
 
+<img width="776" alt="Screenshot 2021-05-05 at 10 53 06 pm" src="https://user-images.githubusercontent.com/11710404/117214454-c1347c80-adf4-11eb-9f4a-472fed3fec32.png">
+
 <br/>
 
 ### Query data in columns c1, c2 from a table
