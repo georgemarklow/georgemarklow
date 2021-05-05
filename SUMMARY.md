@@ -116,6 +116,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 - [Git](notes/git.md)
 - [HTML](notes/html.md)
 - [Javascript](notes/javascript.md)
+- [LINQ](notes/linq.md)
 - [Moq](notes/moq.md)
 - [NgRx](notes/ngrx.md)
 - [NUnit](notes/nunit.md)
