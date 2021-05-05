@@ -52,6 +52,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 - [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
 
 ### Testing
+- [A Very Short Introduction to Software Testing](https://marklowg.medium.com/a-very-short-introduction-to-software-testing-5e5573ef4d16)
 - [A 5-Step Process to Move Towards a Unit Testing Culture in Development Teams](https://marklowg.medium.com/a-5-step-process-to-move-towards-a-unit-testing-culture-in-development-teams-5a35ff2a7062)
 
 ### C#
