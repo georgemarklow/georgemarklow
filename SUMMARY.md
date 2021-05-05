@@ -123,5 +123,6 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 - [Postman](notes/postman.md)
 - [Protractor](notes/protractor.md)
 - [RxJs](notes/rxjs.md)
+- [SQL](notes/sql.md)
 - [VS Code](notes/vs-code.md)
 - [Visual Studio Shortcuts](notes/visual-studio-shortcuts.md)
