@@ -8,6 +8,7 @@
 var col2 = Orders.Where(o => o.CustomerID == 84);
 ```
 <br/>
+
 ### Return Anonymous Type
 
 ```csharp
