@@ -1,15 +1,12 @@
 # LINQ
 
-## Operations
-
-### Filtering
+## Filtering
 
 ```csharp
 var col2 = Orders.Where(o => o.CustomerID == 84);
 ```
-<br/>
 
-### Return Anonymous Type
+## Return Anonymous Type
 
 ```csharp
 var col2 = orders.Select(o => new
@@ -18,9 +15,8 @@ var col2 = orders.Select(o => new
     Cost = o.Cost
 });
  ```
- <br/>
  
- ### Ordering
+## Ordering
  
 ```csharp
 var col2 = orders.OrderBy(o => o.Cost);
@@ -34,9 +30,8 @@ var col4 = orders.OrderByDescending(o => o.Cost);
 var col6 = orders.OrderBy(o => o.CustomerID).
     ThenByDescending(o => o.Cost);
 ```
-<br/>
 
-### Joining
+## Joining
 
 ```csharp
 var col2 = customers.Join(orders,
@@ -51,7 +46,7 @@ var col2 = customers.Join(orders,
  );
 ```
 
-### Grouping
+## Grouping
 
 ```csharp
 var OrderCounts1 = orders.GroupBy(
