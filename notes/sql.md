@@ -1,6 +1,11 @@
 # SQL
 
 ## Querying data from a table
+- [SQL Tutorial](https://www.sqltutorial.org/)
+- [SQL Sample Database](https://www.sqltutorial.org/sql-sample-database/)
+- [LIKE](https://www.sqltutorial.org/seeit/query/sql-like/#1)
+
+<br/>
 
 ### Query data in columns c1, c2 from a table
 ``` sql
