@@ -114,21 +114,19 @@ string[] names = (from c in customers select c.Name).ToArray();
 ```csharp
 Dictionary<int, Customer> col = customers.ToDictionary(c => c.CustomerID);
 Dictionary<string, double> customerOrdersWithMaxCost = (from oc in
-(from o in orders
-join c in customers on o.CustomerID equals c.CustomerID
-select new { c.Name, o.Cost })
-group oc by oc.Name into g
- select g).ToDictionary(g => g.Key, g => g.Max(oc => oc.Cost));
+    (from o in orders
+     join c in customers on o.CustomerID equals c.CustomerID
+     select new { c.Name, o.Cost })
+     group oc by oc.Name into g
+     select g).ToDictionary(g => g.Key, g => g.Max(oc => oc.Cost));
 ```
 ## ToList
 ```csharp
-List<Order> ordersOver10 = (from o in orders
-where o.Cost > 10
- orderby o.Cost).ToList();
+List<Order> ordersOver10 = (from o in orders where o.Cost > 10 orderby o.Cost)
+    .ToList();
 ```
 
 ## ToLookup
 ```csharp
-ILookup<int, string> customerLookup =
- customers.ToLookup(c => c.CustomerID, c => c.Name);
+ILookup<int, string> customerLookup = customers.ToLookup(c => c.CustomerID, c => c.Name);
 ```
