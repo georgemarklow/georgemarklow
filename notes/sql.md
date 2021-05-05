@@ -5,66 +5,64 @@
 ### Query data in columns c1, c2 from a table
 ``` sql
 SELECT c1, c2 FROM t;
-Code language: SQL (Structured Query Language) (sql)
 ```
 ###  Query all rows and columns from a table
 ``` sql
 SELECT * FROM t;
-Code language: SQL (Structured Query Language) (sql)
 ```
 ### Query data and filter rows with a condition
 ``` sql
 SELECT c1, c2 FROM t
 WHERE condition;
-Code language: SQL (Structured Query Language) (sql)
 ```
 ### Query distinct rows from a table
 ``` sql
 SELECT DISTINCT c1 FROM t
 WHERE condition;
-Code language: SQL (Structured Query Language) (sql)
 ```
 ### Sort the result set in ascending or descending order
 ``` sql
 SELECT c1, c2 FROM t
 ORDER BY c1 ASC [DESC];
-Code language: SQL (Structured Query Language) (sql)
 ```
 ### Skip offset of rows and return the next n rows
 ``` sql
 SELECT c1, c2 FROM t
 ORDER BY c1 
 LIMIT n OFFSET offset;
-Code language: SQL (Structured Query Language) (sql)
 ```
 ### Group rows using an aggregate function
 ``` sql
 SELECT c1, aggregate(c2)
 FROM t
 GROUP BY c1;
-Code language: SQL (Structured Query Language) (sql)
 ```
 ### Filter groups using HAVING clause
-```
+``` sql
 SELECT c1, aggregate(c2)
 FROM t
 GROUP BY c1
 HAVING condition;
-Code language: SQL (Structured Query Language) (sql)
-Querying from multiple tables
-Inner join t1 and t2
+```
 
+# Querying from multiple tables
+
+## Inner join t1 and t2
+``` sql
 SELECT c1, c2 
 FROM t1
 INNER JOIN t2 ON condition;
-Code language: SQL (Structured Query Language) (sql)
-Left join t1 and t1
+```
 
+## Left join t1 and t1
+``` sql
 SELECT c1, c2 
 FROM t1
 LEFT JOIN t2 ON condition;
-Code language: SQL (Structured Query Language) (sql)
-Right join t1 and t2
+```
+
+## Right join t1 and t2
+
 
 SELECT c1, c2 
 FROM t1
