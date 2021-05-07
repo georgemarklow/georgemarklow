@@ -193,3 +193,29 @@
         string GetProjectDetails(int employeeId);
     }
 ```
+
+## Interface Segregation Principle
+
+### Bad
+
+```csharp
+    public interface IEmployeeDatabase
+    {
+        bool Add();
+        bool Get();
+    }
+```
+
+### Good
+
+``` csharp
+    public interface IAddOperation
+    {
+        bool Add();
+    }
+
+    public interface IGetOperation
+    {
+        bool Get();
+    }
+```
