@@ -1,7 +1,7 @@
 # Solid
 
 ## Content
-- [Single Responsibility Principle]()
+- [Single Responsibility Principle](https://github.com/georgemarklow/georgemarklow/blob/main/notes/solid.md#single-responsibility-principle)
 - []()
 - []()
 - []()
