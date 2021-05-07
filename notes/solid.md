@@ -51,3 +51,53 @@
         }
     }
 ```
+
+## Open/Closed Principle
+
+### Bad
+```csharp
+    public class ReportGeneration
+    {
+        public string ReportType { get; set; }
+
+        public void GenerateReport(Employee em)
+        {
+            if (ReportType == "CRS")
+            {
+                // CRS...
+            }
+
+            if (ReportType == "PDF")
+            {
+                // PDF...
+            }
+        }
+    }
+```
+
+### Good
+```csharp
+    public abstract class ReportGeneration
+    {
+        public virtual void GenerateReport(Employee em)
+        {
+            // from base
+        }
+    }
+
+    public class CrystalReportGeneration : ReportGeneration
+    {
+        public override void GenerateReport(Employee em)
+        {
+            // generate crystal report
+        }
+    }
+
+    public class PDFReportGeneration : ReportGeneration
+    {
+        public override void GenerateReport(Employee em)
+        {
+            // generate PDF report
+        }
+    }
+```
