@@ -4,7 +4,7 @@
 - [Single Responsibility Principle](https://github.com/georgemarklow/georgemarklow/blob/main/notes/solid.md#single-responsibility-principle)
 - [Open/Closed Principle](https://github.com/georgemarklow/georgemarklow/blob/main/notes/solid.md#openclosed-principle)
 - [Liskov Substitution Principle](https://github.com/georgemarklow/georgemarklow/blob/main/notes/solid.md#liskov-substitution-principle)
-- []()
+- [Interface Segregation Principle](https://github.com/georgemarklow/georgemarklow/blob/main/notes/solid.md#interface-segregation-principle)
 - []()
 
 ## Single Responsibility Principle
@@ -217,5 +217,73 @@
     public interface IGetOperation
     {
         bool Get();
+    }
+```
+
+## Dependency Investion Principle
+
+### Bad
+
+```csharp
+    public class Email
+    {
+        public void SendEmail()
+        {
+        }
+    }
+
+    public class Notification
+    {
+        private Email _email;
+
+        public Notification()
+        {
+            _email = new Email();
+        }
+
+        public void PromotionalNotification()
+        {
+            _email.SendEmail();
+        }
+    }
+```
+
+### Good
+
+``` csharp
+    public interface IMessenger
+    {
+        void SendMessage();
+    }
+
+    public class Email : IMessenger
+    {
+        public void SendMessage()
+        {
+            // Email
+        }
+    }
+
+    public class SMS : IMessenger
+    {
+        public void SendMessage()
+        {
+            // SMS
+        }
+    }
+
+    public class Notification
+    {
+        private IMessenger _messenger;
+
+        public Notification(IMessenger messenger)
+        {
+            _messenger = messenger;
+        }
+
+        public void DoNotify()
+        {
+            _messenger.SendMessage();
+        }
     }
 ```
