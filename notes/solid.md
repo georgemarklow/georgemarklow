@@ -45,7 +45,7 @@
         }
     }
 
-    public class EmployeeGeneration
+    public class ReportGeneration
     {
         public void GenerateReport(Employee em)
         {
