@@ -3,7 +3,7 @@
 ## Content
 - [Single Responsibility Principle](https://github.com/georgemarklow/georgemarklow/blob/main/notes/solid.md#single-responsibility-principle)
 - [Open/Closed Principle](https://github.com/georgemarklow/georgemarklow/blob/main/notes/solid.md#openclosed-principle)
-- []()
+- [Liskov Substitution Principle](https://github.com/georgemarklow/georgemarklow/blob/main/notes/solid.md#liskov-substitution-principle)
 - []()
 - []()
 
@@ -104,6 +104,7 @@
 
 ## Liskov Substitution Principle
 
+### Bad
 ```cshasp
     public abstract class Employee
     {
