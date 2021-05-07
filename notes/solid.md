@@ -5,7 +5,9 @@
 - [Open/Closed Principle](https://github.com/georgemarklow/georgemarklow/blob/main/notes/solid.md#openclosed-principle)
 - [Liskov Substitution Principle](https://github.com/georgemarklow/georgemarklow/blob/main/notes/solid.md#liskov-substitution-principle)
 - [Interface Segregation Principle](https://github.com/georgemarklow/georgemarklow/blob/main/notes/solid.md#interface-segregation-principle)
-- []()
+- [Dependency Investion Principle](https://github.com/georgemarklow/georgemarklow/blob/main/notes/solid.md#dependency-investion-principle)
+
+<br/>
 
 ## Single Responsibility Principle
 
@@ -51,6 +53,8 @@
         }
     }
 ```
+
+<br/>
 
 ## Open/Closed Principle
 
@@ -101,6 +105,8 @@
         }
     }
 ```
+
+<br/>
 
 ## Liskov Substitution Principle
 
@@ -194,6 +200,8 @@
     }
 ```
 
+<br/>
+
 ## Interface Segregation Principle
 
 ### Bad
@@ -219,6 +227,8 @@
         bool Get();
     }
 ```
+
+<br/>
 
 ## Dependency Investion Principle
 
