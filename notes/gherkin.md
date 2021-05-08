@@ -27,13 +27,13 @@ The trailing portion (after the keyword) of each step is matched to a code block
 
 The primary keywords are:
 
-- Feature
-- Rule (as of Gherkin 6)
-- Example (or Scenario)
-- Given, When, Then, And, But for steps (or *)
-- Background
-- Scenario Outline (or Scenario Template)
-- Examples (or Scenarios)
+- [Feature](https://github.com/georgemarklow/georgemarklow/blob/main/notes/gherkin.md#feature)
+- [Rule](https://github.com/georgemarklow/georgemarklow/blob/main/notes/gherkin.md#rule)
+- [Example (or Scenario)](https://github.com/georgemarklow/georgemarklow/blob/main/notes/gherkin.md#example)
+- [Given, When, Then, And, But for steps (or \*)](https://github.com/georgemarklow/georgemarklow/blob/main/notes/gherkin.md#given)
+- [Background](https://github.com/georgemarklow/georgemarklow/blob/main/notes/gherkin.md#background)
+- [Scenario Outline (or Scenario Template)](https://github.com/georgemarklow/georgemarklow/blob/main/notes/gherkin.md#scenario-outline)
+- [Examples (or Scenarios)]()
 
 <br/>
 
