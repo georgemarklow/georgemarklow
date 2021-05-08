@@ -44,6 +44,9 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 
 ## Articles I've Published
 
+### Azure DevOps
+- [Azure DevOps: Setting up Sprints with Boards](https://marklowg.medium.com/azure-devops-setting-up-sprints-with-boards-97572ea3c4a0)
+
 ### Team-Building
 - [You Won’t Believe How Easy Remote Team-Building Can Be With These 10 Simple Ideas](https://marklowg.medium.com/you-wont-believe-how-easy-remote-team-building-can-be-with-these-10-simple-ideas-ac60f90a1847)
 
