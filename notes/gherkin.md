@@ -19,6 +19,8 @@ Feature: Guess the word
 
 The trailing portion (after the keyword) of each step is matched to a code block, called a step definition.
 
+<br/>
+
 ## Keywords
 - Each line that isn’t a blank line has to start with a Gherkin keyword, followed by text. 
 - The only exceptions are the feature and scenario descriptions.
@@ -33,6 +35,7 @@ The primary keywords are:
 - Scenario Outline (or Scenario Template)
 - Examples (or Scenarios)
 
+<br/>
 
 ## Feature
 - The purpose of the Feature keyword is to provide a high-level description of a software feature, and to group related scenarios.
@@ -55,10 +58,14 @@ Feature: Guess the word
 - The free format description for Feature ends when you start a line with the keyword Background, Rule, Example or Scenario Outline (or their alias keywords).
 - You can place tags above Feature to group related features, independent of your file and directory structure.
 
+<br/>
+
 ## Descriptions
 - Free-form descriptions (as described above for Feature) can also be placed underneath Example/Scenario, Background, Scenario Outline and Rule.
 - You can write anything you like, as long as no line starts with a keyword.
 - Descriptions can be in the form of Markdown - formatters including the official HTML formatter support this.
+
+<br/>
 
 ## Rule
 - The (optional) Rule keyword has been part of Gherkin since v6.
@@ -94,6 +101,8 @@ Feature: Highlander
       ...
 ```
 
+<br/>
+
 ## Example
 - This is a concrete example that illustrates a business rule. It consists of a list of steps.
 - The keyword Scenario is a synonym of the keyword Example.
@@ -126,6 +135,7 @@ This might seem like a limitation, but it forces you to come up with a less ambi
 Given my account has a balance of £430
 Then my account should have a balance of £430
 ```
+<br/>
 
 ## Given
 - Given steps are used to describe the initial context of the system - the scene of the scenario. 
@@ -141,6 +151,8 @@ Mickey and Minnie have started a game
 I am logged in
 Joe has a balance of £42
 ```
+
+<br/>
 
 ## When
 - When steps are used to describe an event, or an action. 
@@ -162,25 +174,30 @@ Imagine it's 1922
 - Imagine it’s 1922, when there were no computers.
 - Implementation details should be hidden in the step definitions.
 
-Then
-Then steps are used to describe an expected outcome, or result.
+<br/>
 
-The step definition of a Then step should use an assertion to compare the actual outcome (what the system actually does) to the expected outcome (what the step says the system is supposed to do).
-
-An outcome should be on an observable output. That is, something that comes out of the system (report, user interface, message), and not a behaviour deeply buried inside the system (like a record in a database).
+## Then
+- Then steps are used to describe an expected outcome, or result.
+- The step definition of a Then step should use an assertion to compare the actual outcome (what the system actually does) to the expected outcome (what the step says the system is supposed to do).
+- An outcome should be on an observable output. That is, something that comes out of the system (report, user interface, message), and not a behaviour deeply buried inside the system (like a record in a database).
 
 Examples:
 
+```gherkin
 See that the guessed word was wrong
 Receive an invitation
 Card should be swallowed
 While it might be tempting to implement Then steps to look in the database - resist that temptation!
+```
 
 You should only verify an outcome that is observable for the user (or external system), and changes to a database are usually not.
 
-And, But
+<br/>
+
+## And, But
 If you have successive Given’s, When’s, or Then’s, you could write:
 
+```gherkin
 Example: Multiple Givens
   Given one thing
   Given another thing
@@ -188,8 +205,11 @@ Example: Multiple Givens
   When I open my eyes
   Then I should see something
   Then I shouldn't see something else
+```
+
 Or, you could make the example more fluidly structured by replacing the successive Given’s, When’s, or Then’s with And’s and But’s:
 
+```gherkin
 Example: Multiple Givens
   Given one thing
   And another thing
@@ -197,11 +217,17 @@ Example: Multiple Givens
   When I open my eyes
   Then I should see something
   But I shouldn't see something else
-*
-Gherkin also supports using an asterisk (*) in place of any of the normal step keywords. This can be helpful when you have some steps that are effectively a list of things, so you can express it more like bullet points where otherwise the natural language of And etc might not read so elegantly.
+```
+
+<br/>
+
+## *
+- Gherkin also supports using an asterisk (\*) in place of any of the normal step keywords. 
+- This can be helpful when you have some steps that are effectively a list of things, so you can express it more like bullet points where otherwise the natural language of And etc might not read so elegantly.
 
 For example:
 
+```gherkin
 Scenario: All done
   Given I am out shopping
   And I have eggs
@@ -209,8 +235,11 @@ Scenario: All done
   And I have butter
   When I check my list
   Then I don't need anything
+```
+
 Could be expressed as:
 
+```gherkin
 Scenario: All done
   Given I am out shopping
   * I have eggs
@@ -218,17 +247,19 @@ Scenario: All done
   * I have butter
   When I check my list
   Then I don't need anything
-Background
-Occasionally you’ll find yourself repeating the same Given steps in all of the scenarios in a Feature.
+```
+<br/>
 
-Since it is repeated in every scenario, this is an indication that those steps are not essential to describe the scenarios; they are incidental details. You can literally move such Given steps to the background, by grouping them under a Background section.
-
-A Background allows you to add some context to the scenarios that follow it. It can contain one or more Given steps, which are run before each scenario, but after any Before hooks.
-
-A Background is placed before the first Scenario/Example, at the same level of indentation.
+## Background
+- Occasionally you’ll find yourself repeating the same Given steps in all of the scenarios in a Feature.
+- Since it is repeated in every scenario, this is an indication that those steps are not essential to describe the scenarios; they are incidental details.
+- You can literally move such Given steps to the background, by grouping them under a Background section.
+- A Background allows you to add some context to the scenarios that follow it. It can contain one or more Given steps, which are run before each scenario, but after any Before hooks.
+- A Background is placed before the first Scenario/Example, at the same level of indentation.
 
 For example:
 
+```gherkin
 Feature: Multiple site support
   Only blog owners can post to a blog, except administrators,
   who can post to all blogs.
@@ -253,8 +284,11 @@ Feature: Multiple site support
     Given I am logged in as Greg
     When I try to post to "Expensive Therapy"
     Then I should see "Your article was published."
+```
+
 Background is also supported at the Rule level, for example:
 
+```gherkin
 Feature: Overdue tasks
   Let users know when tasks are overdue, even when using other
   features of the app
@@ -273,9 +307,13 @@ Feature: Overdue tasks
       When I use the app
       Then I am not notified about overdue tasks
   ...
-You can only have one set of Background steps per Feature or Rule. If you need different Background steps for different scenarios, consider breaking up your set of scenarios into more Rules or more Features.
+```
 
-For a less explicit alternative to Background, check out conditional hooks.
+- You can only have one set of Background steps per Feature or Rule. 
+- If you need different Background steps for different scenarios, consider breaking up your set of scenarios into more Rules or more Features.
+- For a less explicit alternative to Background, check out conditional hooks.
+
+<br/>
 
 ### Tips for using Background
 - Don’t use Background to set up complicated states, unless that state is actually something the client needs to know.
@@ -286,6 +324,8 @@ For a less explicit alternative to Background, check out conditional hooks.
 - Use colourful names, and try to tell a story. The human brain keeps track of stories much better than it keeps track of names like "User A", "User B", "Site 1", and so on.
 - Keep your scenarios short, and don’t have too many.
 - If the Background section has scrolled off the screen, the reader no longer has a full overview of what’s happening. Think about using higher-level steps, or splitting the *.feature file.
+
+<br/>
 
 ## Scenario Outline
 - The Scenario Outline keyword can be used to run the same Scenario multiple times, with different combinations of values.
@@ -320,6 +360,8 @@ Scenario Outline: eating
     |    20 |   5 |   15 |
 ```
 
+<br/>
+
 ## Data Tables
 - Data Tables are handy for passing a list of values to a step definition:
 
@@ -334,6 +376,8 @@ Given the following users exist:
 Just like Doc Strings, Data Tables will be passed to the step definition as the last argument.
 
 See the Data Table API reference reference for more details.
+
+<br/>
 
 ## Useful Links
 
