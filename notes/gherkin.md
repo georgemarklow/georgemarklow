@@ -1,7 +1,5 @@
 # Gherkin
 
-Either spaces or tabs may be used for indentation. The recommended indentation level is two spaces. Here is an example:
-
 ```gherkin
 Feature: Guess the word
 
@@ -17,15 +15,11 @@ Feature: Guess the word
     Then the Breaker must guess a word with 5 characters
 ```
 
-The trailing portion (after the keyword) of each step is matched to a code block, called a step definition.
-
 <br/>
 
 ## Keywords
-- Each line that isn’t a blank line has to start with a Gherkin keyword, followed by text. 
-- The only exceptions are the feature and scenario descriptions.
 
-The primary keywords are:
+Primary keywords:
 
 - [Feature](https://github.com/georgemarklow/georgemarklow/blob/main/notes/gherkin.md#feature)
 - [Rule](https://github.com/georgemarklow/georgemarklow/blob/main/notes/gherkin.md#rule)
@@ -38,10 +32,9 @@ The primary keywords are:
 <br/>
 
 ## Feature
-- The purpose of the Feature keyword is to provide a high-level description of a software feature, and to group related scenarios.
+- Provides a high-level description of a software feature, and to group related scenarios.
 - The first primary keyword in a Gherkin document must always be Feature, followed by a : and a short text that describes the feature.
 - You can add free-form text underneath Feature to add more description.
-- These description lines are ignored by Cucumber at runtime, but are available for reporting (they are included by reporting tools like the official HTML formatter).
 
 ```gherkin
 Feature: Guess the word
@@ -53,30 +46,19 @@ Feature: Guess the word
   Example: Maker starts a game
 ```  
 
-- The name and the optional description have no special meaning to Cucumber. 
-- Their purpose is to provide a place for you to document important aspects of the feature, such as a brief explanation and a list of business rules (general acceptance criteria).
-- The free format description for Feature ends when you start a line with the keyword Background, Rule, Example or Scenario Outline (or their alias keywords).
-- You can place tags above Feature to group related features, independent of your file and directory structure.
-
 <br/>
 
 ## Descriptions
 - Free-form descriptions (as described above for Feature) can also be placed underneath Example/Scenario, Background, Scenario Outline and Rule.
 - You can write anything you like, as long as no line starts with a keyword.
-- Descriptions can be in the form of Markdown - formatters including the official HTML formatter support this.
 
 <br/>
 
 ## Rule
-- The (optional) Rule keyword has been part of Gherkin since v6.
-- Cucumber Support for Rule
-- Not all Cucumber implementations have finished implementing support for the Rule keyword - see this issue for the latest status.
 - The purpose of the Rule keyword is to represent one business rule that should be implemented. 
 - It provides additional information for a feature. 
 - A Rule is used to group together several scenarios that belong to this business rule. 
 - A Rule should contain one or more scenarios that illustrate the particular rule.
-
-For example:
 
 ```gherkin
 # -- FILE: features/gherkin.rule_example.feature
@@ -117,17 +99,16 @@ Examples follow this same pattern:
 - Describe an expected outcome (Then steps)
 - Steps
 - Each step starts with Given, When, Then, And, or But.
+- You cannot have a Given, When, Then, And or But step with the same text as another step.
 
-- Cucumber executes each step in a scenario one at a time, in the sequence you’ve written them in. 
-- When Cucumber tries to execute a step, it looks for a matching step definition to execute.
-- Keywords are not taken into account when looking for a step definition. This means you cannot have a Given, When, Then, And or But step with the same text as another step.
-
-Cucumber considers the following steps duplicates:
+These are considered duplicates:
 
 ```gherkin
 Given there is money in my account
 Then there is money in my account
 ```
+
+<br/>
 
 This might seem like a limitation, but it forces you to come up with a less ambiguous, more clear domain language:
 
@@ -144,8 +125,6 @@ Then my account should have a balance of £430
 - The purpose of Given steps is to put the system in a known state before the user (or external system) starts interacting with the system (in the When steps). Avoid talking about user interaction in Given’s. If you were creating use cases, Given’s would be your preconditions.
 - It’s okay to have several Given steps (use And or But for number 2 and upwards to make it more readable).
 
-Examples:
-
 ```gherkin
 Mickey and Minnie have started a game
 I am logged in
@@ -160,14 +139,14 @@ Joe has a balance of £42
 - It’s strongly recommended you only have a single When step per Scenario. 
 - If you feel compelled to add more, it’s usually a sign that you should split the scenario up into multiple scenarios.
 
-Examples:
-
 ```gherkin
 Guess a word
 Invite a friend
 Withdraw money
 Imagine it's 1922
 ```
+
+<br/>
 
 - Most software does something people could do manually (just not as efficiently).
 - Try hard to come up with examples that don’t make any assumptions about technology or user interface. 
@@ -181,14 +160,14 @@ Imagine it's 1922
 - The step definition of a Then step should use an assertion to compare the actual outcome (what the system actually does) to the expected outcome (what the step says the system is supposed to do).
 - An outcome should be on an observable output. That is, something that comes out of the system (report, user interface, message), and not a behaviour deeply buried inside the system (like a record in a database).
 
-Examples:
-
 ```gherkin
 See that the guessed word was wrong
 Receive an invitation
 Card should be swallowed
 While it might be tempting to implement Then steps to look in the database - resist that temptation!
 ```
+
+<br/>
 
 You should only verify an outcome that is observable for the user (or external system), and changes to a database are usually not.
 
@@ -206,6 +185,8 @@ Example: Multiple Givens
   Then I should see something
   Then I shouldn't see something else
 ```
+
+<br/>
 
 Or, you could make the example more fluidly structured by replacing the successive Given’s, When’s, or Then’s with And’s and But’s:
 
@@ -225,8 +206,6 @@ Example: Multiple Givens
 - Gherkin also supports using an asterisk (\*) in place of any of the normal step keywords. 
 - This can be helpful when you have some steps that are effectively a list of things, so you can express it more like bullet points where otherwise the natural language of And etc might not read so elegantly.
 
-For example:
-
 ```gherkin
 Scenario: All done
   Given I am out shopping
@@ -236,6 +215,8 @@ Scenario: All done
   When I check my list
   Then I don't need anything
 ```
+
+<br/>
 
 Could be expressed as:
 
@@ -256,8 +237,6 @@ Scenario: All done
 - You can literally move such Given steps to the background, by grouping them under a Background section.
 - A Background allows you to add some context to the scenarios that follow it. It can contain one or more Given steps, which are run before each scenario, but after any Before hooks.
 - A Background is placed before the first Scenario/Example, at the same level of indentation.
-
-For example:
 
 ```gherkin
 Feature: Multiple site support
@@ -286,7 +265,9 @@ Feature: Multiple site support
     Then I should see "Your article was published."
 ```
 
-Background is also supported at the Rule level, for example:
+<br/>
+
+Background is also supported at the Rule level:
 
 ```gherkin
 Feature: Overdue tasks
@@ -308,6 +289,8 @@ Feature: Overdue tasks
       Then I am not notified about overdue tasks
   ...
 ```
+
+<br/>
 
 - You can only have one set of Background steps per Feature or Rule. 
 - If you need different Background steps for different scenarios, consider breaking up your set of scenarios into more Rules or more Features.
@@ -344,9 +327,10 @@ Scenario: eat 5 out of 20
   Then I should have 15 cucumbers
 ```
 
-We can collapse these two similar scenarios into a Scenario Outline.
+<br/>
 
-Scenario outlines allow us to more concisely express these scenarios through the use of a template with < >-delimited parameters:
+- We can collapse these two similar scenarios into a Scenario Outline.
+- Scenario outlines allow us to more concisely express these scenarios through the use of a template with < >-delimited parameters:
 
 ```gherkin
 Scenario Outline: eating
@@ -373,9 +357,10 @@ Given the following users exist:
   | Matt   | matt@cucumber.io   | @mattwynne      |
 ```
   
-Just like Doc Strings, Data Tables will be passed to the step definition as the last argument.
-
-See the Data Table API reference reference for more details.
+<br/>
+  
+- Just like Doc Strings, Data Tables will be passed to the step definition as the last argument.
+- See the Data Table [API reference](https://www.baeldung.com/cucumber-data-tables) for more details.
 
 <br/>
 
