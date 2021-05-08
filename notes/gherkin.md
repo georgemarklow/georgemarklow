@@ -1,5 +1,7 @@
 # Gherkin
 
+<br/>
+
 ```gherkin
 Feature: Guess the word
 
@@ -36,6 +38,8 @@ Primary keywords:
 - The first primary keyword in a Gherkin document must always be Feature, followed by a : and a short text that describes the feature.
 - You can add free-form text underneath Feature to add more description.
 
+<br/>
+
 ```gherkin
 Feature: Guess the word
 
@@ -59,6 +63,8 @@ Feature: Guess the word
 - It provides additional information for a feature. 
 - A Rule is used to group together several scenarios that belong to this business rule. 
 - A Rule should contain one or more scenarios that illustrate the particular rule.
+
+<br/>
 
 ```gherkin
 # -- FILE: features/gherkin.rule_example.feature
@@ -103,6 +109,8 @@ Examples follow this same pattern:
 
 These are considered duplicates:
 
+<br/>
+
 ```gherkin
 Given there is money in my account
 Then there is money in my account
@@ -111,6 +119,8 @@ Then there is money in my account
 <br/>
 
 This might seem like a limitation, but it forces you to come up with a less ambiguous, more clear domain language:
+
+<br/>
 
 ```gherkin
 Given my account has a balance of £430
@@ -125,6 +135,8 @@ Then my account should have a balance of £430
 - The purpose of Given steps is to put the system in a known state before the user (or external system) starts interacting with the system (in the When steps). Avoid talking about user interaction in Given’s. If you were creating use cases, Given’s would be your preconditions.
 - It’s okay to have several Given steps (use And or But for number 2 and upwards to make it more readable).
 
+<br/>
+
 ```gherkin
 Mickey and Minnie have started a game
 I am logged in
@@ -138,6 +150,8 @@ Joe has a balance of £42
 - This can be a person interacting with the system, or it can be an event triggered by another system.
 - It’s strongly recommended you only have a single When step per Scenario. 
 - If you feel compelled to add more, it’s usually a sign that you should split the scenario up into multiple scenarios.
+
+<br/>
 
 ```gherkin
 Guess a word
@@ -160,6 +174,8 @@ Imagine it's 1922
 - The step definition of a Then step should use an assertion to compare the actual outcome (what the system actually does) to the expected outcome (what the step says the system is supposed to do).
 - An outcome should be on an observable output. That is, something that comes out of the system (report, user interface, message), and not a behaviour deeply buried inside the system (like a record in a database).
 
+<br/>
+
 ```gherkin
 See that the guessed word was wrong
 Receive an invitation
@@ -176,6 +192,8 @@ You should only verify an outcome that is observable for the user (or external s
 ## And, But
 If you have successive Given’s, When’s, or Then’s, you could write:
 
+<br/>
+
 ```gherkin
 Example: Multiple Givens
   Given one thing
@@ -189,6 +207,8 @@ Example: Multiple Givens
 <br/>
 
 Or, you could make the example more fluidly structured by replacing the successive Given’s, When’s, or Then’s with And’s and But’s:
+
+<br/>
 
 ```gherkin
 Example: Multiple Givens
@@ -206,6 +226,8 @@ Example: Multiple Givens
 - Gherkin also supports using an asterisk (\*) in place of any of the normal step keywords. 
 - This can be helpful when you have some steps that are effectively a list of things, so you can express it more like bullet points where otherwise the natural language of And etc might not read so elegantly.
 
+<br/>
+
 ```gherkin
 Scenario: All done
   Given I am out shopping
@@ -219,6 +241,8 @@ Scenario: All done
 <br/>
 
 Could be expressed as:
+
+<br/>
 
 ```gherkin
 Scenario: All done
@@ -237,6 +261,8 @@ Scenario: All done
 - You can literally move such Given steps to the background, by grouping them under a Background section.
 - A Background allows you to add some context to the scenarios that follow it. It can contain one or more Given steps, which are run before each scenario, but after any Before hooks.
 - A Background is placed before the first Scenario/Example, at the same level of indentation.
+
+<br/>
 
 ```gherkin
 Feature: Multiple site support
@@ -268,6 +294,8 @@ Feature: Multiple site support
 <br/>
 
 Background is also supported at the Rule level:
+
+<br/>
 
 ```gherkin
 Feature: Overdue tasks
@@ -315,6 +343,8 @@ Feature: Overdue tasks
 - The keyword Scenario Template is a synonym of the keyword Scenario Outline.
 - Copying and pasting scenarios to use different values quickly becomes tedious and repetitive:
 
+<br/>
+
 ```gherkin
 Scenario: eat 5 out of 12
   Given there are 12 cucumbers
@@ -332,6 +362,8 @@ Scenario: eat 5 out of 20
 - We can collapse these two similar scenarios into a Scenario Outline.
 - Scenario outlines allow us to more concisely express these scenarios through the use of a template with < >-delimited parameters:
 
+<br/>
+
 ```gherkin
 Scenario Outline: eating
   Given there are <start> cucumbers
@@ -348,6 +380,8 @@ Scenario Outline: eating
 
 ## Data Tables
 - Data Tables are handy for passing a list of values to a step definition:
+
+<br/>
 
 ```gherkin
 Given the following users exist:
