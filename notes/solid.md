@@ -13,6 +13,8 @@
 
 There should never be more than one reason for a class to change."[5] In other words, every class should have only one responsibility.
 
+<br/>
+
 ### Bad
 
 ```csharp
@@ -32,6 +34,8 @@ There should never be more than one reason for a class to change."[5] In other w
         }
     }
 ```
+
+<br/>
 
 ### Good
 
@@ -62,6 +66,8 @@ There should never be more than one reason for a class to change."[5] In other w
 
 Software entities ... should be open for extension, but closed for modification
 
+<br/>
+
 ### Bad
 ```csharp
     public class ReportGeneration
@@ -82,6 +88,8 @@ Software entities ... should be open for extension, but closed for modification
         }
     }
 ```
+
+<br/>
 
 ### Good
 ```csharp
@@ -114,7 +122,9 @@ Software entities ... should be open for extension, but closed for modification
 
 ## Liskov Substitution Principle
 
-Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it
+Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it.
+
+<br/>
 
 ### Bad
 ```csharp
@@ -157,6 +167,8 @@ Functions that use pointers or references to base classes must be able to use ob
         }
     }
 ```
+
+<br/>
 
 ### Good
 
@@ -212,6 +224,8 @@ Functions that use pointers or references to base classes must be able to use ob
 
 Many client-specific interfaces are better than one general-purpose interface.
 
+<br/>
+
 ### Bad
 
 ```csharp
@@ -221,6 +235,8 @@ Many client-specific interfaces are better than one general-purpose interface.
         bool Get();
     }
 ```
+
+<br/>
 
 ### Good
 
@@ -241,6 +257,8 @@ Many client-specific interfaces are better than one general-purpose interface.
 ## Dependency Investion Principle
 
 Depend upon abstractions, not concretions.
+
+<br/>
 
 ### Bad
 
@@ -267,6 +285,8 @@ Depend upon abstractions, not concretions.
         }
     }
 ```
+
+<br/>
 
 ### Good
 
