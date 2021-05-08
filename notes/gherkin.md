@@ -277,22 +277,22 @@ You can only have one set of Background steps per Feature or Rule. If you need d
 
 For a less explicit alternative to Background, check out conditional hooks.
 
-Tips for using Background
-Don’t use Background to set up complicated states, unless that state is actually something the client needs to know.
-For example, if the user and site names don’t matter to the client, use a higher-level step such as Given I am logged in as a site owner.
-Keep your Background section short.
-The client needs to actually remember this stuff when reading the scenarios. If the Background is more than 4 lines long, consider moving some of the irrelevant details into higher-level steps.
-Make your Background section vivid.
-Use colourful names, and try to tell a story. The human brain keeps track of stories much better than it keeps track of names like "User A", "User B", "Site 1", and so on.
-Keep your scenarios short, and don’t have too many.
-If the Background section has scrolled off the screen, the reader no longer has a full overview of what’s happening. Think about using higher-level steps, or splitting the *.feature file.
-Scenario Outline
-The Scenario Outline keyword can be used to run the same Scenario multiple times, with different combinations of values.
+### Tips for using Background
+- Don’t use Background to set up complicated states, unless that state is actually something the client needs to know.
+- For example, if the user and site names don’t matter to the client, use a higher-level step such as Given I am logged in as a site owner.
+- Keep your Background section short.
+- The client needs to actually remember this stuff when reading the scenarios. If the Background is more than 4 lines long, consider moving some of the irrelevant details into higher-level steps.
+- Make your Background section vivid.
+- Use colourful names, and try to tell a story. The human brain keeps track of stories much better than it keeps track of names like "User A", "User B", "Site 1", and so on.
+- Keep your scenarios short, and don’t have too many.
+- If the Background section has scrolled off the screen, the reader no longer has a full overview of what’s happening. Think about using higher-level steps, or splitting the *.feature file.
 
-The keyword Scenario Template is a synonym of the keyword Scenario Outline.
+## Scenario Outline
+- The Scenario Outline keyword can be used to run the same Scenario multiple times, with different combinations of values.
+- The keyword Scenario Template is a synonym of the keyword Scenario Outline.
+- Copying and pasting scenarios to use different values quickly becomes tedious and repetitive:
 
-Copying and pasting scenarios to use different values quickly becomes tedious and repetitive:
-
+```gherkin
 Scenario: eat 5 out of 12
   Given there are 12 cucumbers
   When I eat 5 cucumbers
@@ -302,10 +302,13 @@ Scenario: eat 5 out of 20
   Given there are 20 cucumbers
   When I eat 5 cucumbers
   Then I should have 15 cucumbers
+```
+
 We can collapse these two similar scenarios into a Scenario Outline.
 
 Scenario outlines allow us to more concisely express these scenarios through the use of a template with < >-delimited parameters:
 
+```gherkin
 Scenario Outline: eating
   Given there are <start> cucumbers
   When I eat <eat> cucumbers
@@ -315,55 +318,18 @@ Scenario Outline: eating
     | start | eat | left |
     |    12 |   5 |    7 |
     |    20 |   5 |   15 |
-Examples
-A Scenario Outline must contain an Examples (or Scenarios) section. Its steps are interpreted as a template which is never directly run. Instead, the Scenario Outline is run once for each row in the Examples section beneath it (not counting the first header row).
+```
 
-The steps can use <> delimited parameters that reference headers in the examples table. Cucumber will replace these parameters with values from the table before it tries to match the step against a step definition.
+## Data Tables
+- Data Tables are handy for passing a list of values to a step definition:
 
-You can also use parameters in multiline step arguments.
-
-Step Arguments
-In some cases you might want to pass more data to a step than fits on a single line. For this purpose Gherkin has Doc Strings and Data Tables.
-
-Doc Strings
-Doc Strings are handy for passing a larger piece of text to a step definition.
-
-The text should be offset by delimiters consisting of three double-quote marks on lines of their own:
-
-Given a blog post named "Random" with Markdown body
-  """
-  Some Title, Eh?
-  ===============
-  Here is the first paragraph of my blog post. Lorem ipsum dolor sit amet,
-  consectetur adipiscing elit.
-  """
-In your step definition, there’s no need to find this text and match it in your pattern. It will automatically be passed as the last argument in the step definition.
-
-Indentation of the opening """ is unimportant, although common practice is two spaces in from the enclosing step. The indentation inside the triple quotes, however, is significant. Each line of the Doc String will be dedented according to the opening """. Indentation beyond the column of the opening """ will therefore be preserved.
-
-Doc strings also support using three backticks as the delimiter:
-
-Given a blog post named "Random" with Markdown body
-  ```
-  Some Title, Eh?
-  ===============
-  Here is the first paragraph of my blog post. Lorem ipsum dolor sit amet,
-  consectetur adipiscing elit.
-  ```
-This might be familiar for those used to writing with Markdown.
-
-Tool support for backticks
-
-Whilst all current versions of Cucumber support backticks as the delimiter, many tools like text editors don’t (yet).
-
-Data Tables
-Data Tables are handy for passing a list of values to a step definition:
-
+```gherkin
 Given the following users exist:
   | name   | email              | twitter         |
   | Aslak  | aslak@cucumber.io  | @aslak_hellesoy |
   | Julien | julien@cucumber.io | @jbpros         |
   | Matt   | matt@cucumber.io   | @mattwynne      |
+```
   
 Just like Doc Strings, Data Tables will be passed to the step definition as the last argument.
 
