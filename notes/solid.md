@@ -11,6 +11,8 @@
 
 ## Single Responsibility Principle
 
+There should never be more than one reason for a class to change."[5] In other words, every class should have only one responsibility.
+
 ### Bad
 
 ```csharp
@@ -57,6 +59,8 @@
 <br/>
 
 ## Open/Closed Principle
+
+Software entities ... should be open for extension, but closed for modification
 
 ### Bad
 ```csharp
@@ -110,8 +114,10 @@
 
 ## Liskov Substitution Principle
 
+Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it
+
 ### Bad
-```cshasp
+```csharp
     public abstract class Employee
     {
         public virtual string GetProjectDetails(int employeeId)
@@ -154,7 +160,7 @@
 
 ### Good
 
-```chsarp
+```csharp
     public abstract class Employee
     {
         public virtual string GetProjectDetails(int employeeId)
@@ -204,6 +210,8 @@
 
 ## Interface Segregation Principle
 
+Many client-specific interfaces are better than one general-purpose interface.
+
 ### Bad
 
 ```csharp
@@ -216,7 +224,7 @@
 
 ### Good
 
-``` csharp
+```csharp
     public interface IAddOperation
     {
         bool Add();
@@ -231,6 +239,8 @@
 <br/>
 
 ## Dependency Investion Principle
+
+Depend upon abstractions, not concretions.
 
 ### Bad
 
