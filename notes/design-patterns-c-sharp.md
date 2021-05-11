@@ -8,6 +8,14 @@
 
 ## Abstract Factory
 
+### Benefits:
+- Possible to interchange the concrete classes without changing the client code even at runtime.
+
+### Drawback:
+- Extra complexity and writing the code during the initial stages.
+
+<br/>
+
 ```csharp
     class Program
     {
