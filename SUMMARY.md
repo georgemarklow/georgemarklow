@@ -119,6 +119,7 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 - [C#](notes/c-sharp.md)
 - [CSS](notes/css.md)
 - [Data Structures and Algorithms](notes/data-structures-and-algorithms.md)
+- [Gherkin Syntax](https://github.com/georgemarklow/georgemarklow/blob/main/notes/gherkin.md)
 - [Git](notes/git.md)
 - [HTML](notes/html.md)
 - [Javascript](notes/javascript.md)
