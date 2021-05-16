@@ -2,6 +2,9 @@
   <img src="https://user-images.githubusercontent.com/11710404/111040646-da8bfe80-842b-11eb-9d5c-62959f5b66d3.png" />
 </p>
 
+# Books
+- [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
+
 # Javascript
 
 <br/>
