@@ -134,5 +134,6 @@ https://www.inspiringthefuture.org/
 - [Protractor](notes/protractor.md)
 - [RxJs](notes/rxjs.md)
 - [SQL](notes/sql.md)
+- [Sprint Retrospectives](notes/sprint_retrospectives.md)
 - [VS Code](notes/vs-code.md)
 - [Visual Studio Shortcuts](notes/visual-studio-shortcuts.md)
