@@ -35,10 +35,12 @@ A webinar I'm doing to advise students looking to become developers:
 
 <br/>
 
-### Inspiring the Future
-https://www.inspiringthefuture.org/
+### Inspiring the Future 
+Dec 2020 - Apr 2021
 <br/>
 Volunteer speaker at schools and colleges regarding careers in software and answering questions from audiences.
+<br/>
+https://www.inspiringthefuture.org/
 
 <br/>
 
