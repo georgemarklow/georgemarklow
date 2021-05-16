@@ -1,5 +1,11 @@
 # Design Patterns in C#
 
+## Resources
+- [The Catalog of C# Examples](https://refactoring.guru/design-patterns/csharp)
+- [The Catalog of TypeScript Examples](https://refactoring.guru/design-patterns/typescript)
+
+<br/>
+
 ## Contents
 
 - [Abstract Factory](https://github.com/georgemarklow/georgemarklow/blob/main/notes/design-patterns-c-sharp.md#abstract-factory)
