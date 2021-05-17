@@ -21,6 +21,9 @@
 - [Azure Functions Fundamentals](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
 - [Microsoft Azure DevOps Engineer: Creating an Automated Build Workflow](https://app.pluralsight.com/library/courses/microsoft-azure-creating-automated-build-workflow/table-of-contents)
 
+## RxJS
+- [Unit Testing RxJS with Marble Diagrams](https://app.pluralsight.com/library/courses/unit-testing-rxjs-marble-diagrams/table-of-contents)
+
 <hr/>
 
 ## C#
@@ -28,6 +31,9 @@
 - [Defensive Coding in C#](https://app.pluralsight.com/library/courses/csharp-defensive-coding/table-of-contents)
 - [Advanced C# Collections](https://app.pluralsight.com/library/courses/csharp-collections-advanced/table-of-contents)
 - [Getting Started with Asynchronous Programming in .NET](https://app.pluralsight.com/library/courses/getting-started-with-asynchronous-programming-dotnet/table-of-contents)
+
+## SQL
+- [SQL Server Performance: Indexing Basics](https://app.pluralsight.com/library/courses/sql-server-indexing/table-of-contents)
 
 ## Protractor
 - [Introduction to Protractor](https://app.pluralsight.com/library/courses/protractor-introduction/table-of-contents)
