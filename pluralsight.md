@@ -24,8 +24,6 @@
 ## RxJS
 - [Unit Testing RxJS with Marble Diagrams](https://app.pluralsight.com/library/courses/unit-testing-rxjs-marble-diagrams/table-of-contents)
 
-<hr/>
-
 ## C#
 - [C# Design Patterns](https://app.pluralsight.com/search/?q=c%23%20design%20patterns&type=conference%2Cvideo-course%2Cdemo%2Cguide%2Cinteractive-course%2Cproject%2Cwebinar%2Cpath%2Cassessment&m_sort=relevance&query_id=80de503a-76a4-4659-a3a7-7271d4e0efa5&is_auto_suggested=true&source=autocomplete)
 - [Defensive Coding in C#](https://app.pluralsight.com/library/courses/csharp-defensive-coding/table-of-contents)
