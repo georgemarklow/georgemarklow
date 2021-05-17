@@ -21,4 +21,12 @@
 - [Mocking with Moq and NUnit](https://app.pluralsight.com/library/courses/nunit-moq-mocking/table-of-contents)
 
 ## Angular
+- [Angular Routing](https://app.pluralsight.com/library/courses/angular-routing/table-of-contents) + include testing examples
 - [Angular Services](https://app.pluralsight.com/library/courses/angular-services/table-of-contents)
+
+## Swagger
+- [Play by Play: Understanding API Functionality Through Swagger](https://app.pluralsight.com/library/courses/play-by-play-api-functionality-swagger/table-of-contents)
+
+## Javascript
+- [JavaScript Best Practices](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)
+- [Structuring JavaScript Code](https://app.pluralsight.com/library/courses/structuring-javascript/table-of-contents)
