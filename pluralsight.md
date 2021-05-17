@@ -1,15 +1,5 @@
 # Pluralsight
 
-## Entity Framework
-- [Building Your First API with ASP.NET Core](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents)
-- [Play by Play: Converting Synchronous Calls to Asynchronous in ASP.NET Core and Entity Framework Core](https://app.pluralsight.com/library/courses/play-by-play-converting-to-asynch-calls/table-of-contents)
-- [Testing with EF Core](https://app.pluralsight.com/library/courses/ef-core-testing/table-of-contents)
-- [Integrating Angular with ASP.NET Core RESTful Services](https://app.pluralsight.com/library/courses/angular-aspnetcore-restful-services/table-of-contents)
-
-## Angular
-- [Angular Routing](https://app.pluralsight.com/library/courses/angular-routing/table-of-contents) + include testing examples
-- [Angular Services](https://app.pluralsight.com/library/courses/angular-services/table-of-contents)
-
 ## Azure
 - [Set Up a Gated Check-in Policy Using Azure DevOps Services](https://app.pluralsight.com/guides/set-up-a-gated-check-in-policy-in-vsts)
 - [Configure Deployment Credentials for Azure App Service](https://app.pluralsight.com/guides/configure-deployment-credentials-for-azure-app-service)
@@ -20,6 +10,16 @@
 - [Microsoft Azure Developer: Implement Azure Functions](https://app.pluralsight.com/library/courses/microsoft-azure-developer-implement-azure-functions/table-of-contents)
 - [Azure Functions Fundamentals](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
 - [Microsoft Azure DevOps Engineer: Creating an Automated Build Workflow](https://app.pluralsight.com/library/courses/microsoft-azure-creating-automated-build-workflow/table-of-contents)
+
+## Entity Framework
+- [Building Your First API with ASP.NET Core](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents)
+- [Play by Play: Converting Synchronous Calls to Asynchronous in ASP.NET Core and Entity Framework Core](https://app.pluralsight.com/library/courses/play-by-play-converting-to-asynch-calls/table-of-contents)
+- [Testing with EF Core](https://app.pluralsight.com/library/courses/ef-core-testing/table-of-contents)
+- [Integrating Angular with ASP.NET Core RESTful Services](https://app.pluralsight.com/library/courses/angular-aspnetcore-restful-services/table-of-contents)
+
+## Angular
+- [Angular Routing](https://app.pluralsight.com/library/courses/angular-routing/table-of-contents) + include testing examples
+- [Angular Services](https://app.pluralsight.com/library/courses/angular-services/table-of-contents)
 
 ## RxJS
 - [Unit Testing RxJS with Marble Diagrams](https://app.pluralsight.com/library/courses/unit-testing-rxjs-marble-diagrams/table-of-contents)
