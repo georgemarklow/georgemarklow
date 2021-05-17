@@ -7,11 +7,15 @@
 - [Integrating Angular with ASP.NET Core RESTful Services](https://app.pluralsight.com/library/courses/angular-aspnetcore-restful-services/table-of-contents)
 
 ## Azure
+- [Set Up a Gated Check-in Policy Using Azure DevOps Services](https://app.pluralsight.com/guides/set-up-a-gated-check-in-policy-in-vsts)
+- [Configure Deployment Credentials for Azure App Service](https://app.pluralsight.com/guides/configure-deployment-credentials-for-azure-app-service)
+- [Microsoft Azure Developer: Managing Code Reviews with Azure DevOps](https://app.pluralsight.com/library/courses/microsoft-azure-vsts-code-reviews-managing/table-of-contents)
 - [Continuous Delivery and DevOps with Azure DevOps: Managing Builds](https://app.pluralsight.com/library/courses/azure-devops-continuous-delivery-managing-builds/table-of-contents)
 - [Continuous Delivery and DevOps with Azure DevOps: Release Pipelines](https://app.pluralsight.com/library/courses/azure-devops-continuous-delivery-release-pipelines/table-of-contents)
 - [Continuous Delivery and DevOps with Azure DevOps: The Big Picture](https://app.pluralsight.com/library/courses/continuous-delivery-azure-devops-big-picture/table-of-contents)
 - [Microsoft Azure Developer: Implement Azure Functions](https://app.pluralsight.com/library/courses/microsoft-azure-developer-implement-azure-functions/table-of-contents)
 - [Azure Functions Fundamentals](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
+- [Microsoft Azure DevOps Engineer: Creating an Automated Build Workflow](https://app.pluralsight.com/library/courses/microsoft-azure-creating-automated-build-workflow/table-of-contents)
 
 ## C#
 - [C# Design Patterns](https://app.pluralsight.com/search/?q=c%23%20design%20patterns&type=conference%2Cvideo-course%2Cdemo%2Cguide%2Cinteractive-course%2Cproject%2Cwebinar%2Cpath%2Cassessment&m_sort=relevance&query_id=80de503a-76a4-4659-a3a7-7271d4e0efa5&is_auto_suggested=true&source=autocomplete)
