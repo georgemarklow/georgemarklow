@@ -10,3 +10,15 @@
 - [Continuous Delivery and DevOps with Azure DevOps: The Big Picture](https://app.pluralsight.com/library/courses/continuous-delivery-azure-devops-big-picture/table-of-contents)
 - [Microsoft Azure Developer: Implement Azure Functions](https://app.pluralsight.com/library/courses/microsoft-azure-developer-implement-azure-functions/table-of-contents)
 - [Azure Functions Fundamentals](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
+
+## Protractor
+- [Introduction to Protractor](https://app.pluralsight.com/library/courses/protractor-introduction/table-of-contents)
+
+## Postman
+- [Postman Fundamentals](https://app.pluralsight.com/library/courses/postman-fundamentals/table-of-contents)
+
+## Testing
+- [Mocking with Moq and NUnit](https://app.pluralsight.com/library/courses/nunit-moq-mocking/table-of-contents)
+
+## Angular
+- [Angular Services](https://app.pluralsight.com/library/courses/angular-services/table-of-contents)
