@@ -12,6 +12,7 @@
 - [Azure Functions Fundamentals](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
 
 ## C#
+- [C# Design Patterns](https://app.pluralsight.com/search/?q=c%23%20design%20patterns&type=conference%2Cvideo-course%2Cdemo%2Cguide%2Cinteractive-course%2Cproject%2Cwebinar%2Cpath%2Cassessment&m_sort=relevance&query_id=80de503a-76a4-4659-a3a7-7271d4e0efa5&is_auto_suggested=true&source=autocomplete)
 - [Defensive Coding in C#](https://app.pluralsight.com/library/courses/csharp-defensive-coding/table-of-contents)
 - [Advanced C# Collections](https://app.pluralsight.com/library/courses/csharp-collections-advanced/table-of-contents)
 - [Getting Started with Asynchronous Programming in .NET](https://app.pluralsight.com/library/courses/getting-started-with-asynchronous-programming-dotnet/table-of-contents)
@@ -39,3 +40,10 @@
 
 ## NUnit
 - [Introduction to .NET Testing with NUnit 3](https://app.pluralsight.com/library/courses/nunit-3-dotnet-testing-introduction/table-of-contents)
+
+## Agile
+- [Agile Estimation: Getting Started](https://app.pluralsight.com/library/courses/getting-started-agile-estimation/table-of-contents)
+- [Refine User Stories and Acceptance Criteria with Agile](https://app.pluralsight.com/guides/refine-user-stories-and-acceptance-criteria-with-agile)
+
+## Chrome
+- [Debugging Your Website with Fiddler and Chrome DevTools](https://app.pluralsight.com/library/courses/fiddler-chrome-developer-tools-debugging-website/table-of-contents)
