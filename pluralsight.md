@@ -7,6 +7,8 @@
 - [Integrating Angular with ASP.NET Core RESTful Services](https://app.pluralsight.com/library/courses/angular-aspnetcore-restful-services/table-of-contents)
 
 ## Azure
+- [Continuous Delivery and DevOps with Azure DevOps: Managing Builds](https://app.pluralsight.com/library/courses/azure-devops-continuous-delivery-managing-builds/table-of-contents)
+- [Continuous Delivery and DevOps with Azure DevOps: Release Pipelines](https://app.pluralsight.com/library/courses/azure-devops-continuous-delivery-release-pipelines/table-of-contents)
 - [Continuous Delivery and DevOps with Azure DevOps: The Big Picture](https://app.pluralsight.com/library/courses/continuous-delivery-azure-devops-big-picture/table-of-contents)
 - [Microsoft Azure Developer: Implement Azure Functions](https://app.pluralsight.com/library/courses/microsoft-azure-developer-implement-azure-functions/table-of-contents)
 - [Azure Functions Fundamentals](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
@@ -47,3 +49,6 @@
 
 ## Chrome
 - [Debugging Your Website with Fiddler and Chrome DevTools](https://app.pluralsight.com/library/courses/fiddler-chrome-developer-tools-debugging-website/table-of-contents)
+
+## IIS
+- [Using IIS as a Developer](https://app.pluralsight.com/library/courses/using-iis-developer/table-of-contents)
