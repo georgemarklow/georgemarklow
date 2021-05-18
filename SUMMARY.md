@@ -68,7 +68,6 @@ https://www.inspiringthefuture.org/
 
 ### C#
 - [Packing and Unpacking with C# Tuples](https://marklowg.medium.com/packing-and-unpacking-with-c-tuples-e2d07b44d993)
-- [A Discussion on Tolerance Checking in C# with IEqualityComparer<T>](https://marklowg.medium.com/a-discussion-on-tolerance-checking-in-c-with-iequalitycomparer-t-3f65ada415b3)
 
 ### Git
 
