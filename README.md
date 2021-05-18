@@ -7,3 +7,4 @@
 - :memo: Digital Handbook: I maintain a [Personal Handbook](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#books) where I store important notes, links and other interesting stuff. 
 - 🌱 My skills are C#, Javascript, Typescript, Angular, NgRx and RxJs
 - 💬 Ask me about **Software Engineering**, **Becoming an Author** and **Public Speaking**! 
+- 🧘🏻‍♂️ My interests include watching documentaries (esp. Vietnam war), writing blogs and music from whatever decade I'm in the mood for. 
