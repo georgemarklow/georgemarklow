@@ -76,7 +76,10 @@ https://www.inspiringthefuture.org/
 ### RxJS
 - [RxJS Fundamentals— Part 1](https://marklowg.medium.com/rxjs-fundamentals-part-1-43364c5ebd49)
 
-### Javascript
+## TypeScript
+- [Enums in TypeScript](https://marklowg.medium.com/enums-in-typescript-16c58ea9e76)
+
+### JavaScript
 - [Arrow functions, and Array map and reduce Operations: An Introduction to Vector Algebra with JavaScript — Part 1](https://marklowg.medium.com/arrow-functions-and-array-map-and-reduce-operations-an-introduction-to-vector-algebra-with-31982baabf0)
 - [A Beginners Guide to Creating a TypeScript library and a Github Repository](https://marklowg.medium.com/a-beginners-guide-to-creating-a-typescript-library-and-a-github-repository-26ae3f1540ad)
 - [Part 1: Strings](https://marklowg.medium.com/javascript-drills-part-1-strings-2acdfe9727e0)
