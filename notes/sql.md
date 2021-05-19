@@ -1,11 +1,16 @@
 # SQL
+<br/>
+
+## SQL Cheat Sheet
+- [SQL-cheat-sheet.pdf](https://github.com/georgemarklow/georgemarklow/files/6511671/SQL-cheat-sheet.pdf)
+<br/>
 
 ## Querying data from a table
 - [SQL Tutorial](https://www.sqltutorial.org/)
 - [SQL Sample Database](https://www.sqltutorial.org/sql-sample-database/)
 - [LIKE](https://www.sqltutorial.org/seeit/query/sql-like/#1)
 
-#### Add precondition e.g. IF EXISTS ...
+
 
 <img width="776" alt="Screenshot 2021-05-05 at 10 53 06 pm" src="https://user-images.githubusercontent.com/11710404/117214454-c1347c80-adf4-11eb-9f4a-472fed3fec32.png">
 
