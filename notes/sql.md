@@ -2,7 +2,10 @@
 <br/>
 
 ## SQL Cheat Sheet
+
+
 - [SQL-cheat-sheet.pdf](https://github.com/georgemarklow/georgemarklow/files/6511671/SQL-cheat-sheet.pdf)
+- [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 <br/>
 
 ## Querying data from a table
