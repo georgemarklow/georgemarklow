@@ -76,7 +76,7 @@ https://www.inspiringthefuture.org/
 ### RxJS
 - [RxJS Fundamentals— Part 1](https://marklowg.medium.com/rxjs-fundamentals-part-1-43364c5ebd49)
 
-## TypeScript
+### TypeScript
 - [Enums in TypeScript](https://marklowg.medium.com/enums-in-typescript-16c58ea9e76)
 
 ### JavaScript
