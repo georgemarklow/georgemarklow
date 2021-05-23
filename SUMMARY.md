@@ -95,6 +95,7 @@ https://www.inspiringthefuture.org/
 
 ### General
 - [Blogging Towards a ‘Personal Infrastructure’](https://marklowg.medium.com/blogging-towards-a-personal-infrastructure-e8779f023ba4)
+- [Planning LinkedIn Posts with Trello and SimpleMind: Collect Ideas, Plan Content, and Create a Social Media Presence through Microblogging](https://marklowg.medium.com/planning-linkedin-posts-with-trello-and-simplemind-7e2283bcae4c)
 - [The Power of ‘Please’: Five Examples that Teach Writing Polite, Simplified and Concise Requests](https://marklowg.medium.com/the-power-of-please-8b616b4b6e6d)
 - [Designing a Metric for Software Delivery or Incident Management](https://marklowg.medium.com/designing-a-metric-for-software-delivery-or-incident-management-bf6a043b013f)
 - [Multiple-Choice Tests in Minutes — the Smart Way to Build Mental Muscle.](https://marklowg.medium.com/multiple-choice-tests-in-minutes-the-smart-way-to-build-mental-muscle-ead2044c0391)
