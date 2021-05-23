@@ -708,6 +708,72 @@ const n1 = [1,2,3];
 const result = console.log(n1.filter(x => x > 1))   // [ 2, 3 ]
 ```
 
+```javascript
+const n1 = [1, 2, 3];
+console.log(n1.find(x => x === 1))   // 1
+console.log(n1.find(x => x > 1))     // 2 (1st instance)
+```
+
+```javascript
+const n1 = [4,5,6]
+const condition = (x) => x > 4
+console.log(n1.findIndex(condition))    // 1 (position 2 first number bigger than 4)
+```
+
+```javascript
+const n1 = [0, 1, 2, [[[3, 4]]]]  
+console.log(n1.flat())             // [ 0, 1, 2, [ [ 3, 4 ] ] ]
+console.log(n1.flat(2))            // [ 0, 1, 2, [ 3, 4 ] ]
+console.log(n1.flat(3))            // [ 0, 1, 2, 3, 4 ]
+```
+
+```javascript
+const n1 = [1,2,3];
+n1.forEach(x => console.log(x))    // 1
+                                   // 2
+                                   // 3
+```
+
+```javascript
+console.log(Array.from('abc'))                      // [ 'a', 'b', 'c' ]
+console.log(Array.from([1, 2, 3], x => x ** 2))     // [ 1, 4, 9 ]
+```
+
+```javascript
+const n1 = [1, 2, 3]
+console.log(n1.includes(2))   // true
+console.log(n1.includes(4))   // false
+```
+
+```javascript
+const n1 = [10, 20, 30]
+
+console.log(n1.indexOf(10))       // 0
+console.log(n1.indexOf(40))       // -1
+console.log(n1.indexOf(20, 1))    // 1
+console.log(n1.indexOf(20, 2))    // -1
+```
+
+
+```javascript
+Array.isArray([1, 2])       // true
+Array.isArray({x: 1})       // false
+Array.isArray('test')       // false
+Array.isArray(undefined)    // false
+```
+
+```javascript
+const n1 = [1, 2, 3]        
+console.log(n1.join())      // 1,2,3
+console.log(n1.join(''))    // 123
+console.log(n1.join('-'))   // 1-2-3
+```
+
+```javascript
+
+```
+
+
 ## Some Useful Resources
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [How To Work With TypeScript in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-work-with-typescript-in-visual-studio-code)
