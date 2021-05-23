@@ -770,6 +770,63 @@ console.log(n1.join('-'))   // 1-2-3
 ```
 
 ```javascript
+const n1 = ['a','b','c']
+const iterator = n1.keys()
+
+for (const key of iterator) {       // 0 a
+  console.log(key, n1[key])         // 1 b
+}                                   // 2 c
+```
+
+```javascript
+const n1 = ['a','b','a','c']
+console.log(n1.lastIndexOf('a'))    // 2
+console.log(n1.lastIndexOf('b'))    // 1
+```
+
+```javascript
+const n1 = [1,2,3]
+console.log(n1.map(x => x ** 2))    // 1 4 9
+```
+
+```javascript
+Array.of(1);         // [1]
+Array.of(1, 2, 3);   // [1, 2, 3]
+Array.of(undefined); // [undefined]
+```
+
+```javascript
+const n1 = ['a','b','c'];
+console.log(n1.pop())  // c
+console.log(n1)        // [a,b]
+```
+
+```javascript
+const n1 = [1, 2, 3]
+const r = (x, y) => x + y
+console.log(n1.reduce(r))       // 6
+console.log(n1.reduce(r, 5))    // 1
+```
+
+```javascript
+const n1 = [[0, 1], [2, 3]].reduceRight(
+  (x, y) => x.concat(y)
+)
+
+console.log(n1)   // [2, 3, 0, 1] 
+```
+
+```javascript
+console.log([1, 2, 3].reverse())   // [3,2,1]
+```
+
+```javascript
+const n1 = [1, 2, 3];
+console.log(n1.shift())   // 1
+console.log(n1)           // [2, 3]
+```
+
+```javascript
 
 ```
 
