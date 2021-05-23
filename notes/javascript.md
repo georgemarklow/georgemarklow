@@ -668,6 +668,14 @@ f([x,y]);                    // 1:2 3:4
 
 <br/>
 
+## Arrays
+
+```javascript
+
+
+
+```
+
 ## Some Useful Resources
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [How To Work With TypeScript in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-work-with-typescript-in-visual-studio-code)
