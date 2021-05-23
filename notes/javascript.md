@@ -850,6 +850,28 @@ n1.splice(100, 1, 'e')
 console.log(n1)            // ["a", "b", "c", "d", "e"] 
 ```
 
+```javascript
+console.log([1, 2, 'a', 'b'].toString())   // "1,2,a,b" 
+```
+
+```javascript
+const n1 = [1, 2, 3]
+console.log(n1.unshift(4, 5))
+console.log(n1)                 // [4, 5, 1, 2, 3] 
+```
+
+```javascript
+const n1 = ['a', 'b', 'c'];
+
+for (const value of n1.values()) {
+  console.log(value)                 // a b c
+}
+
+for (const value of n1.keys()) {
+  console.log(value)                // 1 2 3
+}
+```
+
 
 ## Some Useful Resources
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
