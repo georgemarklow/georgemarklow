@@ -68,6 +68,8 @@ npm install -g @angular/cli@{latest or wanted version}
 
 [Add how to test different things]
 
+<br/>
+
 ## Best Practices
 
 ## Useful links
