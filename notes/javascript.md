@@ -827,7 +827,27 @@ console.log(n1)           // [2, 3]
 ```
 
 ```javascript
+const animals = ['a', 'b', 'c', 'd', 'e'];
+console.log(animals.slice(2))                // ["c", "d", "e"] 
+console.log(animals.slice(2, 4))             // ["c", "d"] 
+console.log(animals.slice(1, 10))            // ["b", "c", "d", "e"] 
+```
 
+```javascript
+const even = x => x % 2 === 0;
+console.log([1, 2, 3, 4, 5].some(even))      // true
+```
+
+```javascript
+console.log([3, 2, 1].sort())     // [1, 2, 3]
+```
+
+```javascript
+const n1 = ['a', 'c', 'd']
+n1.splice(1, 0, 'b')
+console.log(n1)            // ["a", "b", "c", "d"]
+n1.splice(100, 1, 'e')
+console.log(n1)            // ["a", "b", "c", "d", "e"] 
 ```
 
 
