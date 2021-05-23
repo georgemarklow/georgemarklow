@@ -671,9 +671,41 @@ f([x,y]);                    // 1:2 3:4
 ## Arrays
 
 ```javascript
+const n1 = [1,2]
+const n2 = [3,4]
+console.log(n1.concat(n2))   // [ 1, 2, 3, 4 ]
+```
 
+```javascript
+const n1 = [1,2,3,4,5];
+console.log(n1.copyWithin(0, 3, 4)); // [ 4, 2, 3, 4, 5 ]
+console.log(n1.copyWithin(1, 3));    // [ 4, 4, 5, 4, 5 ]
 
+```
 
+```javascript
+const n1 = [10,20];
+const i1 = n1.entries();
+console.log(i1.next().value);   // [ 0, 10 ]
+console.log(i1.next().value);   // [ 1, 20 ]
+```
+
+```javascript
+const above = (value) => value < 3;
+const n1 = [1, 2];
+console.log(n1.every(above));   // true
+```
+
+```javascript
+const n1 = [1, 2, 3, 4];        
+console.log(n1.fill(0, 2, 4));   // [ 1, 2, 0, 0 ]
+console.log(n1.fill(5, 1));      // [ 1, 5, 5, 5 ]
+console.log(n1.fill(6));         // [ 6, 6, 6, 6 ]
+```
+
+```javascript
+const n1 = [1,2,3];
+const result = console.log(n1.filter(x => x > 1))   // [ 2, 3 ]
 ```
 
 ## Some Useful Resources
