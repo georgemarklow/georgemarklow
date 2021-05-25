@@ -156,6 +156,61 @@ public class RocketFuelTests
 }
 ```
 
+### Timeout
+
+```csharp
+[Test, Timeout(2000)]
+public void FireRocketToProximaCentauri() 
+{
+    //...
+}
+```
+
+### Repeat Attribute
+
+```csharp
+[Test]
+[Repeat(10)]
+public void RocketFuelMeassuredCorrectly_When_Flying()
+{
+    //...
+}
+```
+
+
+### Repeat Attribute
+
+```csharp
+[Test]
+[Retry(3)]
+public void CalculateJupiterBaseLandingPoint([Values(1,2,3)] int x, [Range(0.2,0.6)] double y)
+{
+    //...
+}
+```
+
+### Range Attribute
+
+```csharp
+[Test]
+public void CalculateJupiterBaseLandingPoint([Values(1,2,3)] int x, [Range(0.2,0.6)] double y)
+{
+    //...
+}
+```
+
+### Execute Tests in Parallel
+
+```csharp
+[TestFixture]
+[Parallelizable(ParallelScope.Fixtures)]
+public class TestFalcon9EngineLevels
+{
+    //...
+}
+```
+
+
 ## Best Practices
 
 ## Useful links
