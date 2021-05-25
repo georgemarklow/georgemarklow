@@ -11,6 +11,7 @@ Install-Package NUnit
 Install-Package NUnit.TestAdapter 
 Install-Package Microsoft.NET.Test.Sdk
 ```
+<br/>
 
 ### Test Execution Workflow
 
@@ -53,6 +54,9 @@ using NUnit.Framework; namespace NUnitUnitTests {
     }
 }
 ```
+<br/>
+
+
 ```csharp
  // A SetUpFixture outside of any namespace provides SetUp and TearDown for the entire assembly.
 [SetUpFixture]
@@ -71,6 +75,7 @@ using NUnit.Framework; namespace NUnitUnitTests {
      } 
 }
 ```
+<br/>
 
 ### Assertions – Constraint Model
 
@@ -133,6 +138,7 @@ CollectionAssert.IsNotSubsetOf(_expectedRockets, _actualRockets); // Tests wheth
 
 Assert.Throws<ArgumentNullException>(() => new Regex(null)); // Tests whether the code specified by delegate throws exact given exception of type T
 ```
+<br/>
 
 ### Author Attribute
 
@@ -155,6 +161,7 @@ public class RocketFuelTests
      }
 }
 ```
+<br/>
 
 ### Timeout
 
@@ -165,6 +172,7 @@ public void FireRocketToProximaCentauri()
     //...
 }
 ```
+<br/>
 
 ### Repeat Attribute
 
@@ -176,7 +184,7 @@ public void RocketFuelMeassuredCorrectly_When_Flying()
     //...
 }
 ```
-
+<br/>
 
 ### Repeat Attribute
 
@@ -188,6 +196,7 @@ public void CalculateJupiterBaseLandingPoint([Values(1,2,3)] int x, [Range(0.2,0
     //...
 }
 ```
+<br/>
 
 ### Range Attribute
 
@@ -198,6 +207,7 @@ public void CalculateJupiterBaseLandingPoint([Values(1,2,3)] int x, [Range(0.2,0
     //...
 }
 ```
+<br/>
 
 ### Execute Tests in Parallel
 
@@ -209,7 +219,7 @@ public class TestFalcon9EngineLevels
     //...
 }
 ```
-
+<br/>
 
 ## Best Practices
 
