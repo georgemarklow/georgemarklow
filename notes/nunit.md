@@ -134,6 +134,28 @@ CollectionAssert.IsNotSubsetOf(_expectedRockets, _actualRockets); // Tests wheth
 Assert.Throws<ArgumentNullException>(() => new Regex(null)); // Tests whether the code specified by delegate throws exact given exception of type T
 ```
 
+### Author Attribute
+
+```csharp
+[TestFixture]
+[Author("Joro Doev", "joro.doev@bellatrix.solutions")]
+public class RocketFuelTests 
+{
+     [Test]
+     public void RocketFuelMeassuredCorrectly_When_Landing()
+     {
+         //...
+     }
+     
+     [Test]
+     [Author("Ivan Penchev")]
+     public void RocketFuelMeassuredCorrectly_When_Flying() 
+     {
+         //...
+     }
+}
+```
+
 ## Best Practices
 
 ## Useful links
