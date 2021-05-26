@@ -94,6 +94,7 @@ https://www.inspiringthefuture.org/
 - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
 
 ### General
+- [The Top 10 Checks You Should Do Before Raising a Pull Request](https://marklowg.medium.com/the-top-10-checks-you-should-do-before-raising-a-pull-request-6dea166515ac)
 - [Blogging Towards a ‘Personal Infrastructure’](https://marklowg.medium.com/blogging-towards-a-personal-infrastructure-e8779f023ba4)
 - [Planning LinkedIn Posts with Trello and SimpleMind: Collect Ideas, Plan Content, and Create a Social Media Presence through Microblogging](https://marklowg.medium.com/planning-linkedin-posts-with-trello-and-simplemind-7e2283bcae4c)
 - [The Power of ‘Please’: Five Examples that Teach Writing Polite, Simplified and Concise Requests](https://marklowg.medium.com/the-power-of-please-8b616b4b6e6d)
