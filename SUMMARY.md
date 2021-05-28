@@ -50,6 +50,7 @@ https://www.inspiringthefuture.org/
 - [Leading Agile Project Estimation with PlanITPoker](https://marklowg.medium.com/leading-agile-project-estimation-with-planitpoker-de87198ddcf1)
 
 ### Azure DevOps
+- [Creating Your First Sprint Retrospective with Azure DevOps](https://marklowg.medium.com/creating-your-first-sprint-retrospective-with-azure-devops-41362e4bac3b)
 - [Azure DevOps: Setting up Sprints with Boards](https://marklowg.medium.com/azure-devops-setting-up-sprints-with-boards-97572ea3c4a0)
 
 ### Team-Building
