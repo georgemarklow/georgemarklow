@@ -96,6 +96,7 @@ https://www.inspiringthefuture.org/
 
 ### General
 - [The Top 10 Checks You Should Do Before Raising a Pull Request](https://marklowg.medium.com/the-top-10-checks-you-should-do-before-raising-a-pull-request-6dea166515ac)
+- [Mining for Knowledge, Understanding, and Best Practices](https://marklowg.medium.com/mining-for-knowledge-understanding-and-best-practices-ff0fa27604df)
 - [A System to Organise My Priorities Through Sticky Notes](https://marklowg.medium.com/a-system-to-organise-my-priorities-through-sticky-notes-ad276257fd4c)
 - [Blogging Towards a ‘Personal Infrastructure’](https://marklowg.medium.com/blogging-towards-a-personal-infrastructure-e8779f023ba4)
 - [Planning LinkedIn Posts with Trello and SimpleMind: Collect Ideas, Plan Content, and Create a Social Media Presence through Microblogging](https://marklowg.medium.com/planning-linkedin-posts-with-trello-and-simplemind-7e2283bcae4c)
