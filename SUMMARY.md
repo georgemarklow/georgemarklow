@@ -137,6 +137,7 @@ https://www.inspiringthefuture.org/
 - [Gherkin Syntax](notes/gherkin.md)
 - [Git](notes/git.md)
 - [HTML](notes/html.md)
+- [Jasmine](notes/jasmine.md)
 - [Javascript](notes/javascript.md)
 - [LINQ](notes/linq.md)
 - [Moq](notes/moq.md)
