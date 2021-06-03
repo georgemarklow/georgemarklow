@@ -4,6 +4,8 @@
 
 Source: https://devhints.io/jasmine
 
+<br/>
+
 ### Writing tests
 
 ```javascript
@@ -13,6 +15,8 @@ describe('A suite', () => {
   })
 })
 ```
+
+<br/>
 
 ### Hooks
 
@@ -24,6 +28,8 @@ afterEach(() => {
   ···
 })
 ```
+
+<br/>
 
 ### Expectations
 
@@ -59,6 +65,8 @@ expect(pi).toBeCloseTo(3.1415, 0.1)
 expect(func).toThrow()
 ```
 
+<br/>
+
 ### Spies 
 
 ```javascript
@@ -74,6 +82,8 @@ expect(foo.setBar.calls.length).toEqual(2)
 expect(foo.setBar.calls[0].args[0]).toEqual(123)
 ```
 
+<br/>
+
 ### Spies 
 ```javascript
 test('works with promises', () => {
@@ -83,6 +93,8 @@ test('works with promises', () => {
 })
 ```
 ###
+
+<br/>
 
 ### Pending 
 
@@ -94,6 +106,8 @@ xdescribe('this is a pending block', () => {
   ···
 })
 ```
+
+<br/>
 
 ### Creating spies 
 
