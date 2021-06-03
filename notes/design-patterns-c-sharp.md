@@ -143,3 +143,59 @@
         }
     }
 ```
+
+<br/>
+
+## Adapter
+
+### Benefits:
+
+### Drawback:
+
+<br/>
+
+```javascript
+
+```
+
+<br/>
+
+## Builder
+
+### Benefits:
+
+### Drawback:
+
+<br/>
+
+```javascript
+
+```
+
+<br/>
+
+## Factory
+
+### Benefits:
+
+### Drawback:
+
+<br/>
+
+```javascript
+
+```
+
+<br/>
+
+## Adapter
+
+### Benefits:
+
+### Drawback:
+
+<br/>
+
+```javascript
+
+```
