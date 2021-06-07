@@ -95,6 +95,9 @@ https://www.inspiringthefuture.org/
 ### ElasticStack
 - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
 
+### Painting
+- [So… I Tried Abstract Art](https://marklowg.medium.com/so-i-tried-abstract-art-273a2c13843d)
+
 ### General
 - [The Top 10 Checks You Should Do Before Raising a Pull Request](https://marklowg.medium.com/the-top-10-checks-you-should-do-before-raising-a-pull-request-6dea166515ac)
 - [Mining for Knowledge, Understanding, and Best Practices](https://marklowg.medium.com/mining-for-knowledge-understanding-and-best-practices-ff0fa27604df)
