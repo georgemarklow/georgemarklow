@@ -95,6 +95,9 @@ https://www.inspiringthefuture.org/
 ### ElasticStack
 - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
 
+### SQL
+- [Creating SQL Server Re-Runnable Scripts](https://marklowg.medium.com/creating-sql-server-re-runnable-scripts-b73da6bdf8f9)
+
 ### Painting
 - [So… I Tried Abstract Art](https://marklowg.medium.com/so-i-tried-abstract-art-273a2c13843d)
 
