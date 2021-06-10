@@ -22,6 +22,7 @@ Things that are important to me:
 | Title      | |
 | ----------- | ----------- |
 | [Best Practices for Software Engineers, A Soft-Skills Guide for Junior Developers, ISBN: 979-8698789635](https://www.amazon.co.uk/Best-Practices-Software-Engineers-Soft-Skills-ebook/dp/B08L17JZCH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1606414420&sr=1-1-69f2aa40-4718-4485-ba0d-6c4119696677)  | <img src="https://m.media-amazon.com/images/I/31OLdbnU-uL.jpg" width="100">        |
+| [Drills in JavaScript: Exercises to Quickly Get Back Up To Speed with JavaScript](https://www.amazon.co.uk/Drills-JavaScript-Exercises-Quickly-Speed-ebook/dp/B096WBLJ23/ref=sr_1_1?dchild=1&keywords=drill+in+javascript&qid=1623352070&sr=8-1) | <img alt="Screenshot 2021-06-10 at 8 08 58 pm" src="https://user-images.githubusercontent.com/11710404/121583063-b4283000-ca27-11eb-98c4-5ed2e1d88f01.png" width="100">
 
 <br/>
 
