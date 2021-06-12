@@ -151,6 +151,7 @@ https://www.inspiringthefuture.org/
 - [Moq](notes/moq.md)
 - [NgRx](notes/ngrx.md)
 - [NUnit](notes/nunit.md)
+- [Painting](notes/painting.md)
 - [Postman](notes/postman.md)
 - [Protractor](notes/protractor.md)
 - [RxJs](notes/rxjs.md)
