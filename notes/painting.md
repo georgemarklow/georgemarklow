@@ -11,9 +11,10 @@
 
 ## Technique
 - [Palette Knife Painting](https://www.youtube.com/watch?v=j7xZRxqE1MY)
+- [Palette Knife painting techniques](https://www.youtube.com/watch?v=g1sbl3KiSL0&t=629s)
 
 ## Examples to Follow
-- []()
+- [Abstract Painting](https://www.youtube.com/watch?v=6NZ-BKCSlQQ)
 
 ## Realism
 
