@@ -15,6 +15,7 @@
 
 ## Examples to Follow
 - [Abstract Painting](https://www.youtube.com/watch?v=6NZ-BKCSlQQ)
+- [Colorful Abstract Painting](https://www.youtube.com/watch?v=BBe_rSeWlb0)
 
 ## Realism
 
