@@ -1,5 +1,8 @@
 # Painting
 
+## Beginner Tips
+- [5 Beginner Gouache Mistakes](https://www.youtube.com/watch?v=Kb0kDjlk7ZA)
+
 ## Preparation
 - [Why is priming important ,Acrylic painting for beginners](https://www.youtube.com/watch?v=ASceo_Ce1pg)
 - [How to prep a canvas for acrylic painting](https://www.youtube.com/watch?v=j3uhQELnzR8)
