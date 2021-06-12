@@ -9,6 +9,12 @@
 - [Simple Trick to Improve Your Canvas for Painting](https://www.youtube.com/watch?v=_9lrRyr_zW8)
 - [What is Gesso? How to use Gesso on Acrylic Painting!](https://www.youtube.com/watch?v=eHe7MC732eU)
 
+## Technique
+- [Palette Knife Painting](https://www.youtube.com/watch?v=j7xZRxqE1MY)
+
+## Examples to Follow
+- []()
+
 ## Realism
 
 - [Painting a Realistic Sunset in Acrylics]()https://www.youtube.com/watch?v=FVt9GEPCIII
