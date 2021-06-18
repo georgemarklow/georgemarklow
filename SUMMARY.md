@@ -100,9 +100,8 @@ https://www.inspiringthefuture.org/
 - [Creating SQL Server Re-Runnable Scripts](https://marklowg.medium.com/creating-sql-server-re-runnable-scripts-b73da6bdf8f9)
 
 ### Painting
-- [So… I Tried Abstract Art](https://marklowg.medium.com/so-i-tried-abstract-art-273a2c13843d)
-- [How to Create a Rainbow Canvas in Acrylics with Masking Tape](https://marklowg.medium.com/how-to-create-a-rainbow-canvas-in-acrylics-with-masking-tape-711d6e188c7a)
 - [Abstract Corals in Acrylics: How to Build Texture with Bubble Wrap](https://marklowg.medium.com/abstract-corals-in-acrylics-how-to-build-texture-with-bubble-wrap-84afe46eeb25)
+- [How to Create a Rainbow Canvas in Acrylics with Masking Tape](https://marklowg.medium.com/how-to-create-a-rainbow-canvas-in-acrylics-with-masking-tape-711d6e188c7a)
 
 ### General
 - [The Top 10 Checks You Should Do Before Raising a Pull Request](https://marklowg.medium.com/the-top-10-checks-you-should-do-before-raising-a-pull-request-6dea166515ac)
