@@ -1,5 +1,7 @@
 # Paintings
 
+<img src="https://user-images.githubusercontent.com/11710404/123428397-afce4c00-d5bd-11eb-8e81-3c958af90f32.jpeg" width="600" />
+
 <img src="https://user-images.githubusercontent.com/11710404/122643448-d0069280-d107-11eb-96b9-d5bf15642936.jpg" width="600" />
 
 <img src="https://user-images.githubusercontent.com/11710404/123171318-8ef9df80-d473-11eb-904f-51145fc2d783.png" width="600" />
