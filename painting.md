@@ -1,4 +1,4 @@
-# Paintings
+# My Paintings
 
 <img src="https://user-images.githubusercontent.com/11710404/123428397-afce4c00-d5bd-11eb-8e81-3c958af90f32.jpeg" width="600" />
 
