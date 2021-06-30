@@ -1,5 +1,9 @@
 # My Paintings
 
+<img src="https://user-images.githubusercontent.com/11710404/124015385-827a0780-d9dc-11eb-9eb4-d8fe16d69321.png" width="1000" />
+
+<br/>
+
 ## High-Voltage Roses
 
 <img src="https://user-images.githubusercontent.com/11710404/123428397-afce4c00-d5bd-11eb-8e81-3c958af90f32.jpeg" width="600" />
