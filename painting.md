@@ -14,7 +14,7 @@
 
 ## Anna Wintour 
 
-<img src="https://user-images.githubusercontent.com/11710404/124000000-07f4bc00-d9cb-11eb-871a-3a9513f3729b.jpg" width="600" />
+<img src="https://user-images.githubusercontent.com/11710404/124005613-32e20e80-d9d1-11eb-9eb6-0640048abfc7.jpg" width="600" />
 
 <br/>
 
