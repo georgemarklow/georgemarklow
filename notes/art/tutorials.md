@@ -33,6 +33,7 @@
 - [Colorful Abstract Painting / Satisfying / Acrylics / Palette Knife / Demo #095](https://www.youtube.com/watch?v=BBe_rSeWlb0)
 - [Abstract Painting / Simple Techniques for Beginners / Palette Knife and Brushes / Satisfying / 371](https://www.youtube.com/watch?v=uVFmJnnc7_g)
 - [Simple And Effective | Abstract Painting With Warm And Cold Colors | Prorogo](https://www.youtube.com/watch?v=LBi75yTm-GM)
+- [What Makes a Good Abstract Painting?](https://www.youtube.com/watch?v=mQhMxbBje6Y&t=410s)
 
 <br/>
 
