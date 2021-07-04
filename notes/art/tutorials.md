@@ -51,12 +51,6 @@
 
 <br/>
 
-## Oil Painting
-
-- [Oil Painting Basics Tutorial For Beginners | Realistic Apple](Easy Acrylic Landscape Painting Demo / Step By Step For Beginners / 365 Days Challenge(Day#195))
-
-<br/>
-
 ## Gesso
 
 - [How To Gesso a Wood Panel For a Painting or Acrylic Pour](https://www.youtube.com/watch?v=pUnEUxC6nq4)
