@@ -12,7 +12,15 @@
 - [50cm x 50cm](https://www.amazon.co.uk/Eono-Amazon-Stretched-Canvas-Cotton/dp/B07X5WC12H/ref=psdc_3063485031_t3_B0835282KM?th=1)
 - [60cm x 60cm](https://www.amazon.co.uk/Eono-Amazon-Stretched-Canvas-Cotton/dp/B07X54P8XV/ref=psdc_3063485031_t3_B0835282KM?th=1)
 
+#### Rectangular Large
+- [50cm x 70cm](https://www.amazon.co.uk/Eono-Amazon-Stretched-Canvas-Cotton/dp/B07X1XG3KP/ref=psdc_3063485031_t3_B0835282KM?th=1)
+- [50cm x 60cm](https://www.amazon.co.uk/Eono-Amazon-Stretched-Canvas-Cotton/dp/B07X41KYTQ/ref=psdc_3063485031_t3_B0835282KM?th=1)
+
 #### Wide
+- [58cm x 75cm](https://www.amazon.co.uk/Eono-Amazon-Stretched-Canvas-Cotton/dp/B07X2X8VVG/ref=psdc_3063485031_t3_B0835282KM?th=1)
+- [26cm x 76cm](https://www.amazon.co.uk/Eono-Amazon-Stretched-Canvas-Cotton/dp/B07WZSNCRQ/ref=psdc_3063485031_t3_B0835282KM?th=1)
+
+<br/>
 
 ### Wooden Block
 - [20cm x 20cm](https://www.amazon.co.uk/JeogYong-Unfinished-Painting-Creative-Homemade/dp/B08G4D1BV8/ref=sr_1_4?dchild=1&keywords=mdf+board+50xm&qid=1625401728&s=kitchen&sr=1-4)
