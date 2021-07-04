@@ -28,6 +28,8 @@
 - [Abstract Painting / Intuitive Art - 60x60 canvas](https://www.youtube.com/watch?v=957FBCj8nbE)
 - [Basic Designs in Abstract Art](https://www.youtube.com/watch?v=bJ9T0RF7EI4)
 - [Colorful Abstract Painting / Satisfying / Acrylics / Palette Knife / Demo #095](https://www.youtube.com/watch?v=BBe_rSeWlb0)
+- [Abstract Painting / Simple Techniques for Beginners / Palette Knife and Brushes / Satisfying / 371](https://www.youtube.com/watch?v=uVFmJnnc7_g)
+- [Simple And Effective | Abstract Painting With Warm And Cold Colors | Prorogo](https://www.youtube.com/watch?v=LBi75yTm-GM)
 
 <br/>
 
@@ -41,6 +43,8 @@
 ## Coloured Pencil Techniques
 
 - [7 Ways of Blending Colored Pencils for Beginners](https://www.youtube.com/watch?v=LeYitWpA6ZU)
+- [DO'S & DON'TS: How to Draw with Colored Pencils](https://www.youtube.com/watch?v=pZrcj6kq0TE)
+- [HOW TO USE COLORED PENCIL - Guide for Beginners](https://www.youtube.com/watch?v=hhpQJkquioU&t=923s)
 
 <br/>
 
@@ -48,6 +52,7 @@
 - [COLOR THEORY / ARTIST BETTY KRAUSE](https://www.youtube.com/watch?v=G_IBKN55gxQ&t=1411s)
 - [MIXING AND COMPARING COLORS / ARTIST BETTY KRAUSE](https://www.youtube.com/watch?v=2FzZKyERb0k&t=278s)
 - [How to mix color, Value, Harmony, paint with a limited palette primary colors](https://www.youtube.com/watch?v=9sAr9B7nKRs)
+- [How to use colored pencils! Layering, blending, & more!](https://www.youtube.com/watch?v=FBZa4RdBe08)
 
 <br/>
 
