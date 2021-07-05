@@ -1,5 +1,11 @@
 # Art Tutorials and Documentaries
 
+## Creating an Art Studio
+
+- [MUST SEE - How to make the BEST ART STUDIO +30 tips!](https://www.youtube.com/watch?v=8RsTPb6hBHg)
+
+<br/>
+
 ## Acrylic Techniques
 
 - [Oliver Maass - Abstract Art](https://www.youtube.com/user/maasstube/videos)
