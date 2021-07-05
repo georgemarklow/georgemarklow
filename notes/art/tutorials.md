@@ -75,6 +75,7 @@
 
 ## Using Wood for Acrylic Painting
 
+- [Clayboard Prep](https://www.youtube.com/watch?v=jH3O4qqz71M)
 - [How to Prep Wood for painting Acrylic painting](https://www.youtube.com/watch?v=pafqXw-1f5o)
 - [Acrylic Painting on Plywood by Emils Salmins](https://www.youtube.com/watch?v=g9eh_Z4n2tU)
 - [HOW TO APPLY GESSO ON CANVAS BOARD - ACRYLIC PAINTING (FOR BEGINNERS - STEP BY STEP)](https://www.youtube.com/watch?v=CnorCTIjW9Q)
