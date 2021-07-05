@@ -100,5 +100,6 @@
 - [History's Greatest Impressionists](https://www.youtube.com/watch?v=kzjRJzhnn8k)
 - [Jackson Pollock | Story of an artwork | Blue poles | Abstract Expressionism](https://www.youtube.com/watch?v=8wABApiO1Uw)
 - [Hans Hofmann’s Artistic Re-birth Came Later In Life – Open Studio with Jared Bowen](https://www.youtube.com/watch?v=GtWpEjUrkcc)
+- [DAVID HOCKNEY ~ The Art of Seeing](https://www.youtube.com/watch?v=Cdqch3-D94A)
 
 <br/>
