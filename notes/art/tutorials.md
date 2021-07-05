@@ -8,6 +8,7 @@
 
 ## Acrylic Techniques
 
+- [Creating layers Part 1- Abstract painting with Lori Mirabelli](https://www.youtube.com/watch?v=lVZn_tr0kOA)
 - [Oliver Maass - Abstract Art](https://www.youtube.com/user/maasstube/videos)
 - [How to Create an Abstract Painting: My Process (PART 1) / Art with Adele](https://www.youtube.com/watch?v=3-vJ1c8V0ZU)
 - [HUGE ACRYLIC SWIPE| SOFT COLORS | FLUID ART|](https://www.youtube.com/watch?v=cT-yoQNdV9g)
