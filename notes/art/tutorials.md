@@ -73,6 +73,7 @@
 ## Varnish
 
 - [The Secrets Out! Here Is The Best And Easiest Way To Varnish Your Acrylic Pours](https://www.youtube.com/watch?v=1XszEKQph10)
+- [How to Spray Varnish an Acrylic Painting](https://www.youtube.com/watch?v=rWokgGhdH10)
 
 <br/>
 
