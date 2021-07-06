@@ -3,7 +3,7 @@
 ## Paints
 
 - [Chalkola Acrylic Paint Set for Adults, Kids and Artists - 32 Acrylic Paint kit](https://www.amazon.co.uk/dp/B07YP8MQZM/ref=sspa_dk_detail_5?psc=1&pd_rd_i=B07YP8MQZM&pd_rd_w=czEaB&pf_rd_p=8d6f1b33-e9e1-48a7-9bf6-fb23b68a35eb&pd_rd_wg=rcJ9y&pf_rd_r=WMT2S9KG45HRHFMBFKYQ&pd_rd_r=de2939ab-2d2a-48c1-b44d-fa54aa67e297&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMFJFSU5WVzE5R1FIJmVuY3J5cHRlZElkPUEwNTE2Nzk4QTFVSk80VEdIMzBBJmVuY3J5cHRlZEFkSWQ9QTAzNjE4MTExM01JRTRZOUZBMjVXJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
-- OK Paints include [Cass Art Acrylic](https://www.cassart.co.uk/painting/acrylic-colour/acrylic-paint/cass-art-studio-acrylic.htm) Primary Red, Black, White, Brilliant Blue (turquoise, not the primary blue), Portrait Pink, Ultramarine and Violet (plus can just mix colours to get the right shade instead of another tube of a different colour of paint). Need better quality orange, yellow and green from elsewhere.
+- [Cass Art Acrylic](https://www.cassart.co.uk/painting/acrylic-colour/acrylic-paint/cass-art-studio-acrylic.htm) 
 
 <img width="500" alt="Screenshot 2021-07-06 at 12 55 52 pm" src="https://user-images.githubusercontent.com/11710404/124595930-89c86780-de59-11eb-9884-cd8a11daa1ee.png">
 
