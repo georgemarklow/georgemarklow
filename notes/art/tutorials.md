@@ -53,6 +53,11 @@
 
 <br/>
 
+## Mark-making
+
+- [Making marks in your backgrounds](https://www.youtube.com/watch?v=DSJ24sDvadY)
+
+<br/>
 
 ## Coloured Pencil Techniques
 
