@@ -66,6 +66,7 @@
 
 ## Gesso
 
+- [How I prime a Canvas with Gesso - with Abstract Artist - Lori Mirabelli](https://www.youtube.com/watch?v=QR4G7KVNRnY&list=RDCMUCQlQOd9uNTXpS_LeWwv_Zug&index=5)
 - [How To Gesso a Wood Panel For a Painting or Acrylic Pour](https://www.youtube.com/watch?v=pUnEUxC6nq4)
 - [How to Smooth a Canvas Surface with Gesso & Sandpaper](https://www.youtube.com/watch?v=recx2LvcBRE)
 
