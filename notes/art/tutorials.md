@@ -6,6 +6,28 @@
 
 <br/>
 
+
+## Colour Theory and Mixing Colours
+
+### Primary
+- Red
+- Yello
+- Blue
+
+### Secondary
+- Orange
+- Green
+- Violet
+
+<img width="543" alt="Screenshot 2021-07-07 at 8 32 51 am" src="https://user-images.githubusercontent.com/11710404/124718365-f09f5c80-defd-11eb-9391-9215c3d0228c.png">
+
+- [COLOR THEORY / ARTIST BETTY KRAUSE](https://www.youtube.com/watch?v=G_IBKN55gxQ&t=1411s)
+- [MIXING AND COMPARING COLORS / ARTIST BETTY KRAUSE](https://www.youtube.com/watch?v=2FzZKyERb0k&t=278s)
+- [How to mix color, Value, Harmony, paint with a limited palette primary colors](https://www.youtube.com/watch?v=9sAr9B7nKRs)
+- [How to use colored pencils! Layering, blending, & more!](https://www.youtube.com/watch?v=FBZa4RdBe08)
+
+<br/>
+
 ## Acrylic Techniques
 
 - [Creating layers Part 1- Abstract painting with Lori Mirabelli](https://www.youtube.com/watch?v=lVZn_tr0kOA)
@@ -64,14 +86,6 @@
 - [7 Ways of Blending Colored Pencils for Beginners](https://www.youtube.com/watch?v=LeYitWpA6ZU)
 - [DO'S & DON'TS: How to Draw with Colored Pencils](https://www.youtube.com/watch?v=pZrcj6kq0TE)
 - [HOW TO USE COLORED PENCIL - Guide for Beginners](https://www.youtube.com/watch?v=hhpQJkquioU&t=923s)
-
-<br/>
-
-## Colour Theory and Mixing Colours
-- [COLOR THEORY / ARTIST BETTY KRAUSE](https://www.youtube.com/watch?v=G_IBKN55gxQ&t=1411s)
-- [MIXING AND COMPARING COLORS / ARTIST BETTY KRAUSE](https://www.youtube.com/watch?v=2FzZKyERb0k&t=278s)
-- [How to mix color, Value, Harmony, paint with a limited palette primary colors](https://www.youtube.com/watch?v=9sAr9B7nKRs)
-- [How to use colored pencils! Layering, blending, & more!](https://www.youtube.com/watch?v=FBZa4RdBe08)
 
 <br/>
 
