@@ -28,6 +28,12 @@
 
 <br/>
 
+## Abstract Art Idea Generation
+
+- [Endless Ideas For Paintings / Art with Adele](https://www.youtube.com/watch?v=Z8NMB1mvHt4)
+
+<br/>
+
 ## Acrylic Techniques
 
 - [Creating layers Part 1- Abstract painting with Lori Mirabelli](https://www.youtube.com/watch?v=lVZn_tr0kOA)
