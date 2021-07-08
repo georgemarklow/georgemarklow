@@ -34,6 +34,12 @@
 
 <br/>
 
+## Framing With Space
+
+- [Frame Your Painting With...Space](https://www.youtube.com/watch?v=MJ7mss_Ahwk)
+
+<br/>
+
 ## Acrylic Techniques
 
 - [Creating layers Part 1- Abstract painting with Lori Mirabelli](https://www.youtube.com/watch?v=lVZn_tr0kOA)
