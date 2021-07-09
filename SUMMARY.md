@@ -102,6 +102,7 @@ https://www.inspiringthefuture.org/
 ### Painting
 - [Abstract Corals in Acrylics: How to Build Texture with Bubble Wrap](https://marklowg.medium.com/abstract-corals-in-acrylics-how-to-build-texture-with-bubble-wrap-84afe46eeb25)
 - [How to Create a Rainbow Canvas in Acrylics with Masking Tape](https://marklowg.medium.com/how-to-create-a-rainbow-canvas-in-acrylics-with-masking-tape-711d6e188c7a)
+- [A Surprisingly Simple Technique to Generate Ideas for Abstract Paintings](https://marklowg.medium.com/a-surprisingly-simple-technique-to-generate-ideas-for-abstract-paintings-1c8262038dc6)
 
 ### General
 - [The Top 10 Checks You Should Do Before Raising a Pull Request](https://marklowg.medium.com/the-top-10-checks-you-should-do-before-raising-a-pull-request-6dea166515ac)
