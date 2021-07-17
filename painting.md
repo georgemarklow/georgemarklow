@@ -1,7 +1,15 @@
 
-# My Paintings
+# My Artwork
 
 <img src="https://user-images.githubusercontent.com/11710404/124015385-827a0780-d9dc-11eb-9eb4-d8fe16d69321.png" width="1000" />
+
+<br/>
+
+## Carnations 
+
+### Collage from magazine cutting with acrylic background
+
+<img src="https://user-images.githubusercontent.com/11710404/126048632-64edea0e-9242-45a8-9ad4-10f5cc9d5c3d.JPG" width="600" />
 
 <br/>
 
