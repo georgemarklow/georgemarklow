@@ -5,6 +5,14 @@
 
 <br/>
 
+## Rose on the Edge 
+
+### Oil pastels
+
+<img src="https://user-images.githubusercontent.com/11710404/126078339-9b357d3e-8153-4df8-bff3-8e9c969c6fc7.jpeg" width="600" />
+
+<br/>
+
 ## Carnations 
 
 ### Collage from magazine cutting with acrylic background
