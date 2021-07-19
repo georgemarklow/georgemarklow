@@ -147,6 +147,12 @@
 
 <br/>
 
+## Texture Medium
+
+- [Making Your Own Texture Paste!](https://www.youtube.com/watch?v=r-QbvXhaFEQ)
+
+<br/>
+
 ## Art Documentaries
 
 - [Robert Motherwell | Abstract Expressionism | New York School | Documentary](https://www.youtube.com/watch?v=1nuAmmi13eg)
