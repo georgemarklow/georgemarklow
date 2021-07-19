@@ -143,6 +143,7 @@
 - [Incredibly Satisfying Under The Sea! - Acrylic Pouring Straight Pour!](https://www.youtube.com/watch?v=PU_1d-jrv_I)
 - [Fluid Art | Acrylic Pouring | Top Techniques For Beginners](https://www.youtube.com/watch?v=euKg1RUiTQ4)
 - [Acrylic Fluid painting Tutorial using blowdryer Galaxy colors dutch pour](https://www.youtube.com/watch?v=uylLaUcakJ0)
+- [BIG Canvas Dutch Pour technique 😍 Power Pour #2 - Acrylic Pouring, Fluid painting](https://www.youtube.com/watch?v=3ChjVfVlIBw)
 
 <br/>
 
