@@ -149,6 +149,7 @@
 
 ## Texture Medium
 
+- [Modelling Paste Tutorial](https://www.youtube.com/watch?v=iX4m-hcPG-8)
 - [Making Your Own Texture Paste!](https://www.youtube.com/watch?v=r-QbvXhaFEQ)
 - [2 Different Ways to Make Diy Texture Paste : Baby Powder & Baking Soda](https://www.youtube.com/watch?v=-iApuo35_W8)
 
