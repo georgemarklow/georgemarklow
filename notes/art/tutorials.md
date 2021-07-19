@@ -96,6 +96,7 @@
 - [Oil pastels paintings & techniques with Paul Rubens soft oil pastels!](https://www.youtube.com/watch?v=7qqtEfEQi4o)
 - [HOW TO PAINT WITH ACRYLIC PAINT and OIL PASTEL MIXED MEDIA ART Texture by RAEART](https://www.youtube.com/watch?v=atlr2cU1KEU)
 - [DIY- MELTED CRAYON CANVAS](https://www.youtube.com/watch?v=uGlO49ZFKwE)
+- [Melting Oil Pastels to Create Matte Artwork!](https://www.youtube.com/watch?v=UQdbNAjS0Qk)
 
 <br/>
 
