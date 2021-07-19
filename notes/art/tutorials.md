@@ -132,6 +132,12 @@
 
 <br/>
 
+## Marbling
+
+- [Paper Marbling Tutorial Fun and Easy!](https://www.youtube.com/watch?v=ekrgY6RdYww)
+
+<br/>
+
 ## Art Documentaries
 
 - [Robert Motherwell | Abstract Expressionism | New York School | Documentary](https://www.youtube.com/watch?v=1nuAmmi13eg)
