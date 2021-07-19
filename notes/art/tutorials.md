@@ -90,6 +90,7 @@
 ## Acrylic & Oil Pastels Techniques
 
 - [Melted crayons like you've NEVER SEEN THEM BEFORE](https://www.youtube.com/watch?v=f71TVqBFjQU)
+- [DIY: Melted Crayon Art 2.0 - Abstract Colour Burst](https://www.youtube.com/watch?v=2KfG9lB26NI)
 - [Draw & Melt Oil Pastel in just 15 minutes](https://www.youtube.com/watch?v=TlliBsMrfUg)
 - [Oil pastels paintings & techniques with Paul Rubens soft oil pastels!](https://www.youtube.com/watch?v=7qqtEfEQi4o)
 - [HOW TO PAINT WITH ACRYLIC PAINT and OIL PASTEL MIXED MEDIA ART Texture by RAEART](https://www.youtube.com/watch?v=atlr2cU1KEU)
