@@ -89,6 +89,7 @@
 
 ## Acrylic & Oil Pastels Techniques
 
+- [Abstract Expressionism Painting with Oil Pastels](https://www.youtube.com/watch?v=bCwLiL3xpFo)
 - [Melted crayons like you've NEVER SEEN THEM BEFORE](https://www.youtube.com/watch?v=f71TVqBFjQU)
 - [DIY: Melted Crayon Art 2.0 - Abstract Colour Burst](https://www.youtube.com/watch?v=2KfG9lB26NI)
 - [Draw & Melt Oil Pastel in just 15 minutes](https://www.youtube.com/watch?v=TlliBsMrfUg)
