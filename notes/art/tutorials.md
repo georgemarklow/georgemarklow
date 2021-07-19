@@ -89,6 +89,7 @@
 
 ## Acrylic & Oil Pastels Techniques
 
+- [Oil pastels paintings & techniques with Paul Rubens soft oil pastels!](https://www.youtube.com/watch?v=7qqtEfEQi4o)
 - [HOW TO PAINT WITH ACRYLIC PAINT and OIL PASTEL MIXED MEDIA ART Texture by RAEART](https://www.youtube.com/watch?v=atlr2cU1KEU)
 
 <br/>
