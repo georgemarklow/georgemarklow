@@ -10,6 +10,18 @@
 
 <br/>
 
+## Sennelier Oil Pastels
+
+- [SENNELIER EXTRA FINE OIL STICK](https://www.cassart.co.uk/painting/oil-colour/product-type-paint/sennelier-extra-fine-oil-stick.htm)
+
+<br/>
+
+## Sennelier Oil Sticks
+
+- [SENNELIER OIL PASTEL SET OF 48](https://www.cassart.co.uk/drawing/pastels-1/product-type-oil-pastels/sennelier-oil-pastel-set-of-48-assorted-colours.htm)
+
+<br/>
+
 ## Canvas
 
 ### Eono Stretched Canvas
