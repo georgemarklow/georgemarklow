@@ -7,6 +7,12 @@
 
 <img width="500" alt="Screenshot 2021-07-06 at 12 55 52 pm" src="https://user-images.githubusercontent.com/11710404/124595930-89c86780-de59-11eb-9884-cd8a11daa1ee.png">
 
+<br/>
+
+## Canvas Wall Holders
+
+- [How to Hang a Canvas Without Nails or Damaging the Walls](https://www.youtube.com/watch?v=KLw26DPq5Xo)
+- [Command Picture Hanging Kit](https://www.amazon.co.uk/dp/B01C6ZA3UI/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B01C6ZA3UI&pd_rd_w=KmzUh&pf_rd_p=c50600ed-72b4-4806-bcf1-10b088d040a3&pd_rd_wg=358hd&pf_rd_r=RQYE1VPZRXM11RKE2G0R&pd_rd_r=84ae5277-572f-4c5d-ab6d-3d579c39e329&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExREhRMjg2R1NFM0JLJmVuY3J5cHRlZElkPUEwMDMwNjExMUtUQVU5QlRCNk9ZMiZlbmNyeXB0ZWRBZElkPUEwNTcxNTU1MllPTUI2SlQ0NDJFWCZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
 <br/>
 
