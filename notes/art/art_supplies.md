@@ -10,15 +10,16 @@
 
 <br/>
 
-## Sennelier Oil Pastels
+## Oil Pastels
 
-- [SENNELIER EXTRA FINE OIL STICK](https://www.cassart.co.uk/painting/oil-colour/product-type-paint/sennelier-extra-fine-oil-stick.htm)
+- [Paul Rubens Oil Pastels Set, 48 Colours Soft Pastels Non-Toxic Pastels for Artists, Students & Kids, Ideal for Sketching, Decorative Painting, Making Pictures Like Oil Painting](https://www.amazon.co.uk/Paul-Rubens-Non-Toxic-Sketching-Decorative/dp/B08JGBTM2H/ref=sr_1_1_sspa?dchild=1&keywords=Mungyo+Gallery+Soft+Oil&qid=1627246558&s=kitchen&sr=1-1-spons&psc=1&smid=ARY0XR5XIWMP6&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFVVE84WFNWNTdETzAmZW5jcnlwdGVkSWQ9QTAzOTkxMzAxQU5TU0hMOU5HUzkwJmVuY3J5cHRlZEFkSWQ9QTA3NzY1MDEzUFM5MVkzTU5LUVJQJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+- [SENNELIER OIL PASTEL SET OF 48](https://www.cassart.co.uk/drawing/pastels-1/product-type-oil-pastels/sennelier-oil-pastel-set-of-48-assorted-colours.htm)
 
 <br/>
 
-## Sennelier Oil Sticks
+## Oil Sticks
 
-- [SENNELIER OIL PASTEL SET OF 48](https://www.cassart.co.uk/drawing/pastels-1/product-type-oil-pastels/sennelier-oil-pastel-set-of-48-assorted-colours.htm)
+- [SENNELIER EXTRA FINE OIL STICK](https://www.cassart.co.uk/painting/oil-colour/product-type-paint/sennelier-extra-fine-oil-stick.htm)
 
 <br/>
 
