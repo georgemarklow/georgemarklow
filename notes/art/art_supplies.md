@@ -19,9 +19,13 @@
 
 ## Oil Sticks
 
-- [SENNELIER EXTRA FINE OIL STICK](https://www.cassart.co.uk/painting/oil-colour/product-type-paint/sennelier-extra-fine-oil-stick.htm)
+- [SENNELIER EXTRA FINE OIL STICK](https://www.canvas-store.co.uk/collections/canvas-board/products/daler-simply-canvas-panel-a1)
 
 <br/>
+
+## Boards
+
+- [Daler-Rowney Simply Canvas Panel A1 Pack of 3](https://www.canvas-store.co.uk/collections/canvas-board/size_co_33-1-x-23-3-84-1cm-x-59-4cm)
 
 ## Canvas
 
