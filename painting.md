@@ -9,7 +9,7 @@
 
 ### Fluid Acrylics
 
-<img src="https://user-images.githubusercontent.com/11710404/127643996-26fb34ff-9e9b-41c6-8c75-050dba613a4b.jpg" width="600" />
+<img src="https://user-images.githubusercontent.com/11710404/127689681-f4fbfeda-c1f7-4345-9594-42f35efddaf6.jpg" width="600" />
 
 <br/>
 
