@@ -1,4 +1,3 @@
-
 # My Artwork
 
 <img src="https://user-images.githubusercontent.com/11710404/124015385-827a0780-d9dc-11eb-9eb4-d8fe16d69321.png" width="1000" />
@@ -9,7 +8,7 @@
 
 ### Oil Pastels
 
-<img src="https://user-images.githubusercontent.com/11710404/129352903-1fb390c4-cb6c-4c72-bf8b-90a82de3030e.jpg" width="600" />
+<img src="https://user-images.githubusercontent.com/11710404/129353417-fe632955-7ff8-47c9-8a61-f2ae3d32359d.png" width="600" />
 
 <br/>
 
