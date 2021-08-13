@@ -8,7 +8,7 @@
 
 ### Oil Pastels
 
-<img src="https://user-images.githubusercontent.com/11710404/129353417-fe632955-7ff8-47c9-8a61-f2ae3d32359d.png" width="600" />
+<img src="https://user-images.githubusercontent.com/11710404/129354762-c00639a5-e7b0-4d0a-8fad-30dba8d23d22.jpeg" width="600" />
 
 <br/>
 
