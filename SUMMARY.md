@@ -19,6 +19,11 @@ Things that are important to me:
 <br/>
 
 ## My Published Books
+
+My Amazon author page can be found [here](https://www.amazon.co.uk/s?i=digital-text&rh=p_27%3AGeorge+Marklow&s=relevancerank&text=George+Marklow&ref=dp_byline_sr_ebooks_1).
+
+<br/>
+
 | Title      | |
 | ----------- | ----------- |
 | [Best Practices for Software Engineers, A Soft-Skills Guide for Junior Developers, ISBN: 979-8698789635](https://www.amazon.co.uk/Best-Practices-Software-Engineers-Soft-Skills-ebook/dp/B08L17JZCH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1606414420&sr=1-1-69f2aa40-4718-4485-ba0d-6c4119696677)  | <img src="https://m.media-amazon.com/images/I/31OLdbnU-uL.jpg" width="100">        |
