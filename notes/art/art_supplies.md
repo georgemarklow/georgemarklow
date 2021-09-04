@@ -33,7 +33,19 @@
 
 - [Daler-Rowney Simply Canvas Panel A1 Pack of 3](https://www.canvas-store.co.uk/collections/canvas-board/size_co_33-1-x-23-3-84-1cm-x-59-4cm)
 
+<br/>
+
 ## Canvas
+
+### Premium
+
+- [Daler-Rowney (24 & 32 in sq)](https://www.cassart.co.uk/canvas-surfaces/cotton-canvas/daler-rowney-artist-canvas.htm)
+- [Daler-Rowney Simply Cotton (24 in)](https://www.cassart.co.uk/canvas-surfaces/cotton-canvas/daler-rowney-simply-cotton-canvas.htm)
+- [Winsor & Newton Deep Edge Canvas (24 & 30 in)](https://www.cassart.co.uk/painting/surfaces/cotton-canvas/winsor-newton-classic-cotton-deep-edge-canvas.htm?nosto=frontpage-nosto-1)
+- [Loxley 36 in sq](https://www.amazon.co.uk/Loxley-36-inch-Ashgate-Stretched-Artists/dp/B00GA36IAM/ref=sr_1_5?dchild=1)
+- [Loxley 40 in sq](https://www.amazon.co.uk/Loxley-40-inch-Ashgate-Stretched-Artists/dp/B00GA36O2Y/ref=sr_1_22?dchild=1)
+
+<br/>
 
 ### Eono Stretched Canvas
 
