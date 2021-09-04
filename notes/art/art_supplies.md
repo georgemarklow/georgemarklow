@@ -42,8 +42,8 @@
 - [Daler-Rowney (24 & 32 in sq)](https://www.cassart.co.uk/canvas-surfaces/cotton-canvas/daler-rowney-artist-canvas.htm)
 - [Daler-Rowney Simply Cotton (24 in)](https://www.cassart.co.uk/canvas-surfaces/cotton-canvas/daler-rowney-simply-cotton-canvas.htm)
 - [Winsor & Newton Deep Edge Canvas (24 & 30 in)](https://www.cassart.co.uk/painting/surfaces/cotton-canvas/winsor-newton-classic-cotton-deep-edge-canvas.htm?nosto=frontpage-nosto-1)
-- [Loxley 36 in sq](https://www.amazon.co.uk/Loxley-36-inch-Ashgate-Stretched-Artists/dp/B00GA36IAM/ref=sr_1_5?dchild=1)
-- [Loxley 40 in sq](https://www.amazon.co.uk/Loxley-40-inch-Ashgate-Stretched-Artists/dp/B00GA36O2Y/ref=sr_1_22?dchild=1)
+- [Loxley (36 in sq)](https://www.amazon.co.uk/Loxley-36-inch-Ashgate-Stretched-Artists/dp/B00GA36IAM/ref=sr_1_5?dchild=1)
+- [Loxley (40 in sq)](https://www.amazon.co.uk/Loxley-40-inch-Ashgate-Stretched-Artists/dp/B00GA36O2Y/ref=sr_1_22?dchild=1)
 
 <br/>
 
@@ -75,4 +75,5 @@
 - [20cm x 20cm](https://www.amazon.co.uk/JeogYong-Unfinished-Painting-Creative-Homemade/dp/B08G4D1BV8/ref=sr_1_4?dchild=1&keywords=mdf+board+50xm&qid=1625401728&s=kitchen&sr=1-4)
 - [25cm x 25cm](https://www.amazon.co.uk/Wooden-Canvas-Pack-Painting-Encaustic/dp/B081X5376R/ref=pd_bxgy_img_1/259-6252581-6164219?pd_rd_w=W5MmO&pf_rd_p=e5130b5a-1765-4699-bcba-dfad57398256&pf_rd_r=RTY0GJNHV5RCGDAGQ5M8&pd_rd_r=50918620-737c-4b89-b9ff-8bb1e389ad6f&pd_rd_wg=oK9yh&pd_rd_i=B081X5376R&psc=1)
 - [30cm x 30cm](https://www.amazon.co.uk/Wooden-Canvas-Pack-Painting-Encaustic/dp/B081X5DFJX/ref=pd_bxgy_1/259-6252581-6164219?pd_rd_w=uI6jR&pf_rd_p=e5130b5a-1765-4699-bcba-dfad57398256&pf_rd_r=M5S9Q2YBVQPRAE2VD5FS&pd_rd_r=a15d12ed-8cd0-445a-be5b-ea7719ac9906&pd_rd_wg=Z22LW&pd_rd_i=B081X5DFJX&psc=1)
+- [50 cm x 50 cm](https://www.cassart.co.uk/painting/surfaces/wooden-painting-boards/global-artist-panel-unprimed.htm?refSrc=P033725&nosto=frontpage-nosto-1)
 
