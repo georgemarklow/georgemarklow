@@ -2,6 +2,15 @@
 
 ## Paints
 
+### Premium
+
+- [Liquitex Heavy Body Acrylic 4oz](https://www.amazon.co.uk/Liquitex-Professional-Heavy-Acrylic-Titanium/dp/B000YQMDFU/ref=sr_1_4?crid=269APZFP649S&dchild=1&keywords=liquitex+heavy+body+acrylic+paint&qid=1630745057&s=kitchen&sprefix=liquitex+hea%2Ckitchen%2C198&sr=1-4)
+- [Arteza](https://www.amazon.co.uk/dp/B08JZF73SV/ref=syn_sd_onsite_desktop_73?uh_it=a7e51b2ecf593d7901796dde0130b856_CT&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSE9BTFlWMExFV0RJJmVuY3J5cHRlZElkPUEwMjQxMTA3MlRaNjcwWUpSSEcyNiZlbmNyeXB0ZWRBZElkPUEwNTQ1OTYyQjkwMVZXWUlHVlhJJndpZGdldE5hbWU9c2Rfb25zaXRlX2Rlc2t0b3AmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
+
+<br/>
+
+### Budget
+
 - [Chalkola Acrylic Paint Set for Adults, Kids and Artists - 32 Acrylic Paint kit](https://www.amazon.co.uk/dp/B07YP8MQZM/ref=sspa_dk_detail_5?psc=1&pd_rd_i=B07YP8MQZM&pd_rd_w=czEaB&pf_rd_p=8d6f1b33-e9e1-48a7-9bf6-fb23b68a35eb&pd_rd_wg=rcJ9y&pf_rd_r=WMT2S9KG45HRHFMBFKYQ&pd_rd_r=de2939ab-2d2a-48c1-b44d-fa54aa67e297&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMFJFSU5WVzE5R1FIJmVuY3J5cHRlZElkPUEwNTE2Nzk4QTFVSk80VEdIMzBBJmVuY3J5cHRlZEFkSWQ9QTAzNjE4MTExM01JRTRZOUZBMjVXJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 - [Cass Art Acrylic](https://www.cassart.co.uk/painting/acrylic-colour/acrylic-paint/cass-art-studio-acrylic.htm) 
 
