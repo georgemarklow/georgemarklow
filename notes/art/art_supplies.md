@@ -34,7 +34,7 @@
 
 ## Oil Sticks
 
-- [SENNELIER EXTRA FINE OIL STICK](https://www.canvas-store.co.uk/collections/canvas-board/products/daler-simply-canvas-panel-a1)
+- [SENNELIER EXTRA FINE OIL STICK](https://www.cassart.co.uk/painting/oil-colour/product-type-paint/sennelier-extra-fine-oil-stick.htm)
 
 <br/>
 
