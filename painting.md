@@ -4,6 +4,15 @@
 
 <br/>
 
+
+## Studying in Isolation 
+
+### Acrylics (80 cm sq)
+
+<img src="https://user-images.githubusercontent.com/11710404/133500811-0e6d4485-f9bd-4d7d-ae4a-f065c94d7477.png" width="1000" />
+
+<br/>
+
 ## Folded Handkerchief
 
 ### Acrylics
