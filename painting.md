@@ -13,6 +13,14 @@
 
 <br/>
 
+## Arctic Waves 
+
+### Acrylics (30 cm sq)
+
+<img src="https://user-images.githubusercontent.com/11710404/134386712-5fed822f-5e64-4c92-97ba-2562929eeab5.jpeg" width="600" />
+
+<br/>
+
 ## Folded Handkerchief
 
 ### Acrylics
