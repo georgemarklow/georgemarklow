@@ -1,9 +1,6 @@
 # My Artwork
 
-<img src="https://user-images.githubusercontent.com/11710404/124015385-827a0780-d9dc-11eb-9eb4-d8fe16d69321.png" width="1000" />
-
 <br/>
-
 
 ## Studying in Isolation 
 
