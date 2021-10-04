@@ -11,6 +11,14 @@
 
 <br/>
 
+## Azure Series no. 3
+
+### Acrylics (60 cm sq)
+
+<img src="https://user-images.githubusercontent.com/11710404/135861379-62f4b5cc-38de-4f43-9f21-53930f04c3c1.png" width="600" />
+
+<br/>
+
 ## Studying in Isolation 
 
 ### Acrylics (80 cm sq)
