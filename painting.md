@@ -2,6 +2,13 @@
 
 <br/>
 
+## Abstract Field of Tulips
+
+### Acrylics (100 cm sq)
+
+<img src="https://user-images.githubusercontent.com/11710404/136277667-6a38e8f1-4669-4c84-bfc3-285127218072.png" width="1000" />
+
+<br/>
 
 ## Azure Series no. 2
 
