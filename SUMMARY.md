@@ -109,6 +109,9 @@ https://www.inspiringthefuture.org/
 - [How to Create a Rainbow Canvas in Acrylics with Masking Tape](https://marklowg.medium.com/how-to-create-a-rainbow-canvas-in-acrylics-with-masking-tape-711d6e188c7a)
 - [A Surprisingly Simple Technique to Generate Ideas for Abstract Paintings](https://marklowg.medium.com/a-surprisingly-simple-technique-to-generate-ideas-for-abstract-paintings-1c8262038dc6)
 
+### Personal Development
+- [A Values System is Good for You and Your Career: Here's Why](https://marklowg.medium.com/a-values-system-is-good-for-you-and-your-career-heres-why-56d298154842)
+
 ### General
 - [The Top 10 Checks You Should Do Before Raising a Pull Request](https://marklowg.medium.com/the-top-10-checks-you-should-do-before-raising-a-pull-request-6dea166515ac)
 - [Mining for Knowledge, Understanding, and Best Practices](https://marklowg.medium.com/mining-for-knowledge-understanding-and-best-practices-ff0fa27604df)
