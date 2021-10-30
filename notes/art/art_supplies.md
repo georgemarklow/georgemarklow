@@ -4,6 +4,7 @@
 
 ### Premium
 
+- [Sennelier Abstract Acrylic](https://www.amazon.co.uk/Sennelier-Abstract-Acrylic-Paint-Primary/dp/B018O3L47C/ref=sr_1_19?dchild=1&keywords=sennelier+abstract&qid=1635606427&qsid=259-6252581-6164219&s=kitchen&sr=1-19&sres=B075D8QQJG%2CB019QZRBAG%2CB019QZRD8Q%2CB018PN7FMO%2CB018PN77PO%2CB073S8FGGR%2CB0752WPCGH%2CB0825CPSR4%2CB011L010XS%2CB076MSW2M9%2CB011KZW3OO%2CB011L00LFG%2CB011L00VJC%2CB011L01K0Q%2CB011L03UB8%2CB011KZW9BQ%2CB011L00Q6A%2CB018O3L47C%2CB018PN7APQ%2CB011L01ALA)
 - [Liquitex Heavy Body Acrylic 4oz](https://www.amazon.co.uk/Liquitex-Professional-Heavy-Acrylic-Titanium/dp/B000YQMDFU/ref=sr_1_4?crid=269APZFP649S&dchild=1&keywords=liquitex+heavy+body+acrylic+paint&qid=1630745057&s=kitchen&sprefix=liquitex+hea%2Ckitchen%2C198&sr=1-4)
 - [Arteza](https://www.amazon.co.uk/dp/B08JZF73SV/ref=syn_sd_onsite_desktop_73?uh_it=a7e51b2ecf593d7901796dde0130b856_CT&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSE9BTFlWMExFV0RJJmVuY3J5cHRlZElkPUEwMjQxMTA3MlRaNjcwWUpSSEcyNiZlbmNyeXB0ZWRBZElkPUEwNTQ1OTYyQjkwMVZXWUlHVlhJJndpZGdldE5hbWU9c2Rfb25zaXRlX2Rlc2t0b3AmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
 
@@ -48,7 +49,6 @@
 
 - [60 x 60cm](https://www.canvas-store.co.uk/collections/square-canvas/size_by_23-6-x-23-6-60cm-x-60cm)
 - [24 x 24in](https://www.canvas-store.co.uk/collections/square-canvas/size_cd_24-x-24-60-9cm-x-60-9cm)
-<br/>
 - [Daler-Rowney (24 & 32 in sq)](https://www.cassart.co.uk/canvas-surfaces/cotton-canvas/daler-rowney-artist-canvas.htm)
 - [Daler-Rowney Simply Cotton (24 in)](https://www.cassart.co.uk/canvas-surfaces/cotton-canvas/daler-rowney-simply-cotton-canvas.htm)
 - [Winsor & Newton Deep Edge Canvas (24 & 30 in)](https://www.cassart.co.uk/painting/surfaces/cotton-canvas/winsor-newton-classic-cotton-deep-edge-canvas.htm?nosto=frontpage-nosto-1)
