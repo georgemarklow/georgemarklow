@@ -48,6 +48,9 @@
 
 ### Premium
 
+- [60 x 60cm](https://www.canvas-store.co.uk/collections/square-canvas/size_by_23-6-x-23-6-60cm-x-60cm)
+- [24 x 24in](https://www.canvas-store.co.uk/collections/square-canvas/size_cd_24-x-24-60-9cm-x-60-9cm)
+<br/>
 - [Daler-Rowney (24 & 32 in sq)](https://www.cassart.co.uk/canvas-surfaces/cotton-canvas/daler-rowney-artist-canvas.htm)
 - [Daler-Rowney Simply Cotton (24 in)](https://www.cassart.co.uk/canvas-surfaces/cotton-canvas/daler-rowney-simply-cotton-canvas.htm)
 - [Winsor & Newton Deep Edge Canvas (24 & 30 in)](https://www.cassart.co.uk/painting/surfaces/cotton-canvas/winsor-newton-classic-cotton-deep-edge-canvas.htm?nosto=frontpage-nosto-1)
