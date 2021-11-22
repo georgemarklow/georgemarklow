@@ -45,7 +45,13 @@
 
 <br/>
 
-## Canvas
+## Wooden Canvas
+
+- [Seawhite Unprimed Cradled Panels - Packs of 3](https://artdiscount.co.uk/products/seawhite-unprimed-cradled-panels-18-20mm-approx)
+
+<br/>
+
+## Cotton Canvas
 
 - [60 x 60cm](https://www.canvas-store.co.uk/collections/square-canvas/size_by_23-6-x-23-6-60cm-x-60cm)
 - [24 x 24in](https://www.canvas-store.co.uk/collections/square-canvas/size_cd_24-x-24-60-9cm-x-60-9cm)
