@@ -4,6 +4,17 @@ This is my personal wiki that I'm growing.
 
 <br/>
 
+## Contents
+
+- [My Values](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#my-values)
+- [My Published Books](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#my-published-books)
+- [Public Engagement](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#public-engagement)
+- [Articles I've Published](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#articles-ive-published)
+- [Certifications](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#certifications)
+- [Notes](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#notes)
+
+<br/>
+
 ## My values
 
 Things that are important to me:
