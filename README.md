@@ -3,8 +3,8 @@
 #### I'm a software engineer, author, blogger, and abstract artist who believes in helping others to make us happier and healthier.
 
 ##### Blogs
-- 📝 Technical articles (C#, TypeScript, Angular) are [**here**](codeproject.com/Articles/georgemarklow#Article)
-- 📝 General articles are [**here**](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#articles-ive-published)
+- 📝 [Technical articles (C#, TypeScript, Angular)](codeproject.com/Articles/georgemarklow#Article)
+- 📝 [General articles](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#articles-ive-published)
 
 ##### Publications
 - 📚 [Best Practices for Software Engineers, A Soft-Skills Guide for Junior Developers, ISBN: 979-8698789635](https://www.amazon.co.uk/Best-Practices-Software-Engineers-Soft-Skills-ebook/dp/B08L17JZCH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1606414420&sr=1-1-69f2aa40-4718-4485-ba0d-6c4119696677)
@@ -12,6 +12,6 @@
 
 ##### About Me
 - 🌱 My skills are C#, Javascript, Typescript, Angular, NgRx and RxJs
-- 💬 Ask me about **Software Engineering**, **Becoming an Author** and **Public Speaking**! 
-- 🎨 In 2021 I started a business on Etsy selling abstract art [**here**](https://www.porgiepuddingandpie.com/gallery) and all my artwork can be found [here](https://www.instagram.com/george.marklow.art/)
+- 💬 Ask me about **Software Engineering**, **Blogging**, **Authoring** and [Public Speaking](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#articles-ive-published)! 
+- 🎨 In 2021 I started a business on Etsy selling abstract art [here](https://www.porgiepuddingandpie.com/gallery) and all my artwork can be found [here](https://www.instagram.com/george.marklow.art/)
 - ✋ I'm a volunteer with Inspiring the Future.
