@@ -4,7 +4,7 @@
 
 ##### Blogs
 - 📝 Technical articles (C#, TypeScript, Angular) are [**here**](codeproject.com/Articles/georgemarklow#Article)
-- 📝 General articles are here [**here**](https://marklowg.medium.com/).
+- 📝 General articles are [**here**](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#articles-ive-published)
 
 ##### Publications
 - 📚 [Best Practices for Software Engineers, A Soft-Skills Guide for Junior Developers, ISBN: 979-8698789635](https://www.amazon.co.uk/Best-Practices-Software-Engineers-Soft-Skills-ebook/dp/B08L17JZCH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1606414420&sr=1-1-69f2aa40-4718-4485-ba0d-6c4119696677)
