@@ -3,7 +3,7 @@
 #### I'm a software engineer, author, blogger, and abstract artist who believes in helping others to make us happier and healthier.
 
 #### Blogs
-- 📝 [Technical articles (C#, TypeScript, Angular)](codeproject.com/Articles/georgemarklow#Article)
+- 📝 [Technical articles (C#, TypeScript, Angular)](https://codeproject.com/Articles/georgemarklow#Article)
 - 📝 [General articles](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#articles-ive-published)
 
 #### Publications
