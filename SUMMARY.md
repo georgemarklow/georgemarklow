@@ -115,7 +115,7 @@ https://www.inspiringthefuture.org/
 - [A Very Short Introduction to Software Testing](https://marklowg.medium.com/a-very-short-introduction-to-software-testing-5e5573ef4d16)
 - [A 5-Step Process to Move Towards a Unit Testing Culture in Development Teams](https://marklowg.medium.com/a-5-step-process-to-move-towards-a-unit-testing-culture-in-development-teams-5a35ff2a7062)
 
-### Other
+#### Productivity
 - [Mining for Knowledge, Understanding, and Best Practices](https://marklowg.medium.com/mining-for-knowledge-understanding-and-best-practices-ff0fa27604df)
 - [A System to Organise My Priorities Through Sticky Notes](https://marklowg.medium.com/a-system-to-organise-my-priorities-through-sticky-notes-ad276257fd4c)
 - [Blogging Towards a ‘Personal Infrastructure’](https://marklowg.medium.com/blogging-towards-a-personal-infrastructure-e8779f023ba4)
