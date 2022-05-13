@@ -63,68 +63,59 @@ https://www.inspiringthefuture.org/
 
 ## Articles I've Published
 
-### Agile
-- [Leading Agile Project Estimation with PlanITPoker](https://marklowg.medium.com/leading-agile-project-estimation-with-planitpoker-de87198ddcf1)
+### Coding
 
-### Azure DevOps
+#### Angular / NgRx
+- todo
+
+#### RxJS
+- [RxJS Fundamentals— Part 1](https://marklowg.medium.com/rxjs-fundamentals-part-1-43364c5ebd49)
+
+#### C#
+- [Packing and Unpacking with C# Tuples](https://marklowg.medium.com/packing-and-unpacking-with-c-tuples-e2d07b44d993)
+- [Write Clear Unit Tests with C# Builders and Method Chaining](https://marklowg.medium.com/write-clear-unit-tests-with-c-builders-and-method-chaining-844b1f6b4467)
+- [Supercharge Your Test Coverage with NUnit’s TestCase Attribute](https://marklowg.medium.com/supercharge-your-test-coverage-with-nunits-testcase-attribute-303a9140b41a)
+
+#### Git
+- [Drills in Git — Part 1](https://marklowg.medium.com/drills-in-git-part-1-a08a011794a6)
+
+#### TypeScript
+- [Enums in TypeScript](https://marklowg.medium.com/enums-in-typescript-16c58ea9e76)
+
+#### SQL
+- [Creating SQL Server Re-Runnable Scripts](https://marklowg.medium.com/creating-sql-server-re-runnable-scripts-b73da6bdf8f9)
+
+#### JavaScript
+- [Arrow functions, and Array map and reduce Operations: An Introduction to Vector Algebra with JavaScript — Part 1](https://marklowg.medium.com/arrow-functions-and-array-map-and-reduce-operations-an-introduction-to-vector-algebra-with-31982baabf0)
+- [A Beginners Guide to Creating a TypeScript library and a Github Repository](https://marklowg.medium.com/a-beginners-guide-to-creating-a-typescript-library-and-a-github-repository-26ae3f1540ad)
+
+#### ElasticStack
+- [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
+
+#### Azure
 - [Creating Your First Sprint Retrospective with Azure DevOps](https://marklowg.medium.com/creating-your-first-sprint-retrospective-with-azure-devops-41362e4bac3b)
 - [Azure DevOps: Setting up Sprints with Boards](https://marklowg.medium.com/azure-devops-setting-up-sprints-with-boards-97572ea3c4a0)
 - [Enforce Best Practices when Raising Bugs with Azure DevOps Templates](https://marklowg.medium.com/enforce-best-practices-when-raising-bugs-with-azure-devops-templates-3b6bb066267c)
+- [The Top 10 Checks You Should Do Before Raising a Pull Request](https://marklowg.medium.com/the-top-10-checks-you-should-do-before-raising-a-pull-request-6dea166515ac)
 
-### Team-Building
+### General
+
+#### Agile
+- [Leading Agile Project Estimation with PlanITPoker](https://marklowg.medium.com/leading-agile-project-estimation-with-planitpoker-de87198ddcf1)
+
+#### Team-Building
 - [You Won’t Believe How Easy Remote Team-Building Can Be With These 10 Simple Ideas](https://marklowg.medium.com/you-wont-believe-how-easy-remote-team-building-can-be-with-these-10-simple-ideas-ac60f90a1847)
 - [Asynchronous and Synchronous Working, Attention Fatigue, and Striking a Good Work-from-Home Balance: Lessons from ‘Leading Remote and Virtual Teams’](https://marklowg.medium.com/asynchronous-and-synchronous-working-attention-fatigue-and-striking-a-good-work-from-home-2b92a0a21d3c)
 
-### Presenting
+#### Presenting
 - [Delivering a Fearless Webinar: The Feeling of 30 Minutes in Freefall](https://marklowg.medium.com/delivering-a-fearless-webinar-the-feeling-of-30-minutes-in-freefall-7f584e8fea1e)
 - [Delivering Tech Showcase Presentations](https://marklowg.medium.com/delivering-tech-showcase-presentations-45e266033789)
 
-### Testing
-- [Write Clear Unit Tests with C# Builders and Method Chaining](https://marklowg.medium.com/write-clear-unit-tests-with-c-builders-and-method-chaining-844b1f6b4467)
-- [Supercharge Your Test Coverage with NUnit’s TestCase Attribute](https://marklowg.medium.com/supercharge-your-test-coverage-with-nunits-testcase-attribute-303a9140b41a)
+#### Testing
 - [A Very Short Introduction to Software Testing](https://marklowg.medium.com/a-very-short-introduction-to-software-testing-5e5573ef4d16)
 - [A 5-Step Process to Move Towards a Unit Testing Culture in Development Teams](https://marklowg.medium.com/a-5-step-process-to-move-towards-a-unit-testing-culture-in-development-teams-5a35ff2a7062)
 
-### C#
-- [Packing and Unpacking with C# Tuples](https://marklowg.medium.com/packing-and-unpacking-with-c-tuples-e2d07b44d993)
-
-### Git
-
-- [Drills in Git — Part 1](https://marklowg.medium.com/drills-in-git-part-1-a08a011794a6)
-
-### RxJS
-- [RxJS Fundamentals— Part 1](https://marklowg.medium.com/rxjs-fundamentals-part-1-43364c5ebd49)
-
-### TypeScript
-- [Enums in TypeScript](https://marklowg.medium.com/enums-in-typescript-16c58ea9e76)
-
-### JavaScript
-- [Arrow functions, and Array map and reduce Operations: An Introduction to Vector Algebra with JavaScript — Part 1](https://marklowg.medium.com/arrow-functions-and-array-map-and-reduce-operations-an-introduction-to-vector-algebra-with-31982baabf0)
-- [A Beginners Guide to Creating a TypeScript library and a Github Repository](https://marklowg.medium.com/a-beginners-guide-to-creating-a-typescript-library-and-a-github-repository-26ae3f1540ad)
-- [Part 1: Strings](https://marklowg.medium.com/javascript-drills-part-1-strings-2acdfe9727e0)
-- [Part 2: Numbers](https://marklowg.medium.com/javascript-drills-part-2-numbers-c8de40744c3f)
-- [Part 3: Functions and Control Flow](https://marklowg.medium.com/javascript-drills-part-3-functions-and-control-flow-ec38e1eca8cd)
-- [Part 4: Arrays](https://marklowg.medium.com/javascript-drills-part-4-arrays-1f7ecd6de035)
-- [Part 5: Math Library](https://marklowg.medium.com/javascript-drills-part-5-math-library-b9077f1a1f70)
-- [Part 6: JSON](https://marklowg.medium.com/javascript-drills-part-6-json-b710d82a5168)
-- [Part 7: Classes and Objects](https://marklowg.medium.com/javascript-drills-part-7-classes-and-objects-be43eebe1c46)
-  
-### ElasticStack
-- [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
-
-### SQL
-- [Creating SQL Server Re-Runnable Scripts](https://marklowg.medium.com/creating-sql-server-re-runnable-scripts-b73da6bdf8f9)
-
-### Painting
-- [Abstract Corals in Acrylics: How to Build Texture with Bubble Wrap](https://marklowg.medium.com/abstract-corals-in-acrylics-how-to-build-texture-with-bubble-wrap-84afe46eeb25)
-- [How to Create a Rainbow Canvas in Acrylics with Masking Tape](https://marklowg.medium.com/how-to-create-a-rainbow-canvas-in-acrylics-with-masking-tape-711d6e188c7a)
-- [A Surprisingly Simple Technique to Generate Ideas for Abstract Paintings](https://marklowg.medium.com/a-surprisingly-simple-technique-to-generate-ideas-for-abstract-paintings-1c8262038dc6)
-
-### Personal Development
-- [A Values System is Good for You and Your Career: Here's Why](https://marklowg.medium.com/a-values-system-is-good-for-you-and-your-career-heres-why-56d298154842)
-
-### General
-- [The Top 10 Checks You Should Do Before Raising a Pull Request](https://marklowg.medium.com/the-top-10-checks-you-should-do-before-raising-a-pull-request-6dea166515ac)
+### Other
 - [Mining for Knowledge, Understanding, and Best Practices](https://marklowg.medium.com/mining-for-knowledge-understanding-and-best-practices-ff0fa27604df)
 - [A System to Organise My Priorities Through Sticky Notes](https://marklowg.medium.com/a-system-to-organise-my-priorities-through-sticky-notes-ad276257fd4c)
 - [Blogging Towards a ‘Personal Infrastructure’](https://marklowg.medium.com/blogging-towards-a-personal-infrastructure-e8779f023ba4)
@@ -138,6 +129,12 @@ https://www.inspiringthefuture.org/
 - [Using Quizlet to Memorise Commands, IDE Shortcuts, and other things for Software Engineers](https://marklowg.medium.com/using-quizlet-to-memorise-commands-ide-shortcuts-and-other-things-for-software-engineers-cf110465d067)
 - [Algorithms in Colour…Fun for the Whole Family!](https://marklowg.medium.com/algorithms-in-colour-fun-for-the-whole-family-eb18dbb8f55a)
 - [Three Things to Help Control a Preoccupation with Body Image. Unlock the Blessings of Mental Health Techniques to Live a Happier Life.](https://marklowg.medium.com/three-things-to-help-control-a-preoccupation-with-body-image-874a19b24ece)
+- [A Values System is Good for You and Your Career: Here's Why](https://marklowg.medium.com/a-values-system-is-good-for-you-and-your-career-heres-why-56d298154842)
+
+#### Painting
+- [Abstract Corals in Acrylics: How to Build Texture with Bubble Wrap](https://marklowg.medium.com/abstract-corals-in-acrylics-how-to-build-texture-with-bubble-wrap-84afe46eeb25)
+- [How to Create a Rainbow Canvas in Acrylics with Masking Tape](https://marklowg.medium.com/how-to-create-a-rainbow-canvas-in-acrylics-with-masking-tape-711d6e188c7a)
+- [A Surprisingly Simple Technique to Generate Ideas for Abstract Paintings](https://marklowg.medium.com/a-surprisingly-simple-technique-to-generate-ideas-for-abstract-paintings-1c8262038dc6)
 
 <br/>
 
