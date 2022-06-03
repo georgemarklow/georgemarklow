@@ -152,7 +152,15 @@ https://www.inspiringthefuture.org/
 
 <br/>
 
-## Notes
+## Links
+### OWASP
+- [ASP.NET MVC and OWASP Top 10](https://www.youtube.com/watch?v=9axMEzeTBic)
+- [How to prevent OWASP top 10 security risk using Asp.Net Core](https://www.youtube.com/watch?v=3_OrSrhybzQ)
+- [OWASP Top 10: #1 - Injection. The risk explained.](https://www.youtube.com/watch?v=PfT9qPh1r2c)
+- [OWASP Top 10: #2 -- Cross Site Scripting (XSS). How to prevent attack.](https://www.youtube.com/watch?v=XvbN8hQVLOM)
+- [OWASP Top 10 #3 - Broken Authentication and Session Management.](https://www.youtube.com/watch?v=HsExXjBhR0Y)
+
+## Other Notes
 
 - [Angular](notes/angular.md)
 - [APIs](notes/api.md)
