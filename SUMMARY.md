@@ -160,6 +160,8 @@ https://www.inspiringthefuture.org/
 - [OWASP Top 10: #2 -- Cross Site Scripting (XSS). How to prevent attack.](https://www.youtube.com/watch?v=XvbN8hQVLOM)
 - [OWASP Top 10 #3 - Broken Authentication and Session Management.](https://www.youtube.com/watch?v=HsExXjBhR0Y)
 
+<br/>
+
 ## Other Notes
 
 - [Angular](notes/angular.md)
