@@ -168,6 +168,21 @@ https://www.inspiringthefuture.org/
 - [Secure a .NET Core API with Bearer Authentication](https://www.youtube.com/watch?v=3PyUjOmuFic)
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
 
+### Azure DevOps
+- [Step by Step - Use Azure DevOps to Test, Build and Deploy an API - YouTube](https://www.youtube.com/watch?v=SOtC1VLZKm4&t=3746s)
+- [Azure Pipelines documentation - Azure DevOps | Microsoft Docs](https://docs.microsoft.com/en-gb/azure/devops/pipelines/?view=azure-devops)
+- [List of Recommended Azure DevOps Resources | by Aaron (Ari) Bornstein | Microsoft Azure | Medium](https://medium.com/microsoftazure/aris-recommended-azure-dev-ops-resources-a6d819c4935e)
+- [PULL REQUEST WORKFLOW in AZURE DEVOPS - Raising a PR, Reviewing and Setting up Branch Policies - YouTube](https://www.youtube.com/watch?v=dGCid5W-HK0)
+
+### REST API
+- [Step by Step Tutorial - .Net Core MVC REST API - YouTube](https://www.youtube.com/watch?v=mUAZ-EbGBOg&t=1358s)
+- [Develop a REST API with .Net Core - Dotnet Playbook](https://dotnetplaybook.com/develop-a-rest-api-with-net-core/)
+- [.NET 5 REST API Tutorial - Build From Scratch With C# - YouTube](https://www.youtube.com/watch?v=ZXdFisA_hOY)
+
+### Swagger
+- [Swagger in ASP.Net Core (Using Swashbuckle.AspNetCore NuGet Package)](https://www.youtube.com/watch?v=jg_e011SjzE)
+- [Add Swagger in ASP .NET Core 5 | Enable Token Bearer functionality in Swagger](https://www.youtube.com/watch?v=nmwUfjtkaTM)
+
 ### Design Patterns
 - [Factory, Abstract Factory, Factory Method - Design Pattern (C#)](https://www.youtube.com/watch?v=xN7EFHU_rXA&list=PLOeFnOV9YBa4ary9fvCULLn7ohNKR6Ees)
 
