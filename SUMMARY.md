@@ -160,6 +160,16 @@ https://www.inspiringthefuture.org/
 - [OWASP Top 10: #2 -- Cross Site Scripting (XSS). How to prevent attack.](https://www.youtube.com/watch?v=XvbN8hQVLOM)
 - [OWASP Top 10 #3 - Broken Authentication and Session Management.](https://www.youtube.com/watch?v=HsExXjBhR0Y)
 
+### .NET Core Security
+-[Authentication and Authorization in Angular and .Net Core](https://www.youtube.com/playlist?list=PLV-DQnYj14bTHO_IonjOOaax_WZjvwQ2F)
+-[ASP.NET Core Web API Authentication and Authorization with JWT (Json Web Token)](https://www.youtube.com/watch?v=kM1fPt1BcLc)
+-[ASP.NET Core 3 - OAuth - Ep.5 JWT Bearer](https://www.youtube.com/watch?v=YC4ewe7Rbl4)
+-[Secure a .NET Core API with Bearer Authentication](https://www.youtube.com/watch?v=3PyUjOmuFic)
+-[ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
+
+### Design Patterns
+- [Factory, Abstract Factory, Factory Method - Design Pattern (C#)](https://www.youtube.com/watch?v=xN7EFHU_rXA&list=PLOeFnOV9YBa4ary9fvCULLn7ohNKR6Ees)
+
 <br/>
 
 ## Other Notes
