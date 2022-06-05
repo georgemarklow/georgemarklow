@@ -154,6 +154,10 @@ https://www.inspiringthefuture.org/
 <br/>
 
 ## Links
+
+### git
+- [Learn Git Version Control using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/git)
+
 ### OWASP
 - [ASP.NET MVC and OWASP Top 10](https://www.youtube.com/watch?v=9axMEzeTBic)
 - [How to prevent OWASP top 10 security risk using Asp.Net Core](https://www.youtube.com/watch?v=3_OrSrhybzQ)
