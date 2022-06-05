@@ -167,6 +167,12 @@ https://www.inspiringthefuture.org/
 ### Node.js
 - [Node.js Playground](https://www.katacoda.com/courses/nodejs/playground)
 
+### Javascript
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+
+### Typescript
+- [TypeScript Tutorial](https://www.typescripttutorial.net/)
+
 ### OWASP
 - [ASP.NET MVC and OWASP Top 10](https://www.youtube.com/watch?v=9axMEzeTBic)
 - [How to prevent OWASP top 10 security risk using Asp.Net Core](https://www.youtube.com/watch?v=3_OrSrhybzQ)
