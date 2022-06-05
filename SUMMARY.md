@@ -158,6 +158,15 @@ https://www.inspiringthefuture.org/
 ### git
 - [Learn Git Version Control using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/git)
 
+### Terraform
+- [Terraform Playground](https://www.katacoda.com/courses/terraform/playground)
+
+### VS Code
+- [Visual Studio Code Playground](https://www.katacoda.com/courses/vscode/playground)
+
+### Node.js
+- [Node.js Playground](https://www.katacoda.com/courses/nodejs/playground)
+
 ### OWASP
 - [ASP.NET MVC and OWASP Top 10](https://www.youtube.com/watch?v=9axMEzeTBic)
 - [How to prevent OWASP top 10 security risk using Asp.Net Core](https://www.youtube.com/watch?v=3_OrSrhybzQ)
