@@ -76,6 +76,7 @@ https://www.inspiringthefuture.org/
 - [Packing and Unpacking with C# Tuples](https://marklowg.medium.com/packing-and-unpacking-with-c-tuples-e2d07b44d993)
 - [Write Clear Unit Tests with C# Builders and Method Chaining](https://marklowg.medium.com/write-clear-unit-tests-with-c-builders-and-method-chaining-844b1f6b4467)
 - [Supercharge Your Test Coverage with NUnit’s TestCase Attribute](https://marklowg.medium.com/supercharge-your-test-coverage-with-nunits-testcase-attribute-303a9140b41a)
+- [C# Drills for Interview Preparation](https://marklowg.medium.com/c-drills-for-interview-preparation-156a1aad8c2a)
 
 #### Git
 - [Drills in Git — Part 1](https://marklowg.medium.com/drills-in-git-part-1-a08a011794a6)
