@@ -54,11 +54,13 @@ A webinar I'm doing to advise students looking to become developers:
 <br/>
 
 ### Inspiring the Future 
-Dec 2020 - Apr 2021
+Dec 2020 - Present
 <br/>
 Volunteer speaker at schools and colleges regarding careers in software and answering questions from audiences.
 <br/>
 https://www.inspiringthefuture.org/
+
+- 17 June 2022: **West London College**, Careers Event
 
 <br/>
 
