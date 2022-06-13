@@ -2,6 +2,9 @@
 
 #### I'm a software engineer, author, blogger, and abstract artist who believes in helping others to make us happier and healthier.
 
+#### HackerRank Profile
+- 📚 Here is my [HackerRank Profile](https://www.hackerrank.com/marklowg)
+
 #### Blogs
 - 📝 Find my blog articles [here](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#articles-ive-published)
 
