@@ -93,6 +93,9 @@ https://www.inspiringthefuture.org/
 - [Arrow functions, and Array map and reduce Operations: An Introduction to Vector Algebra with JavaScript — Part 1](https://marklowg.medium.com/arrow-functions-and-array-map-and-reduce-operations-an-introduction-to-vector-algebra-with-31982baabf0)
 - [A Beginners Guide to Creating a TypeScript library and a Github Repository](https://marklowg.medium.com/a-beginners-guide-to-creating-a-typescript-library-and-a-github-repository-26ae3f1540ad)
 
+#### Python
+- [Python Drills for Interview Preparation](https://marklowg.medium.com/python-drills-for-interview-preparation-62196676a306)
+
 #### ElasticStack
 - [Installing Elasticsearch and Kibana on MacOS](https://marklowg.medium.com/installing-elasticsearch-and-kibana-on-macos-163d8622c1f1)
 
