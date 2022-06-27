@@ -3,7 +3,7 @@
 #### I'm a software engineer, author, blogger, and abstract artist who believes in helping others to make us happier and healthier.
 
 #### Blogs
-- 📝 Find my blog articles [here](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#articles-ive-published)
+- 📝 Find my blog articles [here](https://medium.com/@marklowg)
 
 #### Publications
 - 📚 [Best Practices for Software Engineers, A Soft-Skills Guide for Junior Developers, ISBN: 979-8698789635](https://www.amazon.co.uk/Best-Practices-Software-Engineers-Soft-Skills-ebook/dp/B08L17JZCH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1606414420&sr=1-1-69f2aa40-4718-4485-ba0d-6c4119696677)
