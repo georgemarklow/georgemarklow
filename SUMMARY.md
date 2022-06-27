@@ -60,7 +60,9 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 <br/>
 https://www.inspiringthefuture.org/
 
-- 17 June 2022: **West London College**, Careers Event
+- 04 July 2022: **Camden School for Girls**, Software Careers Presentation
+- 04 July 2022: **Harris Battersea Acadmey**, Careers Event
+- 07 July 2022: **Harris Battersea Acadmey**, Software Careers Presentation for Years 7 to 11
 
 <br/>
 
