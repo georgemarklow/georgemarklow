@@ -60,6 +60,11 @@ Volunteer speaker at schools and colleges regarding careers in software and answ
 <br/>
 https://www.inspiringthefuture.org/
 
+- 18 Jan 2021: **Westminster Kingsway College**, Careers Q&A over Teams
+- 19 Jan 2021: **St Ninian's School**, Video Presentation on Software Careers
+- 27 Jan 2021: **Heathcote School**, Video Presentation on Software Careers
+- 11 Feb 2021: **Blackpool Sixth**, Video Presentation on Software Careers
+- 29 March 2021: **West London College**, Careers Questionaire
 - 04 July 2022: **Camden School for Girls**, Software Careers Presentation
 - 04 July 2022: **Harris Battersea Acadmey**, Careers Event
 - 07 July 2022: **Harris Battersea Acadmey**, Software Careers Presentation for Years 7 to 11
