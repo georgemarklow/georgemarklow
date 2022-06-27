@@ -14,7 +14,7 @@
 
 #### About Me
 - 🌱 My skills are C#, Javascript, Typescript, Angular, NgRx and RxJs
-- 💬 Ask me about **Software Engineering**, **Blogging**, **Authoring** and [Public Speaking](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#articles-ive-published)! 
+- 💬 Ask me about **Software Engineering**, **Blogging**, **Authoring** and [Public Speaking](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#careers-in-software-engineering)! 
 - 🎨 In 2021 I started a business on Etsy selling abstract art [here](https://www.porgiepuddingandpie.com/gallery) and all my artwork can be found [here](https://www.instagram.com/george.marklow.art/)
 - ✋ See my software careers volunteering [here](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#careers-in-software-engineering).
 - 🩸 I'm a registered [blood donor](https://www.blood.co.uk/)
