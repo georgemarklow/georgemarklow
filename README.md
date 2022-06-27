@@ -2,9 +2,6 @@
 
 #### I'm a software engineer, author, blogger, and abstract artist who believes in helping others to make us happier and healthier.
 
-#### HackerRank Profile
-- 📚 Here is my [HackerRank Profile](https://www.hackerrank.com/marklowg)
-
 #### Blogs
 - 📝 Find my blog articles [here](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#articles-ive-published)
 
@@ -13,7 +10,7 @@
 - 📚 [Drills in JavaScript: Exercises to Quickly Get Back Up To Speed with JavaScript](https://www.amazon.co.uk/Drills-JavaScript-Exercises-Quickly-Speed-ebook/dp/B096WBLJ23/ref=sr_1_1?dchild=1&keywords=drill+in+javascript&qid=1623352070&sr=8-1)
 
 #### About Me
-- 🌱 My skills are C#, Javascript, Typescript, Angular, NgRx and RxJs
+- 🌱 My skills are C#, Javascript, Typescript, Python, Angular, NgRx and RxJs
 - 💬 Ask me about **Software Engineering**, **Blogging**, **Authoring** and [Public Speaking](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#careers-in-software-engineering)! 
 - 🎨 In 2021 I started a business on Etsy selling abstract art [here](https://www.porgiepuddingandpie.com/gallery) and all my artwork can be found [here](https://www.instagram.com/george.marklow.art/)
 - ✋ See my software careers volunteering [here](https://github.com/georgemarklow/georgemarklow/blob/main/SUMMARY.md#careers-in-software-engineering).
