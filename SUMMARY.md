@@ -122,7 +122,7 @@ https://www.inspiringthefuture.org/
 - [Leading Agile Project Estimation with PlanITPoker](https://marklowg.medium.com/leading-agile-project-estimation-with-planitpoker-de87198ddcf1)
 
 #### Best Practices
-- [Qualities of a Good Software Engineer](https://marklowg.medium.com/qualities-of-a-good-software-engineer-3970dc8d266)
+- [Qualities of a Good Software Engineer](https://marklowg.medium.com/qualities-of-a-good-software-engineer-a6b66dfd2d1d)
 
 #### Team-Building
 - [You Won’t Believe How Easy Remote Team-Building Can Be With These 10 Simple Ideas](https://marklowg.medium.com/you-wont-believe-how-easy-remote-team-building-can-be-with-these-10-simple-ideas-ac60f90a1847)
