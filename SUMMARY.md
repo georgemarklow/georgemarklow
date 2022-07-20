@@ -119,6 +119,9 @@ https://www.inspiringthefuture.org/
 - [Enforce Best Practices when Raising Bugs with Azure DevOps Templates](https://marklowg.medium.com/enforce-best-practices-when-raising-bugs-with-azure-devops-templates-3b6bb066267c)
 - [The Top 10 Checks You Should Do Before Raising a Pull Request](https://marklowg.medium.com/the-top-10-checks-you-should-do-before-raising-a-pull-request-6dea166515ac)
 
+#### JSON
+- [Navigating JSON](https://marklowg.medium.com/navigating-json-a58e5957926b)
+
 ### GENERAL
 
 #### Agile
