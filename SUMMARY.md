@@ -78,6 +78,7 @@ https://www.inspiringthefuture.org/
 
 #### Angular / RxJS / NgRx
 - [How to Unit Test Angular NgRx Effects](https://marklowg.medium.com/how-to-unit-test-angular-ngrx-effects-ce5075e870a2)
+- [How to Unit Test an NgRx Reducer](https://marklowg.medium.com/how-to-unit-test-an-ngrx-reducer-f47cd9b55bc2)
 - [How to Unit Test a Custom Angular Pipe](https://marklowg.medium.com/how-to-unit-test-a-custom-angular-pipe-744f20a97f5)
 - [RxJS Fundamentals— Part 1](https://marklowg.medium.com/rxjs-fundamentals-part-1-43364c5ebd49)
 
