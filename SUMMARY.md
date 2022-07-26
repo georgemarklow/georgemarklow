@@ -98,6 +98,7 @@ https://www.inspiringthefuture.org/
 
 #### TypeScript
 - [Enums in TypeScript](https://marklowg.medium.com/enums-in-typescript-16c58ea9e76)
+- [Barebones TypeScript](https://marklowg.medium.com/barebones-typescript-1933923a2830)
 
 #### SQL
 - [Creating SQL Server Re-Runnable Scripts](https://marklowg.medium.com/creating-sql-server-re-runnable-scripts-b73da6bdf8f9)
