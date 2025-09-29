@@ -1,5 +1,9 @@
 #### I'm a software engineer, author, blogger, and abstract artist who believes in helping others to make us happier and healthier.
 
+#### Education
+- M.Sc. Scientific and Data Intensive Computing, University College London (UCL), London, UK (2025-2027)
+- B.Sc. Mathematics, University College London (UCL), London, UK (2007-2010)
+
 #### Blogs
 - 📝 Find my blog articles [here](https://medium.com/@marklowg)
 
